@@ -1,5 +1,5 @@
 pandas
-numpy
+numpy<2
 google-play-scraper
 scikit-learn
 matplotlib

@@ -52,8 +52,6 @@ REPORT_PATH = "outputs/evaluation/indobert_v3_baseline/classification_report.csv
 CONFUSION_MATRIX_PATH = "outputs/evaluation/indobert_v3_baseline/confusion_matrix.csv"
 METRICS_PATH = "outputs/evaluation/indobert_v3_baseline/test_metrics.json"
 PREDICTIONS_PATH = "outputs/evaluation/indobert_v3_baseline/test_predictions.csv"
-MISCLASSIFIED_PATH = "outputs/evaluation/misclassified_predictions.csv"
-MISCLASSIFICATION_SUMMARY_PATH = "outputs/evaluation/misclassification_summary.csv"
 KEYWORD_SUMMARY_PATH = "outputs/analysis/indobert_v3_baseline/keyword_issue_summary_v3.csv"
 KEYWORD_BY_LABEL_PATH = "outputs/analysis/indobert_v3_baseline/keyword_issue_by_label_v3.csv"
 FINAL_SUMMARY_PATH = "outputs/evaluation/final_analysis_summary.txt"
@@ -75,7 +73,6 @@ NAVIGATION = [
     "Labeling",
     "Training IndoBERT",
     "Evaluasi Model",
-    "Analisis Kesalahan",
     "Keyword Issue & Word Cloud",
     "Demo Prediksi",
 ]
@@ -842,84 +839,6 @@ def render_evaluation():
     st.success("Highlight: kelas terbaik adalah positif, sedangkan kelas terlemah adalah netral.")
 
 
-def render_error_analysis():
-    page_header("Analisis Kesalahan", "Analisis prediksi salah pada data test.")
-    predictions = load_csv(PREDICTIONS_PATH)
-    metrics = load_metrics() or {}
-
-    if predictions is None:
-        warn_missing(PREDICTIONS_PATH)
-        return
-    predictions = predictions.copy()
-    if {"true_label", "pred_label"}.issubset(predictions.columns):
-        predictions["prediction_correct"] = predictions["true_label"] == predictions["pred_label"]
-        misclassified = predictions[~predictions["prediction_correct"]].copy()
-        misclassified["label"] = misclassified["true_label"]
-        misclassified["predicted_label"] = misclassified["pred_label"]
-    else:
-        misclassified = load_csv(MISCLASSIFIED_PATH)
-        if misclassified is None:
-            warn_missing(MISCLASSIFIED_PATH)
-            return
-    summary = load_csv(MISCLASSIFICATION_SUMMARY_PATH)
-    if summary is None and {"label", "predicted_label"}.issubset(misclassified.columns):
-        summary = (
-            misclassified.groupby(["label", "predicted_label"])
-            .size()
-            .reset_index(name="count")
-            .rename(columns={"label": "actual_label"})
-        )
-
-    correct_count = int(predictions["prediction_correct"].sum()) if "prediction_correct" in predictions.columns else None
-    wrong_count = len(misclassified)
-    top_error = "-"
-    if summary is not None and not summary.empty:
-        row = summary.sort_values("count", ascending=False).iloc[0]
-        top_error = f"{row['actual_label']} -> {row['predicted_label']} ({int(row['count'])})"
-
-    cols = st.columns(4)
-    for col, (label, value) in zip(
-        cols,
-        [
-            ("Prediksi Benar", format_number(correct_count)),
-            ("Prediksi Salah", format_number(wrong_count)),
-            ("Accuracy", format_percent(metrics.get("accuracy"))),
-            ("Kesalahan Terbanyak", top_error),
-        ],
-    ):
-        with col:
-            metric_card(label, value)
-
-    filtered = misclassified.copy()
-    f1, f2, f3 = st.columns(3)
-    with f1:
-        actual_options = ["Semua"] + sorted(filtered["label"].dropna().astype(str).unique().tolist()) if "label" in filtered.columns else ["Semua"]
-        actual = st.selectbox("Actual Label", actual_options)
-    with f2:
-        pred_options = ["Semua"] + sorted(filtered["predicted_label"].dropna().astype(str).unique().tolist()) if "predicted_label" in filtered.columns else ["Semua"]
-        pred = st.selectbox("Predicted Label", pred_options)
-    with f3:
-        query = st.text_input("Cari kata dalam clean_review")
-
-    if actual != "Semua" and "label" in filtered.columns:
-        filtered = filtered[filtered["label"].astype(str) == actual]
-    if pred != "Semua" and "predicted_label" in filtered.columns:
-        filtered = filtered[filtered["predicted_label"].astype(str) == pred]
-    text_column = "clean_review" if "clean_review" in filtered.columns else "review"
-    if query and text_column in filtered.columns:
-        filtered = filtered[filtered[text_column].astype(str).str.contains(query, case=False, na=False)]
-
-    st.markdown("### Tabel Salah Prediksi")
-    st.dataframe(filtered, use_container_width=True)
-
-    if summary is None:
-        warn_missing(MISCLASSIFICATION_SUMMARY_PATH)
-    elif not summary.empty:
-        summary = summary.copy()
-        summary["pair"] = summary["actual_label"] + " -> " + summary["predicted_label"]
-        st.plotly_chart(plot_bar(summary, "pair", "count", "Jumlah Salah Prediksi Berdasarkan Pasangan"), use_container_width=True)
-
-
 def render_keyword_issue():
     page_header("Keyword Issue & Word Cloud", "Analisis isu dominan berdasarkan keyword dan visualisasi word cloud.")
     tab_keyword, tab_wordcloud = st.tabs(["Keyword Issue", "Word Cloud"])
@@ -1141,8 +1060,6 @@ def main():
         render_training()
     elif page == "Evaluasi Model":
         render_evaluation()
-    elif page == "Analisis Kesalahan":
-        render_error_analysis()
     elif page == "Keyword Issue & Word Cloud":
         render_keyword_issue()
     elif page == "Demo Prediksi":

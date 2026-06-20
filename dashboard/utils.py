@@ -1079,7 +1079,6 @@ def render_sidebar(navigation, total_data_text):
         "Labeling": "🏷️",
         "Training IndoBERT": "🧠",
         "Evaluasi Model": "📈",
-        "Analisis Kesalahan": "🔎",
         "Keyword Issue & Word Cloud": "☁️",
         "Demo Prediksi": "💬",
     }

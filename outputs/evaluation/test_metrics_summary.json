@@ -1,0 +1,79 @@
+{
+    "test_count": 1418,
+    "accuracy": 0.8949224259520452,
+    "macro_f1": 0.8192119309465852,
+    "weighted_f1": 0.8945371613531996,
+    "label_order": [
+        "negatif",
+        "netral",
+        "positif"
+    ],
+    "actual_label_distribution": {
+        "negatif": 556,
+        "netral": 114,
+        "positif": 748
+    },
+    "predicted_label_distribution": {
+        "negatif": 561,
+        "netral": 110,
+        "positif": 747
+    },
+    "classification_report": {
+        "negatif": {
+            "precision": 0.9001782531194296,
+            "recall": 0.908273381294964,
+            "f1-score": 0.9042076991942704,
+            "support": 556.0
+        },
+        "netral": {
+            "precision": 0.6363636363636364,
+            "recall": 0.6140350877192983,
+            "f1-score": 0.625,
+            "support": 114.0
+        },
+        "positif": {
+            "precision": 0.92904953145917,
+            "recall": 0.9278074866310161,
+            "f1-score": 0.928428093645485,
+            "support": 748.0
+        },
+        "accuracy": 0.8949224259520452,
+        "macro avg": {
+            "precision": 0.8218638069807453,
+            "recall": 0.8167053185484261,
+            "f1-score": 0.8192119309465852,
+            "support": 1418.0
+        },
+        "weighted avg": {
+            "precision": 0.8941985985975435,
+            "recall": 0.8949224259520452,
+            "f1-score": 0.8945371613531996,
+            "support": 1418.0
+        }
+    },
+    "confusion_matrix": [
+        [
+            505,
+            16,
+            35
+        ],
+        [
+            26,
+            70,
+            18
+        ],
+        [
+            30,
+            24,
+            694
+        ]
+    ],
+    "output_files": [
+        "outputs/evaluation/test_classification_report.txt",
+        "outputs/evaluation/test_classification_report.csv",
+        "outputs/evaluation/test_confusion_matrix.csv",
+        "outputs/evaluation/test_metrics_summary.json",
+        "outputs/evaluation/test_predictions.csv",
+        "outputs/figures/test_confusion_matrix.png"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "dataset_path": "data/final/06_jakone_modeling_master_v3.csv",
+    "model_name": "indobenchmark/indobert-base-p1",
+    "model_output_dir": "models/indobert_v3_baseline",
+    "text_column": "review",
+    "label_column": "label",
+    "split_column": "split_set",
+    "label_order": [
+        "negatif",
+        "netral",
+        "positif"
+    ],
+    "label2id": {
+        "negatif": 0,
+        "netral": 1,
+        "positif": 2
+    },
+    "epochs": 2,
+    "batch_size": 8,
+    "learning_rate": 2e-05,
+    "max_length": 128,
+    "random_seed": 42,
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.1,
+    "use_class_weight": false,
+    "device": "cuda",
+    "train_count": 11337,
+    "val_count": 1417,
+    "train_label_distribution": {
+        "negatif": 3684,
+        "netral": 917,
+        "positif": 6736
+    },
+    "val_label_distribution": {
+        "negatif": 460,
+        "netral": 115,
+        "positif": 842
+    }
+}

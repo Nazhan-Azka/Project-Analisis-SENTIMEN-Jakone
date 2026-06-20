@@ -1,0 +1,399 @@
+{
+  "total_rows": 14172,
+  "label_distribution": {
+    "positif": 7475,
+    "negatif": 5558,
+    "netral": 1139
+  },
+  "candidate_total": 2629,
+  "candidate_by_confidence": {
+    "medium": 1975,
+    "high": 654
+  },
+  "candidate_by_category": {
+    "positive_pattern": 859,
+    "negative_pattern": 780,
+    "negation_pattern": 547,
+    "neutral_zero": 293,
+    "conflict_score": 150
+  },
+  "neutral_zero_total": 1139,
+  "neutral_zero_likely_positive": 303,
+  "neutral_zero_likely_negative": 88,
+  "conflict_total": 1905,
+  "top_cancel_pairs": [
+    {
+      "positive_term": "mudah",
+      "negative_term": "aplikasi",
+      "count": 93
+    },
+    {
+      "positive_term": "banget",
+      "negative_term": "aplikasi",
+      "count": 91
+    },
+    {
+      "positive_term": "bagus",
+      "negative_term": "aplikasi",
+      "count": 83
+    },
+    {
+      "positive_term": "membantu",
+      "negative_term": "aplikasi",
+      "count": 58
+    },
+    {
+      "positive_term": "transaksi",
+      "negative_term": "aplikasi",
+      "count": 58
+    },
+    {
+      "positive_term": "lengkap",
+      "negative_term": "aplikasi",
+      "count": 33
+    },
+    {
+      "positive_term": "banget",
+      "negative_term": "tidak",
+      "count": 32
+    },
+    {
+      "positive_term": "lebih",
+      "negative_term": "aplikasi",
+      "count": 32
+    },
+    {
+      "positive_term": "bayar",
+      "negative_term": "aplikasi",
+      "count": 30
+    },
+    {
+      "positive_term": "tampilan",
+      "negative_term": "aplikasi",
+      "count": 26
+    },
+    {
+      "positive_term": "tolong",
+      "negative_term": "tidak",
+      "count": 26
+    },
+    {
+      "positive_term": "gampang",
+      "negative_term": "aplikasi",
+      "count": 25
+    },
+    {
+      "positive_term": "gratis",
+      "negative_term": "aplikasi",
+      "count": 23
+    },
+    {
+      "positive_term": "mudah",
+      "negative_term": "tidak",
+      "count": 23
+    },
+    {
+      "positive_term": "buka",
+      "negative_term": "aplikasi",
+      "count": 23
+    }
+  ],
+  "common_terms_review": [
+    {
+      "term": "aplikasi",
+      "positive_score": NaN,
+      "negative_score": -4.0,
+      "document_frequency": 6002,
+      "occurrence_frequency": 7525,
+      "label_positif_count": 3666,
+      "label_negatif_count": 3457,
+      "label_netral_count": 402,
+      "estimated_total_abs_contribution": 30100.0,
+      "recommendation": "kandidat netralisasi"
+    },
+    {
+      "term": "layanan",
+      "positive_score": 3.0,
+      "negative_score": NaN,
+      "document_frequency": 149,
+      "occurrence_frequency": 173,
+      "label_positif_count": 104,
+      "label_negatif_count": 61,
+      "label_netral_count": 8,
+      "estimated_total_abs_contribution": 519.0,
+      "recommendation": "kandidat netralisasi"
+    },
+    {
+      "term": "pengguna",
+      "positive_score": 1.0,
+      "negative_score": NaN,
+      "document_frequency": 188,
+      "occurrence_frequency": 197,
+      "label_positif_count": 142,
+      "label_negatif_count": 48,
+      "label_netral_count": 7,
+      "estimated_total_abs_contribution": 197.0,
+      "recommendation": "kandidat netralisasi"
+    },
+    {
+      "term": "transaksi",
+      "positive_score": 4.0,
+      "negative_score": NaN,
+      "document_frequency": 1747,
+      "occurrence_frequency": 1881,
+      "label_positif_count": 1497,
+      "label_negatif_count": 331,
+      "label_netral_count": 53,
+      "estimated_total_abs_contribution": 7524.0,
+      "recommendation": "kandidat netralisasi"
+    },
+    {
+      "term": "saldo",
+      "positive_score": 2.0,
+      "negative_score": NaN,
+      "document_frequency": 459,
+      "occurrence_frequency": 566,
+      "label_positif_count": 226,
+      "label_negatif_count": 321,
+      "label_netral_count": 19,
+      "estimated_total_abs_contribution": 1132.0,
+      "recommendation": "kandidat netralisasi"
+    },
+    {
+      "term": "sistem",
+      "positive_score": NaN,
+      "negative_score": -4.0,
+      "document_frequency": 158,
+      "occurrence_frequency": 176,
+      "label_positif_count": 37,
+      "label_negatif_count": 136,
+      "label_netral_count": 3,
+      "estimated_total_abs_contribution": 704.0,
+      "recommendation": "kandidat netralisasi"
+    }
+  ],
+  "positive_pattern_suspects_top": [
+    {
+      "pattern": "bagus",
+      "total_matches": 2018,
+      "label_positif_count": 1438,
+      "label_negatif_count": 490,
+      "label_netral_count": 90,
+      "suspect_non_positive_count": 580,
+      "example_correct_positive": "review=Bagus, sangat praktis digunakan sehar-hari... Sipp pokonya. Pertahankan terus kualitasnya JakOne! | clean_review=bagus praktis digunakan sehar hari sipp pokonya pertahankan kualitasnya jakone | lexicon_score=5.0 | label=positif",
+      "example_suspect_non_positive": "review=Aplikasi bagus banget untuk pembelian pulsa dan scan Qris | clean_review=aplikasi bagus banget pembelian pulsa scan qris | lexicon_score=-4.0 | label=negatif",
+      "candidate_action": "review non-positive labels; high-confidence correction if phrase is standalone positive"
+    },
+    {
+      "pattern": "keren",
+      "total_matches": 1103,
+      "label_positif_count": 833,
+      "label_negatif_count": 162,
+      "label_netral_count": 108,
+      "suspect_non_positive_count": 270,
+      "example_correct_positive": "review=Aplikasinya keren banget dan mudah digunakan, banyak fitur yg membantu, transaksi nya juga mudah sekali dan responsif | clean_review=aplikasi keren banget mudah digunakan fitur membantu transaksi nya mudah responsif | lexicon_score=13.0 | label=positif",
+      "example_suspect_non_positive": "review=Tampilan baru nya keren , aplikasi jak one juga sangat berguna banget karenakan banyak fitur seperti Bayar pulsa, listrik dan lain lain nya dan gak perlu ribet | clean_review=tampilan nya keren aplikasi jak one berguna banget karenakan fitur bayar pulsa listrik nya tidak ribet | lexicon_score=0.0 | label=netral",
+      "candidate_action": "review non-positive labels; high-confidence correction if phrase is standalone positive"
+    },
+    {
+      "pattern": "aplikasi mudah",
+      "total_matches": 571,
+      "label_positif_count": 469,
+      "label_negatif_count": 74,
+      "label_netral_count": 28,
+      "suspect_non_positive_count": 102,
+      "example_correct_positive": "review=Apk yg mudah di pahami, no eror eror .. gampang bnget jadi bertransaksi... Trimakasih jakone mobile.. sukses selalu | clean_review=aplikasi mudah pahami no error error gampang bnget bertransaksi trimakasih jakone mobile sukses | lexicon_score=4.0 | label=positif",
+      "example_suspect_non_positive": "review=APLIKASI YG SANGAT MUDAH UNTUK MEMBUKA REKENING BANK DKI | clean_review=aplikasi mudah membuka rekening bank dki | lexicon_score=0.0 | label=netral",
+      "candidate_action": "review non-positive labels; high-confidence correction if phrase is standalone positive"
+    },
+    {
+      "pattern": "sangat membantu",
+      "total_matches": 722,
+      "label_positif_count": 629,
+      "label_negatif_count": 41,
+      "label_netral_count": 52,
+      "suspect_non_positive_count": 93,
+      "example_correct_positive": "review=Sangat membantu dalam proses transfer | clean_review=membantu proses transfer | lexicon_score=5.0 | label=positif",
+      "example_suspect_non_positive": "review=Apk yang sangat membantu | clean_review=aplikasi membantu | lexicon_score=0.0 | label=netral",
+      "candidate_action": "review non-positive labels; high-confidence correction if phrase is standalone positive"
+    },
+    {
+      "pattern": "lancar",
+      "total_matches": 367,
+      "label_positif_count": 281,
+      "label_negatif_count": 77,
+      "label_netral_count": 9,
+      "suspect_non_positive_count": 86,
+      "example_correct_positive": "review=Naman dan lancar memakai JakOne Mobile. Banyak manfaatnya... transaksi apapun mudah praktis. Aplikasinya Oke banget gak lemot. | clean_review=naman lancar memakai jakone mobile manfaatnya transaksi apapun mudah praktis aplikasi oke banget tidak lambat | lexicon_score=12.0 | label=positif",
+      "example_suspect_non_positive": "review=Tolong perbaiki lagi aplikasi ini saya mau masukin tabungan tapi verifikasi kode smsnya kok ngga masuk masuk padahal internet saya lancar pulsa banyak tapi ga masuk masuk kodenya | clean_review=tolong perbaiki aplikasi masukin tabungan verifikasi kode smsnya kok ngga masuk masuk padahal internet lancar pulsa tidak masuk masuk kodenya | lexicon_score=-13.0 | label=negatif",
+      "candidate_action": "review non-positive labels; high-confidence correction if phrase is standalone positive"
+    },
+    {
+      "pattern": "mantap",
+      "total_matches": 783,
+      "label_positif_count": 705,
+      "label_negatif_count": 38,
+      "label_netral_count": 40,
+      "suspect_non_positive_count": 78,
+      "example_correct_positive": "review=Aplikasinya mantap Awalnya mau nabung di sini, ternyata ada pilihan deposito juga, programnya menarik. Mantapps JakOne. | clean_review=aplikasi mantap awalnya nabung ternyata pilihan deposito programnya menarik mantapps jakone | lexicon_score=13.0 | label=positif",
+      "example_suspect_non_positive": "review=Mantappssssss | clean_review=mantappssssss | lexicon_score=0.0 | label=netral",
+      "candidate_action": "review non-positive labels; high-confidence correction if phrase is standalone positive"
+    },
+    {
+      "pattern": "cepat",
+      "total_matches": 797,
+      "label_positif_count": 720,
+      "label_negatif_count": 64,
+      "label_netral_count": 13,
+      "suspect_non_positive_count": 77,
+      "example_correct_positive": "review=Mantap banget pembukaaan rekening nya mudah dan cepat | clean_review=mantap banget pembukaaan rekening nya mudah cepat | lexicon_score=13.0 | label=positif",
+      "example_suspect_non_positive": "review=Makin menyulitkan saja, data semua sesuai tapi gak bisa masuk juga.. Bank lain update cepat gak pakai ribet.. Ayoo dong berubah | clean_review=menyulitkan data sesuai tidak bisa masuk bank update cepat tidak pakai ribet ayoo berubah | lexicon_score=-14.0 | label=negatif",
+      "candidate_action": "review non-positive labels; high-confidence correction if phrase is standalone positive"
+    },
+    {
+      "pattern": "memudahkan",
+      "total_matches": 553,
+      "label_positif_count": 478,
+      "label_negatif_count": 63,
+      "label_netral_count": 12,
+      "suspect_non_positive_count": 75,
+      "example_correct_positive": "review=Aplikasi ini memudahkan untuk melakukan pembayaran dengan melakukan scanning pada QR, top banget pokonyaa, jangan lupa selalu gunakan jakone | clean_review=aplikasi memudahkan melakukan pembayaran melakukan scanning qr top banget pokonyaa jangan lupa gunakan jakone | lexicon_score=1.0 | label=positif",
+      "example_suspect_non_positive": "review=aplikasi yg memundahkan dalam urusan bayar\" dan pembelian seperti pulsa dan kuota sangat amat mudah. terutama memudahkan dalam membayar seperti tagihan air, listrik dll. tanpa ribet dan tentunya satset sekali | clean_review=aplikasi memundahkan urusan bayar pembelian pulsa kuota amat mudah terutama memudahkan membayar tagihan air listrik dll ribet tentunya satset | lexicon_score=-1.0 | label=negatif",
+      "candidate_action": "review non-positive labels; high-confidence correction if phrase is standalone positive"
+    },
+    {
+      "pattern": "mudah digunakan",
+      "total_matches": 582,
+      "label_positif_count": 514,
+      "label_negatif_count": 49,
+      "label_netral_count": 19,
+      "suspect_non_positive_count": 68,
+      "example_correct_positive": "review=Aplikasinya keren banget dan mudah digunakan, banyak fitur yg membantu, transaksi nya juga mudah sekali dan responsif | clean_review=aplikasi keren banget mudah digunakan fitur membantu transaksi nya mudah responsif | lexicon_score=13.0 | label=positif",
+      "example_suspect_non_positive": "review=Aplikasi nya sangat bagus sekali sangat mudah digunakan , untuk pemula fitur nya juga tidak membingungkan sangat recommended sekali | clean_review=aplikasi nya bagus mudah digunakan pemula fitur nya tidak membingungkan recommended | lexicon_score=-3.0 | label=negatif",
+      "candidate_action": "review non-positive labels; high-confidence correction if phrase is standalone positive"
+    },
+    {
+      "pattern": "berguna",
+      "total_matches": 199,
+      "label_positif_count": 150,
+      "label_negatif_count": 45,
+      "label_netral_count": 4,
+      "suspect_non_positive_count": 49,
+      "example_correct_positive": "review=Aplikasi JakOne sangat berguna banget bagi saya untuk memudahkan transaksi pulsa dan lain lain,fitur fitur nya pun lengkap mantap | clean_review=aplikasi jakone berguna banget memudahkan transaksi pulsa fitur fitur nya lengkap mantap | lexicon_score=13.0 | label=positif",
+      "example_suspect_non_positive": "review=Tampilan baru nya keren , aplikasi jak one juga sangat berguna banget karenakan banyak fitur seperti Bayar pulsa, listrik dan lain lain nya dan gak perlu ribet | clean_review=tampilan nya keren aplikasi jak one berguna banget karenakan fitur bayar pulsa listrik nya tidak ribet | lexicon_score=0.0 | label=netral",
+      "candidate_action": "review non-positive labels; high-confidence correction if phrase is standalone positive"
+    }
+  ],
+  "negative_pattern_suspects_top": [
+    {
+      "pattern": "ribet",
+      "total_matches": 789,
+      "label_positif_count": 450,
+      "label_negatif_count": 302,
+      "label_netral_count": 37,
+      "suspect_non_negative_count": 487,
+      "example_correct_negative": "review=Tapi jangan terlalu sering update laaah... Ribet urusannya wkwkw | clean_review=jangan update laaah ribet urusannya wkwkw | lexicon_score=-7.0 | label=negatif",
+      "example_suspect_non_negative": "review=Tampilan baru nya keren , aplikasi jak one juga sangat berguna banget karenakan banyak fitur seperti Bayar pulsa, listrik dan lain lain nya dan gak perlu ribet | clean_review=tampilan nya keren aplikasi jak one berguna banget karenakan fitur bayar pulsa listrik nya tidak ribet | lexicon_score=0.0 | label=netral",
+      "candidate_action": "review non-negative labels; high-confidence correction if phrase is central complaint"
+    },
+    {
+      "pattern": "lambat",
+      "total_matches": 449,
+      "label_positif_count": 196,
+      "label_negatif_count": 235,
+      "label_netral_count": 18,
+      "suspect_non_negative_count": 214,
+      "example_correct_negative": "review=Sipaling lemot ini aplikasi. Loading kaga rapih², ujung ujungnya suruh priksa jaringan internet. Ngaco banget ini aplikasi. Parah banget parah, sipaling parah ini aplikasi. Dari bare 30 % ampe mati nih hp kehabisan batre | clean_review=sipaling lambat aplikasi loading kaga rapih ujung ujungnya suruh priksa jaringan internet ngaco banget aplikasi parah banget parah sipaling parah aplikasi bare 30 ampe mati nih hp kehabisan batre loding | lexicon_score=-22.0 | label=negatif",
+      "example_suspect_non_negative": "review=Naman dan lancar memakai JakOne Mobile. Banyak manfaatnya... transaksi apapun mudah praktis. Aplikasinya Oke banget gak lemot. | clean_review=naman lancar memakai jakone mobile manfaatnya transaksi apapun mudah praktis aplikasi oke banget tidak lambat | lexicon_score=12.0 | label=positif",
+      "candidate_action": "review non-negative labels; high-confidence correction if phrase is central complaint"
+    },
+    {
+      "pattern": "lemot",
+      "total_matches": 439,
+      "label_positif_count": 192,
+      "label_negatif_count": 229,
+      "label_netral_count": 18,
+      "suspect_non_negative_count": 210,
+      "example_correct_negative": "review=Aplikasi mobile banking peringkat terbawah, terlemot sepanjang hayat, khusus gaji lewat / bantuan pemda saja, bagi yg mau nabung harap berfikir berkali2, semoga tim IT / pengembang aplikasi diganti, agar mengembalikan ra | clean_review=aplikasi mobile banking peringkat terbawah terlemot sepanjang hayat gaji bantuan pemda nabung harap berfikir berkali2 semoga tim it pengembang aplikasi diganti mengembalikan rasa percaya masyarakat terhadap bank dki | lexicon_score=-6.0 | label=negatif",
+      "example_suspect_non_negative": "review=Naman dan lancar memakai JakOne Mobile. Banyak manfaatnya... transaksi apapun mudah praktis. Aplikasinya Oke banget gak lemot. | clean_review=naman lancar memakai jakone mobile manfaatnya transaksi apapun mudah praktis aplikasi oke banget tidak lambat | lexicon_score=12.0 | label=positif",
+      "candidate_action": "review non-negative labels; high-confidence correction if phrase is central complaint"
+    },
+    {
+      "pattern": "error",
+      "total_matches": 643,
+      "label_positif_count": 91,
+      "label_negatif_count": 534,
+      "label_netral_count": 18,
+      "suspect_non_negative_count": 109,
+      "example_correct_negative": "review=sering error', malah bikin susah rakyat Jakarta... | clean_review=error bikin susah rakyat jakarta | lexicon_score=-8.0 | label=negatif",
+      "example_suspect_non_negative": "review=Apk yg mudah di pahami, no eror eror .. gampang bnget jadi bertransaksi... Trimakasih jakone mobile.. sukses selalu | clean_review=aplikasi mudah pahami no error error gampang bnget bertransaksi trimakasih jakone mobile sukses | lexicon_score=4.0 | label=positif",
+      "candidate_action": "review non-negative labels; high-confidence correction if phrase is central complaint"
+    },
+    {
+      "pattern": "eror",
+      "total_matches": 308,
+      "label_positif_count": 41,
+      "label_negatif_count": 255,
+      "label_netral_count": 12,
+      "suspect_non_negative_count": 53,
+      "example_correct_negative": "review=tiap awal bulan server eror terus payah kali | clean_review=bulan server error payah | lexicon_score=-6.0 | label=negatif",
+      "example_suspect_non_negative": "review=Apk yg mudah di pahami, no eror eror .. gampang bnget jadi bertransaksi... Trimakasih jakone mobile.. sukses selalu | clean_review=aplikasi mudah pahami no error error gampang bnget bertransaksi trimakasih jakone mobile sukses | lexicon_score=4.0 | label=positif",
+      "candidate_action": "review non-negative labels; high-confidence correction if phrase is central complaint"
+    },
+    {
+      "pattern": "parah",
+      "total_matches": 360,
+      "label_positif_count": 37,
+      "label_negatif_count": 310,
+      "label_netral_count": 13,
+      "suspect_non_negative_count": 50,
+      "example_correct_negative": "review=Parahh apk ga jelas,, muter2 mulu ga bisa digunain,, mo isi token listrik aja,, hedeehh | clean_review=parahh aplikasi tidak jelas muter2 mulu tidak bisa digunain mo isi token listrik hedeehh | lexicon_score=-11.0 | label=negatif",
+      "example_suspect_non_negative": "review=Parahh bgt selalu suruh update...terus lemoot bgtzz.. transaksi jadi ribett bgtzz😔😔 tolong systemnya LBH baik lagi | clean_review=parahh banget suruh update lemoot bgtzz transaksi ribett bgtzz tolong systemnya lbh | lexicon_score=6.0 | label=positif",
+      "candidate_action": "review non-negative labels; high-confidence correction if phrase is central complaint"
+    },
+    {
+      "pattern": "payah",
+      "total_matches": 169,
+      "label_positif_count": 34,
+      "label_negatif_count": 121,
+      "label_netral_count": 14,
+      "suspect_non_negative_count": 48,
+      "example_correct_negative": "review=tiap awal bulan server eror terus payah kali | clean_review=bulan server error payah | lexicon_score=-6.0 | label=negatif",
+      "example_suspect_non_negative": "review=Internet saya lancar buka. Semua aplikasi lain lancar cuma buka jackone yang disuruh cek internet saya . Payah IT nya | clean_review=internet lancar buka aplikasi lancar buka jackone disuruh cek internet payah it nya | lexicon_score=4.0 | label=positif",
+      "candidate_action": "review non-negative labels; high-confidence correction if phrase is central complaint"
+    },
+    {
+      "pattern": "kecewa",
+      "total_matches": 110,
+      "label_positif_count": 30,
+      "label_negatif_count": 77,
+      "label_netral_count": 3,
+      "suspect_non_negative_count": 33,
+      "example_correct_negative": "review=Parah... Muter muter terus.kga bisa masuk.. Ujung ujungnya keluar lagi. Padahal sinyal bagus. Tp g bisa masuk Mending yang dulu. Sekarang parah... Kecewa Bintang 1 pun ga layak | clean_review=parah muter muter kga bisa masuk ujung ujungnya keluar padahal sinyal bagus tidak bisa masuk mending parah kecewa bintang 1 tidak layak | lexicon_score=-31.0 | label=negatif",
+      "example_suspect_non_negative": "review=kecewa banget, knapa sih transaksi tf ke bank lain kalo gagal kepotong,baliknya juga lama kudu nunggu 3 harian bahkan lebih | clean_review=kecewa banget knapa sih transaksi transfer bank gagal kepotong baliknya kudu nunggu 3 harian bahkan lebih | lexicon_score=3.0 | label=positif",
+      "candidate_action": "review non-negative labels; high-confidence correction if phrase is central complaint"
+    },
+    {
+      "pattern": "buruk",
+      "total_matches": 188,
+      "label_positif_count": 16,
+      "label_negatif_count": 165,
+      "label_netral_count": 7,
+      "suspect_non_negative_count": 23,
+      "example_correct_negative": "review=Sering down servernya. Ga bisa login ke aplikasinya. Aplikasi banking terburuk #masih belum bisa login, stuck di logo awal. | clean_review=down servernya tidak bisa login aplikasi aplikasi banking terburuk belum bisa login stuck logo | lexicon_score=-16.0 | label=negatif",
+      "example_suspect_non_negative": "review=buruk banget Mauk ke aplikasih tulisan perikasn koneksi internet pake wifi kaya gth pake Kouta pribadi juga hadeeeh | clean_review=buruk banget mauk aplikasih tulisan perikasn koneksi internet pakai wifi kaya gth pakai kouta pribadi hadeeeh | lexicon_score=0.0 | label=netral",
+      "candidate_action": "review non-negative labels; high-confidence correction if phrase is central complaint"
+    },
+    {
+      "pattern": "transaksi gagal",
+      "total_matches": 34,
+      "label_positif_count": 16,
+      "label_negatif_count": 15,
+      "label_netral_count": 3,
+      "suspect_non_negative_count": 19,
+      "example_correct_negative": "review=pelayanan gak memuaskan via aplikasi jakone, mau transaksi via QRIS gak bisa gagal trus, mau ambil tunai di ATM DKI pun gak bisa gagal kecuali tarik di atas 1 juta baru bisa, dan untuk layanan transfer ke bank lain juga  | clean_review=pelayanan tidak memuaskan via aplikasi jakone transaksi via qris tidak bisa gagal ambil tunai atm dki tidak bisa gagal kecuali tarik atas 1 juta bisa layanan transfer bank tidak layanan bi fast hilangkan layanan pembelia | lexicon_score=-30.0 | label=negatif",
+      "example_suspect_non_negative": "review=Gajls transaksi gagal tapi saldo terpotong, udh gitu baliknya lama lagi kesaldo utamanya berhari hari, tolong dong dipercepat dan diperbaiki lagi pelayanannya, sudah 3x begini dalam 1 bulan | clean_review=gajls transaksi gagal saldo terpotong gitu baliknya kesaldo utamanya berhari hari tolong dipercepat diperbaiki pelayanannya 3x 1 bulan | lexicon_score=1.0 | label=positif",
+      "candidate_action": "review non-negative labels; high-confidence correction if phrase is central complaint"
+    }
+  ]
+}

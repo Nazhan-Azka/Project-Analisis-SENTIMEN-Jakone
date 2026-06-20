@@ -1,0 +1,17 @@
+aktivasi
+akun
+autentikasi
+blokir
+data
+kode
+login
+masuk
+otp
+password
+pin
+qris
+rekening
+saldo
+transaksi
+transfer
+verifikasi

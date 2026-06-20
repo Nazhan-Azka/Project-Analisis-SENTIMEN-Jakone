@@ -1,0 +1,1140 @@
+﻿row_index,review,clean_review,lexicon_score,positive_terms,negative_terms,positive_score,negative_score,likely_issue_type,evidence_pattern,reason
+9,"Tampilan baru nya keren , aplikasi jak one juga sangat berguna banget karenakan banyak fitur seperti Bayar pulsa, listrik dan lain lain nya dan gak perlu ribet",tampilan nya keren aplikasi jak one berguna banget karenakan fitur bayar pulsa listrik nya tidak ribet,0.0,tampilan:1; berguna:5; banget:1; bayar:1; ribet:4,aplikasi:-4; pulsa:-3; tidak:-5,12.0,-12.0,ambiguous,keren; berguna; ribet,
+28,Mantaaappp,mantaaappp,0.0,,,0.0,0.0,ambiguous,,
+65,"Aplikasi mbanking sangat bagus, banyak manfaatnya, sekaligus banyak sekali fitur didalamnya, kalian wajib download aplikasi yg mempunya ATM jakone karena bermanfaat sekali",aplikasi mbanking bagus manfaatnya sekaligus fitur didalamnya kalian wajib download aplikasi mempunya atm jakone bermanfaat,0.0,bagus:2; manfaatnya:3; bermanfaat:5,aplikasi:-4; wajib:-2; aplikasi:-4,10.0,-10.0,likely_positive,bagus,positive pattern in neutral score zero row
+71,Mantappssssss,mantappssssss,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+82,bikin uwe makin rajin nabung nih app!????,bikin uwe rajin nabung nih aplikasi,0.0,rajin:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+83,APLIKASI YG SANGAT MUDAH UNTUK MEMBUKA REKENING BANK DKI,aplikasi mudah membuka rekening bank dki,0.0,mudah:4,aplikasi:-4,4.0,-4.0,likely_positive,aplikasi mudah,positive pattern in neutral score zero row
+88,"Pas selfi muter terus , di ulang2 malah ngabisin pulsa aja",pas selfi muter ulang2 ngabisin pulsa,0.0,pas:3,pulsa:-3,3.0,-3.0,ambiguous,,
+97,Baguuss,baguuss,0.0,,,0.0,0.0,ambiguous,,
+103,"Kerennn ternyata bank daerah juga punya m bangking yg bagus, ga nyangka mana apk nya bagus lagi ga ribet",kerennn ternyata bank daerah punya m bangking bagus tidak nyangka aplikasi nya bagus tidak ribet,0.0,punya:3; bagus:2; nyangka:3; bagus:2; ribet:4,tidak:-5; aplikasi:-4; tidak:-5,14.0,-14.0,ambiguous,bagus; keren; ribet,
+174,Apk yang sangat membantu,aplikasi membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+200,"Aplikasi yang sangat membantu, mempermudah sekali, gampang di fahami, saya suka sekali sama aplikasi ini",aplikasi membantu mempermudah gampang fahami suka aplikasi,0.0,membantu:4; gampang:4; suka:3,aplikasi:-4; mempermudah:-3; aplikasi:-4,11.0,-11.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+206,sebelum update aja loading nya udah lama. setelah update malah loadingnya seharian.,update loading nya udah setelah update loadingnya seharian,0.0,,,0.0,0.0,ambiguous,,
+222,Masih mencoba,mencoba,0.0,,,0.0,0.0,ambiguous,,
+244,apknya mudahh dipake😍,apknya mudahh dipake,0.0,,,0.0,0.0,ambiguous,,
+251,"Aplikasinya user friendly, jadi bisa sat set kalo mau transaksi",aplikasi user friendly bisa sat set transaksi,0.0,transaksi:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+255,verifikasi wajah lama banget abis itu koneksi gagal,verifikasi wajah banget abis koneksi gagal,0.0,banget:1; abis:1; koneksi:2,gagal:-4,4.0,-4.0,ambiguous,,
+271,"Rekomendasi banget buat aplikasi ini tanpa bawa uang cash cuma modal hp tanpa ribet bisa beli apapun sesuka hati dengan aplikasi inii,terima kasiiiih",rekomendasi banget aplikasi bawa uang cash modal hp ribet bisa beli apapun sesuka hati aplikasi inii terima kasiiiih,0.0,banget:1; bawa:1; cash:2; modal:2; beli:2; hati:2; terima:2,aplikasi:-4; ribet:-4; aplikasi:-4,12.0,-12.0,likely_negative,ribet,negative pattern in neutral score zero row
+312,"Bagus versi yang lama, karna yang baru tidak bisa buka mutasi terakhir",bagus versi tidak bisa buka mutasi,0.0,bagus:2; buka:3,tidak:-5,5.0,-5.0,likely_positive,bagus,positive pattern in neutral score zero row
+333,buruk banget Mauk ke aplikasih tulisan perikasn koneksi internet pake wifi kaya gth pake Kouta pribadi juga hadeeeh,buruk banget mauk aplikasih tulisan perikasn koneksi internet pakai wifi kaya gth pakai kouta pribadi hadeeeh,0.0,banget:1; koneksi:2; kaya:2,buruk:-5,5.0,-5.0,likely_negative,buruk,negative pattern in neutral score zero row
+346,"Payah, Pembenahan nya terlalu lama",payah pembenahan nya,0.0,,,0.0,0.0,likely_negative,payah,negative pattern in neutral score zero row
+358,Cil,cil,0.0,,,0.0,0.0,ambiguous,,
+378,Keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+404,"Jeleeeeeeekkk,kacaaaaaaaaaaau",jeleeeeeeekkk kacaaaaaaaaaaau,0.0,,,0.0,0.0,ambiguous,,
+416,Aplikasinya memudahkan banget dalam bertransaksi bayar listrik gapake ribet sekarang 👍,aplikasi memudahkan banget bertransaksi bayar listrik gapake ribet,0.0,memudahkan:3; banget:1; bertransaksi:3; bayar:1,aplikasi:-4; ribet:-4,8.0,-8.0,ambiguous,memudahkan; ribet,
+420,Keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+434,"Ada banyak benetif gratis untuk aplikasi ini, mendapatkan reward Rp600rb saat mendaftar",benetif gratis aplikasi mendapatkan reward rp600rb mendaftar,0.0,gratis:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+437,Keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+453,Dengan satu genggaman sudah bisa mengakses dan mengelola keuangan kita.,genggaman bisa mengakses mengelola keuangan kita,0.0,,,0.0,0.0,ambiguous,,
+503,"Aplikasi JakOne mobile bagus sekali. Banyak fiturnya, sangat membantu saya dalam transfer dan pembayaran apa pun. Apk ini bagus ukuran nya pun ngak perlu penyimpanan yang banyak",aplikasi jakone mobile bagus fiturnya membantu transfer pembayaran aplikasi bagus ukuran nya ngak penyimpanan,0.0,bagus:2; membantu:4; bagus:2,aplikasi:-4; aplikasi:-4,8.0,-8.0,likely_positive,sangat membantu; bagus,positive pattern in neutral score zero row
+515,Terlalu sering update,update,0.0,,,0.0,0.0,ambiguous,,
+535,Wow,wow,0.0,,,0.0,0.0,ambiguous,,
+538,"Sangat fungsional, mempermudahkan aktifitas perbankan",fungsional mempermudahkan aktifitas perbankan,0.0,,,0.0,0.0,ambiguous,,
+542,Aplikasi sangat membantu .,aplikasi membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+549,Saldo terpotong setiap kali dapet transferan. Kocak bgt,saldo terpotong setiap dapet transferan kocak banget,0.0,saldo:2; dapet:2; banget:1,terpotong:-3; kocak:-2,5.0,-5.0,ambiguous,,
+553,Aku c yesss,c yesss,0.0,,,0.0,0.0,ambiguous,,
+561,kebiasaan jakone tuu asal mau kayak gini gangguan Mulu aplikasi nya aneh banget,kebiasaan jakone tuu asal kayak gini gangguan mulu aplikasi nya aneh banget,0.0,mulu:2; aneh:4; banget:1,kayak:-3; aplikasi:-4,7.0,-7.0,ambiguous,,
+562,"Jakone Mantab, semakin terdepan.. 👍👍👍",jakone mantab terdepan,0.0,,,0.0,0.0,ambiguous,,
+564,kenapa setelah update pasword saya terblokir?,kenapa setelah update pasword terblokir,0.0,,,0.0,0.0,ambiguous,,
+615,Aplikasi nya sangat membantu sekali,aplikasi nya membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu; membantu sekali,positive pattern in neutral score zero row
+622,Mengecewakan Fitur bi fast nya hilang tidak ada di aplikasi lagi. Padahal sangat menbantu bgt,mengecewakan fitur bi fast nya hilang tidak aplikasi padahal menbantu banget,0.0,hilang:3; aplikasi:4; banget:1,mengecewakan:-3; tidak:-5,8.0,-8.0,ambiguous,,
+629,setiap lebaran selalu eror mohon cepat diperbaiki sistemnya,setiap lebaran error mohon cepat diperbaiki sistemnya,0.0,mohon:2; cepat:3,error:-5,5.0,-5.0,ambiguous,cepat; error; eror,
+633,Lqďz3,lq z3,0.0,,,0.0,0.0,ambiguous,,
+640,"tolonglah kalau untuk yang mau daftar di jakeone diberikan kemudahan, udah isi tinggal nunggu kode otp blm dikirim kirim. saya sebagai pengguna sangat kesusahan dengan adanya akses masuk ke jakeone",tolonglah daftar jakeone diberikan kemudahan udah isi tinggal nunggu kode otp belum dikirim kirim pengguna kesusahan akses masuk jakeone,0.0,daftar:1; kemudahan:3; isi:2; tinggal:1; nunggu:1; kirim:2; pengguna:1; akses:2,kode:-3; dikirim:-2; kesusahan:-5; masuk:-3,13.0,-13.0,ambiguous,,
+650,Keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+679,Aplikasi sangat bagus dan perlu dikasih bintang 10 kalo bisa josshtt,aplikasi bagus dikasih bintang 10 bisa josshtt,0.0,bagus:2; dikasih:2,aplikasi:-4,4.0,-4.0,likely_positive,bagus,positive pattern in neutral score zero row
+681,fitur-fitur diaplikasi Jakone keren baget,fitur fitur diaplikasi jakone keren baget,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+691,Aplikasi m banking super lemot,aplikasi m banking super lambat,0.0,super:3; lambat:1,aplikasi:-4,4.0,-4.0,likely_negative,lemot; lambat,negative pattern in neutral score zero row
+693,keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+695,it's the best virtual bank,it s the best virtual bank,0.0,,,0.0,0.0,ambiguous,,
+701,Recommended 😍,recommended,0.0,,,0.0,0.0,likely_positive,recommended,positive pattern in neutral score zero row
+703,Kenapa kode OTP tidak pernah masuk Susah sekali untuk menerima kode otp nya Tolong min berikan sosuli Kalau dapat solusi saya kasih bintang lima untuk sementara bintang dua dulu,kenapa kode otp tidak masuk susah menerima kode otp nya tolong min berikan sosuli solusi kasih bintang bintang,0.0,masuk:3; menerima:3; tolong:3; solusi:3; kasih:2,kode:-3; tidak:-5; susah:-3; kode:-3,14.0,-14.0,likely_negative,otp tidak masuk; kode otp tidak masuk,negative pattern in neutral score zero row
+714,Kenapa ya pas mau masuk jackone saat verifikasi wajah gagal terus,kenapa ya pas masuk jackone verifikasi wajah gagal,0.0,ya:4; pas:3,masuk:-3; gagal:-4,7.0,-7.0,ambiguous,,
+720,penting buat ngecek kjp anak,penting ngecek kjp anak,0.0,penting:3,anak:-3,3.0,-3.0,ambiguous,,
+721,"Terbantu sama apk ini , jadi gamoang transaksi",terbantu aplikasi gamoang transaksi,0.0,transaksi:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+753,Sangat baguss,baguss,0.0,,,0.0,0.0,likely_positive,bagus,positive pattern in neutral score zero row
+773,mantul banget jokone mobile pembayaran mobile terbarau paling mudah dan di jamin aman.,mantul banget jokone mobile pembayaran mobile terbarau mudah jamin aman,0.0,banget:1; mudah:4,jamin:-5,5.0,-5.0,ambiguous,,
+778,Loading lama,loading,0.0,,,0.0,0.0,ambiguous,,
+781,"Parah sangat mengecewakan, selama libur lebaran sampai hr ini selesai cuti bersama lebaran pun masih maintenance, banyak menu hilang seperti trf bi fast, ewallet dana ovo gopay shopee, bahkan qris pun selalu gagal. tarik tunai di atm bersama jg tidak bisa. hallooo parah banget, sudah lebih dari seminggu lho ini...",parah mengecewakan selama libur lebaran hr selesai cuti lebaran maintenance menu hilang trf bi fast ewallet dana ovo gopay shopee bahkan qris gagal tarik tunai atm jg tidak bisa hallooo parah banget lebih seminggu lho,0.0,libur:3; selesai:2; cuti:3; hilang:3; dana:4; tarik:2; tunai:3; banget:1; lebih:1,parah:-5; mengecewakan:-3; gagal:-4; tidak:-5; parah:-5,22.0,-22.0,likely_negative,parah,negative pattern in neutral score zero row
+782,makin kesini makin kesana...payah,kesini kesana payah,0.0,,,0.0,0.0,likely_negative,payah,negative pattern in neutral score zero row
+783,keren lo.,keren lo,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+817,Kapan neh mau diperbaiki? Udah lama loh...,kapan neh diperbaiki udah loh,0.0,,,0.0,0.0,ambiguous,,
+819,Kereeeen.....,kereeeen,0.0,,,0.0,0.0,ambiguous,,
+820,Ada banyak benefit gratis untuk aplikasi ini mendapatkan reward Rp600 saat mendaftar,benefit gratis aplikasi mendapatkan reward rp600 mendaftar,0.0,gratis:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+835,aman dan mantab,aman mantab,0.0,,,0.0,0.0,ambiguous,,
+841,Mantaaap Bank DKI....,mantaaap bank dki,0.0,,,0.0,0.0,ambiguous,,
+845,"mbanking errorr, sedang dibutuhkan tetapi offline berhari2",mbanking errorr dibutuhkan offline berhari2,0.0,,,0.0,0.0,likely_negative,error,negative pattern in neutral score zero row
+851,Ngk bisa dipakai,ngk bisa dipakai,0.0,,,0.0,0.0,ambiguous,,
+853,"Tiba tiba suruh upgrade, padahal udah pake yang terbaru, tapi di klik upgrade gak bisa bisa selama seminggu, ahirnya uninstall dan download ulang, lupa pass dll, bikin kerjaan aja mesti ke bank langsung !",tiba tiba suruh upgrade padahal udah pakai terbaru klik upgrade tidak bisa bisa selama seminggu ahirnya uninstall download ulang lupa pass dll bikin kerjaan mesti bank langsung,0.0,terbaru:4; lupa:1; kerjaan:2; langsung:3,suruh:-2; tidak:-5; mesti:-3,10.0,-10.0,ambiguous,,
+862,Bsgus,bsgus,0.0,,,0.0,0.0,ambiguous,,
+883,Sangat membatu dalam usaha saya... the best dan recommended banget lah ini aplikasi,membatu usaha the best recommended banget aplikasi,0.0,membatu:2; usaha:1; banget:1,aplikasi:-4,4.0,-4.0,likely_positive,recommended,positive pattern in neutral score zero row
+902,"Registrasi app Jakone mobile mudah,dan Tampilan aplikasinya modern",registrasi aplikasi jakone mobile mudah tampilan aplikasi modern,0.0,mudah:4; tampilan:1; modern:3,aplikasi:-4; aplikasi:-4,8.0,-8.0,ambiguous,,
+911,Keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+917,GG CIM,gg cim,0.0,,,0.0,0.0,ambiguous,,
+979,Gunta gati sistem aja loh jekOne harus perbaharuan atau apa lah. Kalau mau bikin nasabah enak jangan kaya gini caranya dodol,gunta gati sistem loh jekone perbaharuan bikin nasabah enak jangan kaya gini caranya dodol,0.0,nasabah:4; enak:5,sistem:-4; jangan:-3; kaya:-2,9.0,-9.0,ambiguous,,
+1008,"Aplikasi sangat lambat padahal internet normal, untuk verifikasi wajah selalu lama respon nya",aplikasi lambat padahal internet normal verifikasi wajah respon nya,0.0,lambat:1; normal:1; respon:2,aplikasi:-4,4.0,-4.0,likely_negative,lambat,negative pattern in neutral score zero row
+1021,Saya daftar kenapa otp nya ngga muncul,daftar kenapa otp nya ngga muncul,0.0,daftar:1; muncul:1,ngga:-2,2.0,-2.0,ambiguous,,
+1022,Untuk mengetahui mail d mna,mengetahui mail d mna,0.0,,,0.0,0.0,ambiguous,,
+1023,Nitik,nitik,0.0,,,0.0,0.0,ambiguous,,
+1029,"Ini gimana loginnya sih, aplikasi kok lucu amat, sudah ada rekening tapi di arahkan ke daftar rekening baru, di isi data dilanjut lah udah terdaftar.. terus saya gimana loginnya... cape amat ama aplikasi ini",gimana login sih aplikasi kok lucu amat rekening arahkan daftar rekening isi data dilanjut udah terdaftar gimana login cape amat ama aplikasi,0.0,lucu:3; amat:4; daftar:1; isi:2; terdaftar:1; amat:4,aplikasi:-4; data:-3; cape:-4; aplikasi:-4,15.0,-15.0,ambiguous,,
+1036,"Aplikasi Mudah di gunakan! Aplikasi Cepat, tampilan nya user friendly aman dan terpercaya.",aplikasi mudah gunakan aplikasi cepat tampilan nya user friendly aman terpercaya,0.0,mudah:4; cepat:3; tampilan:1,aplikasi:-4; aplikasi:-4,8.0,-8.0,likely_positive,aplikasi mudah; cepat,positive pattern in neutral score zero row
+1037,kapan bisa untuk transfer antar bank,kapan bisa transfer antar bank,0.0,,,0.0,0.0,ambiguous,,
+1041,mantapp..,mantapp,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+1048,Cukup kah 5 bintang,kah 5 bintang,0.0,,,0.0,0.0,ambiguous,,
+1056,Aplikasi JakOne Mobile sangat mudah dipahami dari vitur2 aplikasinya dah viturnyapun sangat menarik bagus banget.,aplikasi jakone mobile mudah dipahami vitur2 aplikasi dah viturnyapun menarik bagus banget,0.0,mudah:4; menarik:4; bagus:2; banget:1,aplikasi:-4; aplikasi:-4; dah:-3,11.0,-11.0,likely_positive,bagus,positive pattern in neutral score zero row
+1057,"Aplikasi yang bagus, memudahkan kita banget untuk transaksi online. Kalo mager keluar juga bisa buat bayar tagihan PLN, beli pulsa dan paket data juga",aplikasi bagus memudahkan kita banget transaksi online mager keluar bisa bayar tagihan pln beli pulsa paket data,0.0,bagus:2; memudahkan:3; banget:1; transaksi:4; bayar:1; beli:2; paket:4,aplikasi:-4; mager:-4; keluar:-3; pulsa:-3; data:-3,17.0,-17.0,likely_positive,bagus; memudahkan,positive pattern in neutral score zero row
+1071,Knapa sering di update ?,knapa update,0.0,,,0.0,0.0,ambiguous,,
+1074,Bagaimana cara membuka user id terkunci?,membuka user id terkunci,0.0,,,0.0,0.0,ambiguous,,
+1100,bank DKI propesional,bank dki propesional,0.0,,,0.0,0.0,ambiguous,,
+1116,Maaciw,maaciw,0.0,,,0.0,0.0,ambiguous,,
+1121,tambahin shopee pay dong di fitur e-wallet,tambahin shopee pay fitur e wallet,0.0,,,0.0,0.0,ambiguous,,
+1129,Apk yang sangat baik mudah d mngerti,aplikasi mudah d mngerti,0.0,mudah:4,aplikasi:-4,4.0,-4.0,likely_positive,aplikasi mudah,positive pattern in neutral score zero row
+1132,Semoga aplikasi jakone mobile baru ini lebih mempermudah transaksi melalui handphone. Go to less cash. 👍🏻,semoga aplikasi jakone mobile lebih mempermudah transaksi handphone go to less cash,0.0,lebih:1; transaksi:4; cash:2,aplikasi:-4; mempermudah:-3,7.0,-7.0,ambiguous,,
+1137,Bagusss,bagusss,0.0,,,0.0,0.0,likely_positive,bagus,positive pattern in neutral score zero row
+1142,User terkunci cara membukanya gimana ?,user terkunci membukanya gimana,0.0,,,0.0,0.0,ambiguous,,
+1154,Mau nukar point' harus pemeliharaan saya harus begimana,nukar point pemeliharaan begimana,0.0,,,0.0,0.0,ambiguous,,
+1184,Kalo sdh terkunci buka nya susah 😔😔😔😔😔😔😔,terkunci buka nya susah,0.0,buka:3,susah:-3,3.0,-3.0,ambiguous,,
+1193,Mantaps,mantaps,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+1202,Kerenn👍👍,kerenn,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+1219,Semenjak Pembaharuan Semakin Joss Gandos,semenjak pembaharuan joss gandos,0.0,,,0.0,0.0,ambiguous,,
+1227,Jackone loading lama bnerrr,jackone loading bnerrr,0.0,,,0.0,0.0,ambiguous,,
+1255,Mantaap..,mantaap,0.0,,,0.0,0.0,ambiguous,,
+1259,Aku sih Yeesss,sih yeesss,0.0,,,0.0,0.0,ambiguous,,
+1311,Semoga bank DKI maju dan berkembang.,semoga bank dki maju berkembang,0.0,,,0.0,0.0,ambiguous,,
+1324,Makin kesini makin kesana 😄,kesini kesana,0.0,,,0.0,0.0,ambiguous,,
+1330,Jakone Mobile apk yang bagus untuk kamu coba,jakone mobile aplikasi bagus coba,0.0,bagus:2; coba:2,aplikasi:-4,4.0,-4.0,likely_positive,bagus,positive pattern in neutral score zero row
+1335,terbaikk,terbaikk,0.0,,,0.0,0.0,likely_positive,terbaik,positive pattern in neutral score zero row
+1366,Keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+1379,Baguss,baguss,0.0,,,0.0,0.0,likely_positive,bagus,positive pattern in neutral score zero row
+1400,tolong layanan bi fast nya yang 2500 diadakan lagi seperti Bank lain jadi gak mahal untuk transfer klo perlu diadain kuota free 10x transfer perbulan ke bank lain... karena Bank nya cuma ada di jakarta biar konsumen tidak susah,tolong layanan bi fast nya 2500 diadakan bank tidak mahal transfer klo diadain kuota free 10x transfer perbulan bank bank nya jakarta biar konsumen tidak susah,0.0,tolong:3; layanan:3; free:3; biar:1; susah:3,tidak:-5; mahal:-1; kuota:-2; tidak:-5,13.0,-13.0,ambiguous,,
+1407,Dikit2 update bikin maless,dikit2 update bikin maless,0.0,,,0.0,0.0,ambiguous,,
+1408,Kenapa ngk bisa kek Jakone mobile dki,kenapa ngk bisa kek jakone mobile dki,0.0,,,0.0,0.0,ambiguous,,
+1418,siiipppppp,siiipppppp,0.0,,,0.0,0.0,ambiguous,,
+1422,Keren masih optimal,keren optimal,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+1423,Kenapa susah login si padahal saya sudah punya rekening dari jackone yg lama selalu ada kesalah mulu sampe pulsa abis,kenapa susah login si padahal punya rekening jackone kesalah mulu sampe pulsa abis,0.0,punya:3; mulu:2; abis:1,susah:-3; pulsa:-3,6.0,-6.0,ambiguous,,
+1427,sering service offline,service offline,0.0,,,0.0,0.0,ambiguous,,
+1446,Aplikasi sangat membantu,aplikasi membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+1453,Mungkin bisa tambahkan costumer service,bisa tambahkan costumer service,0.0,,,0.0,0.0,ambiguous,,
+1487,Aplikasi multi fungsi dan mudah digunakan,aplikasi multi fungsi mudah digunakan,0.0,mudah:4,aplikasi:-4,4.0,-4.0,likely_positive,mudah digunakan,positive pattern in neutral score zero row
+1493,Sementara belum ada kata kata...,belum,0.0,,,0.0,0.0,ambiguous,,
+1509,Sangattt baguss,sangattt baguss,0.0,,,0.0,0.0,likely_positive,bagus,positive pattern in neutral score zero row
+1512,no bug and easy to use,no bug and easy to use,0.0,,,0.0,0.0,ambiguous,,
+1515,Update meleeeeee tiap bbrp bln..,update meleeeeee bbrp bln,0.0,,,0.0,0.0,ambiguous,,
+1523,Mantaaaap,mantaaaap,0.0,,,0.0,0.0,ambiguous,,
+1533,Aplikasi semakin menarik dan inovatif.Keren Bank DKI,aplikasi menarik inovatif keren bank dki,0.0,menarik:4,aplikasi:-4,4.0,-4.0,likely_positive,keren,positive pattern in neutral score zero row
+1542,Bayar tagihan jadi mudah dan bisa dimana aja kapan aja bisa sejak ada JakOne mobile gak kepikiran lagi sekarang...,bayar tagihan mudah bisa dimana kapan bisa jakone mobile tidak kepikiran,0.0,bayar:1; mudah:4,tidak:-5,5.0,-5.0,ambiguous,,
+1549,Bank DKI adalah bank daerah yang kondisi keuangannya baik,bank dki bank daerah kondisi keuangannya,0.0,,,0.0,0.0,ambiguous,,
+1569,Semoga tambah baik lg dah,semoga tambah lg dah,0.0,tambah:3,dah:-3,3.0,-3.0,ambiguous,,
+1581,lawak,lawak,0.0,,,0.0,0.0,ambiguous,,
+1589,"Makin mantab, makin lengkab.. !! 👍",mantab lengkab,0.0,,,0.0,0.0,ambiguous,,
+1608,Aplikasi ini terlalu sering update tapi tambah lemot,aplikasi update tambah lambat,0.0,tambah:3; lambat:1,aplikasi:-4,4.0,-4.0,likely_negative,lemot; lambat,negative pattern in neutral score zero row
+1618,min perbaiki menu tuk transfe ke bank lain,min perbaiki menu tuk transfe bank,0.0,,,0.0,0.0,ambiguous,,
+1641,Sering keblokir,keblokir,0.0,,,0.0,0.0,ambiguous,,
+1661,Aplikasi yang serbaguna dan mudah dipahami,aplikasi serbaguna mudah dipahami,0.0,mudah:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+1667,Maintenance fiturnya,maintenance fiturnya,0.0,,,0.0,0.0,ambiguous,,
+1670,Rehrrsxx,rehrrsxx,0.0,,,0.0,0.0,ambiguous,,
+1698,Untuk update saja loading terus,update loading,0.0,,,0.0,0.0,ambiguous,,
+1738,Jakone mobile bank dki makin keren 🥰,jakone mobile bank dki keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+1747,Keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+1751,cuman nyari keuntungan dari download aj sama potongan otp,cuman nyari keuntungan download aj potongan otp,0.0,keuntungan:4,nyari:-2; potongan:-2,4.0,-4.0,ambiguous,,
+1763,"Ganti aplikasi baru malah Ribed, ngisi data ulang,kalau memang data ada yg berubah pasti nasabah dateng ke Bank,kalau ribed kaya gini mending pakai aplikasi yang lama,udah jelas gak ribed hanya isi email,no rek,no hp,nama,pin,langsung bisa dipakai,nah ini yg baru malah bertele harus ngisi data lagi.kalau mau ganti aplikasi tuh yg praktis,jangan bikin ribed registrasinya.",ganti aplikasi ribed ngisi data ulang data berubah pasti nasabah dateng bank ribed kaya gini mending pakai aplikasi udah jelas tidak ribed isi email no rek no hp nama pin langsung bisa dipakai nah bertele ngisi data ganti aplikasi tuh praktis jangan bikin ribed registrasinya,0.0,ganti:3; pasti:3; nasabah:4; dateng:2; kaya:2; mending:2; jelas:1; isi:2; langsung:3; ganti:3; praktis:4,aplikasi:-4; data:-3; data:-3; aplikasi:-4; tidak:-5; data:-3; aplikasi:-4; jangan:-3,29.0,-29.0,likely_positive,praktis,positive pattern in neutral score zero row
+1766,mau beli kuota inyernet kok ngak ada sondcart,beli kuota inyernet kok ngak sondcart,0.0,beli:2,kuota:-2,2.0,-2.0,ambiguous,,
+1769,mantabbb,mantabbb,0.0,,,0.0,0.0,ambiguous,,
+1770,"Semua fitur kena sunat, tolong kembalikan semua fitur yang di dki lama",fitur kena sunat tolong kembalikan fitur dki,0.0,tolong:3,kena:-3,3.0,-3.0,ambiguous,,
+1778,Fiturnya keren,fiturnya keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+1788,Easy but slure,easy but slure,0.0,,,0.0,0.0,ambiguous,,
+1793,Serng lola dan Qris sudah digunakan...,serng lola qris digunakan,0.0,,,0.0,0.0,ambiguous,,
+1807,Baguss,baguss,0.0,,,0.0,0.0,likely_positive,bagus,positive pattern in neutral score zero row
+1808,Tambahin VA nya dong...,tambahin va nya,0.0,,,0.0,0.0,ambiguous,,
+1816,Excellent,excellent,0.0,,,0.0,0.0,ambiguous,,
+1817,"Aplikasi nya bagus banget,nggk ribet jadi gampang banget di gunakan",aplikasi nya bagus banget nggk ribet gampang banget gunakan,0.0,bagus:2; banget:1; gampang:4; banget:1,aplikasi:-4; ribet:-4,8.0,-8.0,ambiguous,bagus; ribet,
+1820,"Tolong diupgrade lagi aplikasinya, enakan yang versi lama. Soalnya yang terbaru tidak bisa transfer ke bank lain. hanya bisa sesama bank DKI saja. TOLONG KEMBALIKAN FITUR TRANSFER KE BANK LAIN🙏.",tolong diupgrade aplikasi enakan versi soalnya terbaru tidak bisa transfer bank bisa sesama bank dki tolong kembalikan fitur transfer bank,0.0,tolong:3; terbaru:4; tolong:3,aplikasi:-4; soalnya:-1; tidak:-5,10.0,-10.0,ambiguous,,
+1852,Kebanyakan update Suka eror,kebanyakan update suka error,0.0,kebanyakan:2; suka:3,error:-5,5.0,-5.0,likely_negative,error; eror,negative pattern in neutral score zero row
+1862,Buset...muter2 terus :(,buset muter2,0.0,,,0.0,0.0,ambiguous,,
+1889,"Aplikasi mudah di gunakan, Tampilan baru keren, setidaknya aplikasi mampu membantu orang"" dalam mencari informasi tentang jakarta",aplikasi mudah gunakan tampilan keren setidaknya aplikasi membantu orang mencari informasi jakarta,0.0,mudah:4; tampilan:1; membantu:4; informasi:2,aplikasi:-4; aplikasi:-4; mencari:-3,11.0,-11.0,likely_positive,aplikasi mudah; keren,positive pattern in neutral score zero row
+1896,Mantapppp,mantapppp,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+1899,Keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+1910,lama loginnya,login,0.0,,,0.0,0.0,ambiguous,,
+1917,Semenjak update stack di logo terus. Duit gue ada 40juta lagi disitu,semenjak update stack logo duit gue 40juta disitu,0.0,,,0.0,0.0,ambiguous,,
+1922,aplikssi sangat baik,aplikssi,0.0,,,0.0,0.0,ambiguous,,
+1925,buat rekening susahnya minta ampun 😠😠,rekening susahnya minta ampun,0.0,minta:2; ampun:1,susahnya:-3,3.0,-3.0,ambiguous,,
+1932,Okeee,okeee,0.0,,,0.0,0.0,ambiguous,,
+1933,Keren banget. Ini nih aplikasi yang cepat mudah digunakan dan tidak bikin bingung nasabahnya dalam bertransaksi.selain itu fiturnya juga banyak dan tampilannya juga baru. Keren banget pokoknya gak nyesel kalau download.,keren banget nih aplikasi cepat mudah digunakan tidak bikin bingung nasabahnya bertransaksi fiturnya tampilannya keren banget pokoknya tidak nyesel download,0.0,banget:1; cepat:3; mudah:4; bertransaksi:3; banget:1; nyesel:5,aplikasi:-4; tidak:-5; pokoknya:-3; tidak:-5,17.0,-17.0,likely_positive,mudah digunakan; keren; cepat,positive pattern in neutral score zero row
+1954,Aplikasi ini sangat baik. Terima kasih.,aplikasi terima kasih,0.0,terima:2; kasih:2,aplikasi:-4,4.0,-4.0,ambiguous,,
+1958,Pembuatan rekening mudahh,pembuatan rekening mudahh,0.0,,,0.0,0.0,ambiguous,,
+1993,Perfect,perfect,0.0,,,0.0,0.0,ambiguous,,
+2004,Aplikasi nya manteb dan mudah digunakan,aplikasi nya manteb mudah digunakan,0.0,mudah:4,aplikasi:-4,4.0,-4.0,likely_positive,mudah digunakan,positive pattern in neutral score zero row
+2026,bank terdomgo yg pernah saya download,bank terdomgo download,0.0,,,0.0,0.0,ambiguous,,
+2027,Update terus,update,0.0,,,0.0,0.0,ambiguous,,
+2032,Apk jakOne mobile sangat mudah digunakan rekomendasi!,aplikasi jakone mobile mudah digunakan rekomendasi,0.0,mudah:4,aplikasi:-4,4.0,-4.0,likely_positive,mudah digunakan,positive pattern in neutral score zero row
+2041,ntaps,ntaps,0.0,,,0.0,0.0,ambiguous,,
+2046,"Kok ga bs dipakai,padahal paket data tersedia",kok tidak bs dipakai padahal paket data tersedia,0.0,paket:4; tersedia:4,tidak:-5; data:-3,8.0,-8.0,ambiguous,,
+2079,terus tingkatkan,tingkatkan,0.0,,,0.0,0.0,ambiguous,,
+2097,aplikasi JakOne Mobile sangat membantu,aplikasi jakone mobile membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+2102,Utk Pembayaran Pendidikan yg PKP belum ada yaaa Mba/Mas Admin,pembayaran pendidikan pkp belum yaaa mba mas admin,0.0,,,0.0,0.0,ambiguous,,
+2112,"setiap dibuka malem hari loading terus padahal koneksi bagus, bisanya cuma pas pagi doang. apk pemerintah kenapa jelek"" bgt yaaa",setiap dibuka malem hari loading padahal koneksi bagus bisanya pas pagi doang aplikasi pemerintah kenapa jelek banget yaaa,0.0,koneksi:2; bagus:2; pas:3; pagi:1; doang:1; banget:1,malem:-1; aplikasi:-4; jelek:-5,10.0,-10.0,ambiguous,bagus; jelek,
+2121,Okok,okok,0.0,,,0.0,0.0,ambiguous,,
+2126,Update terusssss,update terusssss,0.0,,,0.0,0.0,ambiguous,,
+2147,Versi terbaru malah makin lemot parah,versi terbaru lambat parah,0.0,terbaru:4; lambat:1,parah:-5,5.0,-5.0,likely_negative,lemot; lambat; parah,negative pattern in neutral score zero row
+2151,Habeun weh boss update jiga nu alus wae,habeun weh boss update jiga nu alus wae,0.0,,,0.0,0.0,ambiguous,,
+2158,"Keren ,semoga terus berinovasi",keren semoga berinovasi,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+2177,"Nabung di aplikasi jackone aman banget, bisa qris juga jadi gampang kalo lupa bawa uang lebih. Belum ada maintance selama aku pake ini, aplikasi Mbanking favorit",nabung aplikasi jackone aman banget bisa qris gampang lupa bawa uang lebih belum maintance selama pakai aplikasi mbanking favorit,0.0,banget:1; gampang:4; lupa:1; bawa:1; lebih:1,aplikasi:-4; aplikasi:-4,8.0,-8.0,ambiguous,,
+2184,Aplikasinya sangat mudah digunakan,aplikasi mudah digunakan,0.0,mudah:4,aplikasi:-4,4.0,-4.0,likely_positive,mudah digunakan; aplikasi mudah,positive pattern in neutral score zero row
+2193,Mantab,mantab,0.0,,,0.0,0.0,ambiguous,,
+2208,Mantaappp,mantaappp,0.0,,,0.0,0.0,ambiguous,,
+2225,mau login akun aja susah minta ampun,login akun susah minta ampun,0.0,minta:2; ampun:1,susah:-3,3.0,-3.0,ambiguous,,
+2238,Bagaimana cara masukan npwp?,masukan npwp,0.0,,,0.0,0.0,ambiguous,,
+2256,Mantab,mantab,0.0,,,0.0,0.0,ambiguous,,
+2258,ini kenapa di aplikasi jakone mobile tidak ada opsi untuk tarik tunai tanpa kartu ya?,kenapa aplikasi jakone mobile tidak opsi tarik tunai kartu ya,0.0,tarik:2; tunai:3; ya:4,aplikasi:-4; tidak:-5,9.0,-9.0,ambiguous,,
+2259,9o,9o,0.0,,,0.0,0.0,ambiguous,,
+2286,teman saya bernama Dany yudha sangat merekomendasikan app mobile ini,teman bernama dany yudha merekomendasikan aplikasi mobile,0.0,bernama:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+2292,"Kenapa sih sering update,... masa 1bln 1x update",kenapa sih update masa 1bln 1x update,0.0,,,0.0,0.0,ambiguous,,
+2300,Aplikasinya sangat membantu,aplikasi membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+2311,Mantaaabbb,mantaaabbb,0.0,,,0.0,0.0,ambiguous,,
+2324,Keren...😍😍😍,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+2339,Kayword Ada banyak benefit gratis untuk aplikasi ini. Mendapatkan reward rp6000rb saat Mendaftar.,kayword benefit gratis aplikasi mendapatkan reward rp6000rb mendaftar,0.0,gratis:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+2368,masih banyak kekurangannya,kekurangannya,0.0,,,0.0,0.0,ambiguous,,
+2369,Belum bisa di alihkan ke hp baru,belum bisa alihkan hp,0.0,,,0.0,0.0,ambiguous,,
+2372,Keren bett!!,keren bett,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+2377,"Ini ko sekarang pas buka apk nya ada tulisan ""aplikasi ini terdeteksi tdi resmi"" .. sblm nya padahal baik² aja",ko pas buka aplikasi nya tulisan aplikasi terdeteksi tdi resmi sblm nya padahal,0.0,pas:3; buka:3; resmi:2,aplikasi:-4; aplikasi:-4,8.0,-8.0,ambiguous,,
+2393,"Aplikasi nya parah selalu aja loading, mau transaksi aja nunggu lama banget dan itu juga klo kebuka. Tolong di perbaiki kembali",aplikasi nya parah loading transaksi nunggu banget klo kebuka tolong perbaiki,0.0,transaksi:4; nunggu:1; banget:1; tolong:3,aplikasi:-4; parah:-5,9.0,-9.0,likely_negative,parah,negative pattern in neutral score zero row
+2401,Hebat !!!,hebat,0.0,,,0.0,0.0,ambiguous,,
+2433,payah tidak bisa top up gopay dan transfer antar bank,payah tidak bisa top up gopay transfer antar bank,0.0,top:5,tidak:-5,5.0,-5.0,likely_negative,payah,negative pattern in neutral score zero row
+2439,"Tolonglah masa minta kode otp aja lama banget,. Harus di perbaiki lagi, untuk bisa bersaing dengan yang lain,.",tolonglah masa minta kode otp banget perbaiki bisa bersaing,0.0,minta:2; banget:1,kode:-3,3.0,-3.0,ambiguous,,
+2466,Kenapa fitur BI fast untuk BCA dihilangkan setelah update?,kenapa fitur bi fast bca dihilangkan setelah update,0.0,,,0.0,0.0,ambiguous,,
+2472,Loading trus,loading,0.0,,,0.0,0.0,ambiguous,,
+2477,aplikasi nya sangat membantu dalam melakukan pembayaran apapun,aplikasi nya membantu melakukan pembayaran apapun,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+2478,Saya bingung ini semua data udh okeh tapi suruh verifikasih wajah sedangkan gagal mulu udh di coba dan sesuai dengan yg disuruh tetep juga ini cara nya gimana ya tolonv dong,bingung data okeh suruh verifikasih wajah sedangkan gagal mulu coba sesuai disuruh tetep nya gimana ya tolonv,0.0,mulu:2; coba:2; sesuai:3; ya:4,data:-3; suruh:-2; gagal:-4; disuruh:-2,11.0,-11.0,ambiguous,,
+2509,"BANK PALING GA JELAS YA CUMA INI, TRANSAKSI KEDEBIT TAPI TIDAK MASUK DAN UDAH LEBIH DARI 5 KALI DALAM BEBERAPA BULAN.",bank tidak jelas ya transaksi kedebit tidak masuk udah lebih 5 beberapa bulan,0.0,ya:4; transaksi:4; masuk:3; lebih:1,tidak:-5; jelas:-1; tidak:-5; bulan:-1,12.0,-12.0,ambiguous,,
+2526,Matap,matap,0.0,,,0.0,0.0,ambiguous,,
+2531,Mantabs...,mantabs,0.0,,,0.0,0.0,ambiguous,,
+2585,Kariyawan hanya bilang jonggol,kariyawan bilang jonggol,0.0,,,0.0,0.0,ambiguous,,
+2591,"Aplikasi mudah di gunakan, Tampilan baru keren bagus pokoknya iyahh",aplikasi mudah gunakan tampilan keren bagus pokoknya iyahh,0.0,mudah:4; tampilan:1; bagus:2,aplikasi:-4; pokoknya:-3,7.0,-7.0,likely_positive,aplikasi mudah; bagus; keren,positive pattern in neutral score zero row
+2592,Semakin bagusss pertnkn terusss,bagusss pertnkn terusss,0.0,,,0.0,0.0,likely_positive,bagus,positive pattern in neutral score zero row
+2606,"sampai sekarang masih belum bisa trasfer antar bank, server masih offline...hadeeh",belum bisa trasfer antar bank server offline hadeeh,0.0,,,0.0,0.0,ambiguous,,
+2624,keren apl nya,keren apl nya,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+2635,Bank DKI Luar Biasa👍👍👍,bank dki,0.0,,,0.0,0.0,ambiguous,,
+2637,beli pulsa 200 rb. Saldo udh kepotong tp pulsanya gak masuk. payah bgt ban dki,beli pulsa 200 rb saldo kepotong pulsanya tidak masuk payah banget ban dki,0.0,beli:2; saldo:2; masuk:3; banget:1,pulsa:-3; tidak:-5,8.0,-8.0,likely_negative,payah,negative pattern in neutral score zero row
+2669,"ada banyak banefit gratis untuk aplikasi saat ini,mendaptkan reward Rp600rb sat mendaftar.",banefit gratis aplikasi mendaptkan reward rp600rb sat mendaftar,0.0,gratis:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+2674,"JakOne salah satu aplikasi yg recommended, Aplikasi yang mudah digunakan dan dilengkapi dengan berbagai fitur yang memudahkan pengguna dalam melakukan transaksi.",jakone salah aplikasi recommended aplikasi mudah digunakan dilengkapi fitur memudahkan pengguna melakukan transaksi,0.0,mudah:4; memudahkan:3; pengguna:1; transaksi:4,salah:-4; aplikasi:-4; aplikasi:-4,12.0,-12.0,likely_positive,mudah digunakan; aplikasi mudah; recommended; memudahkan,positive pattern in neutral score zero row
+2711,Sering trouble mbankingnya...mau transfer ke dki dari bank lain selalu susah masuknya..harus mengulang terus ..tolong sistemnya d perbaiki,trouble mbankingnya transfer dki bank susah masuknya mengulang tolong sistemnya d perbaiki,0.0,tolong:3,susah:-3,3.0,-3.0,likely_negative,susah masuk,negative pattern in neutral score zero row
+2714,Pin diblokir gajls,pin diblokir gajls,0.0,,,0.0,0.0,ambiguous,,
+2736,"Semua kebutuhan mobile banking bisa dilakukan dalam satu aplikasi, JakOne jawabannya",kebutuhan mobile banking bisa dilakukan aplikasi jakone jawabannya,0.0,kebutuhan:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+2737,"Gajelas hampir tiap awal bulan suka gabisa di buka,..",gajelas bulan suka tidak bisa buka,0.0,suka:3; buka:3,bulan:-1; tidak:-5,6.0,-6.0,ambiguous,,
+2765,Mau login susahh!!,login susahh,0.0,,,0.0,0.0,ambiguous,,
+2773,Keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+2795,mantApppp,mantapppp,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+2801,Mantaappppppppppppppp deh fast verivikasi nya,mantaappppppppppppppp deh fast verivikasi nya,0.0,,,0.0,0.0,ambiguous,,
+2811,Aplikasinya banyak fitur yang bisa digunakan seperti mobile banking dan Qris. Mudah juga dalam penggunaanya.,aplikasi fitur bisa digunakan mobile banking qris mudah penggunaanya,0.0,mudah:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+2814,Bank DKI semoga semakin baik,bank dki semoga,0.0,,,0.0,0.0,ambiguous,,
+2815,"New jakone mobile,, mantabs",new jakone mobile mantabs,0.0,,,0.0,0.0,ambiguous,,
+2822,Lemot buka aplikasinya,lambat buka aplikasi,0.0,lambat:1; buka:3,aplikasi:-4,4.0,-4.0,likely_negative,lemot; lambat,negative pattern in neutral score zero row
+2823,Tapi kenapa sering ofline,kenapa ofline,0.0,,,0.0,0.0,ambiguous,,
+2826,gbisa aktifasi otp,gbisa aktifasi otp,0.0,,,0.0,0.0,ambiguous,,
+2834,Mantul,mantul,0.0,,,0.0,0.0,ambiguous,,
+2851,update mlu,update mlu,0.0,,,0.0,0.0,ambiguous,,
+2855,"aplikasinya bagus banget lengkap jugaa , mudah lagi untuk di pakai ga bikin bingung gimana cara pakai nya recommended deh",aplikasi bagus banget lengkap jugaa mudah pakai tidak bikin bingung gimana pakai nya recommended deh,0.0,bagus:2; banget:1; lengkap:2; mudah:4,aplikasi:-4; tidak:-5,9.0,-9.0,likely_positive,bagus; recommended,positive pattern in neutral score zero row
+2866,"tranksaksi apapun selalu ku percayakan kepada jakone,semua tersedia di apk inj",tranksaksi apapun ku percayakan jakone tersedia aplikasi inj,0.0,tersedia:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+2879,Zonk,zonk,0.0,,,0.0,0.0,ambiguous,,
+2894,"Alasan perbaikan system, system yg buat manusia, dari dulu klo ada error alasan system terus. giliran nawarin KMG offline/online gencar banget tiap hari ada aja yg WA nawarin KMG, giliran ada error, dah 2 pekan ini loh...",alasan perbaikan system system manusia klo error alasan system giliran nawarin kmg offline online gencar banget hari wa nawarin kmg giliran error dah 2 pekan loh,0.0,perbaikan:3; manusia:3; giliran:3; banget:1; giliran:3,error:-5; error:-5; dah:-3,13.0,-13.0,likely_negative,error,negative pattern in neutral score zero row
+2911,"Jakone mobile versi baru lumayan lama loading dan membuka per menu lama sekali, saya mau proses transfer sudah 2 jam belum berhasil, sudah restart 4 kali, harus berada di sinyal yang sangat kuat, sinyal biasa ga bisa",jakone mobile versi lumayan loading membuka menu proses transfer 2 jam belum berhasil restart 4 berada sinyal kuat sinyal tidak bisa,0.0,lumayan:1; proses:1; berada:4; kuat:2,berhasil:-3; tidak:-5,8.0,-8.0,ambiguous,,
+2928,Lamaaaaaaaa,lamaaaaaaaa,0.0,,,0.0,0.0,ambiguous,,
+2980,Aplikasi sangat membantu,aplikasi membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+2983,"Jaringan hp saya bagus kenapa susah sekali untuk dibuka aplikasi ini, coba diperbaiki sistemnya",jaringan hp bagus kenapa susah dibuka aplikasi coba diperbaiki sistemnya,0.0,jaringan:3; bagus:2; coba:2,susah:-3; aplikasi:-4,7.0,-7.0,likely_positive,bagus,positive pattern in neutral score zero row
+2993,gajelas,gajelas,0.0,,,0.0,0.0,ambiguous,,
+3013,menabung tanpa kesulitan ???????? tinggal klik saja,menabung kesulitan tinggal klik,0.0,menabung:4; tinggal:1,kesulitan:-5,5.0,-5.0,ambiguous,,
+3041,Okee,okee,0.0,,,0.0,0.0,ambiguous,,
+3044,"Lebih efisien dan fleksibel kalau punya apk ini, tapi ini apk jakone lama yaa untuk log in dan loading aplikasinyaa 😴",lebih efisien fleksibel punya aplikasi aplikasi jakone yaa log in loading aplikasinyaa,0.0,lebih:1; efisien:4; punya:3,aplikasi:-4; aplikasi:-4,8.0,-8.0,ambiguous,,
+3047,"Aplikasinya bisa digunakan dengan baik, semoga bisa lebih baik daripada ini. Sukses selalu.",aplikasi bisa digunakan semoga bisa lebih sukses,0.0,lebih:1; sukses:3,aplikasi:-4,4.0,-4.0,ambiguous,,
+3053,otp nya 2000000 years later,otp nya 2000000 years later,0.0,,,0.0,0.0,ambiguous,,
+3057,mantul,mantul,0.0,,,0.0,0.0,ambiguous,,
+3065,wow,wow,0.0,,,0.0,0.0,ambiguous,,
+3087,"Aplikasi nya mudah di gunakan, cepet juga kalo mau buka rekening baru. Dan gak lemotttt...",aplikasi nya mudah gunakan cepet buka rekening tidak lemotttt,0.0,mudah:4; cepet:2; buka:3,aplikasi:-4; tidak:-5,9.0,-9.0,likely_negative,lemot,negative pattern in neutral score zero row
+3088,tampilannya bagus dan mudah untuk digunakan juga. keren dah pokoknya!!,tampilannya bagus mudah digunakan keren dah pokoknya,0.0,bagus:2; mudah:4,dah:-3; pokoknya:-3,6.0,-6.0,likely_positive,mudah digunakan; bagus; keren,positive pattern in neutral score zero row
+3102,"Aplikasi nya bagus sekali,fitur lengkap",aplikasi nya bagus fitur lengkap,0.0,bagus:2; lengkap:2,aplikasi:-4,4.0,-4.0,likely_positive,bagus,positive pattern in neutral score zero row
+3128,"Ada banyak benefit gratis untuk aplikasi ini, memdapatkan reward rp600rb saat memdaftar",benefit gratis aplikasi memdapatkan reward rp600rb memdaftar,0.0,gratis:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+3137,Muantapp,muantapp,0.0,,,0.0,0.0,ambiguous,,
+3138,kerenn,kerenn,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+3163,Bgusss,bgusss,0.0,,,0.0,0.0,ambiguous,,
+3167,Mantaps,mantaps,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+3202,wow,wow,0.0,,,0.0,0.0,ambiguous,,
+3215,Awesome,awesome,0.0,,,0.0,0.0,ambiguous,,
+3242,"Parah di keren banget aplikasinya, apalagi skrg ada fitur lengkapnya. Makin keren tampilannya dan transaksi semakin cepat keren banget",parah keren banget aplikasi apalagi skrg fitur lengkapnya keren tampilannya transaksi cepat keren banget,0.0,banget:1; transaksi:4; cepat:3; banget:1,parah:-5; aplikasi:-4,9.0,-9.0,ambiguous,keren; cepat; parah,
+3261,Sangat bermanpaat,bermanpaat,0.0,,,0.0,0.0,ambiguous,,
+3267,Update,update,0.0,,,0.0,0.0,ambiguous,,
+3286,keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+3289,sangat rekomendasi sekali tempat penyimpanan yang aman dan sangat mudahh,rekomendasi penyimpanan aman mudahh,0.0,,,0.0,0.0,ambiguous,,
+3303,Bank DKI makin keren,bank dki keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+3314,Bukan aplikasi kaleng kaleng sih ini. Super aplikasi mobile banking ever exist. JakOne!,bukan aplikasi kaleng kaleng sih super aplikasi mobile banking ever exist jakone,0.0,aplikasi:4; super:3,bukan:-3; aplikasi:-4,7.0,-7.0,ambiguous,,
+3319,"Melakukan pembayaran apa aja jadi lebih gampang dan anti ribet, makin keren dengan tampilan baru",melakukan pembayaran lebih gampang anti ribet keren tampilan,0.0,lebih:1; gampang:4; tampilan:1,anti:-2; ribet:-4,6.0,-6.0,ambiguous,keren; ribet,
+3334,"Parah, transaksi lambat sekali..",parah transaksi lambat,0.0,transaksi:4; lambat:1,parah:-5,5.0,-5.0,likely_negative,lambat; parah,negative pattern in neutral score zero row
+3345,Apk sangat membantu,aplikasi membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+3381,mantapp,mantapp,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+3388,Keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+3431,"dibuka ngk bisa, unsintal kmr instal lagi ngk bisa 😭",dibuka ngk bisa unsintal kmr instal ngk bisa,0.0,,,0.0,0.0,ambiguous,,
+3460,Service time out,service time out,0.0,,,0.0,0.0,ambiguous,,
+3469,"Semakin Terdepan, JakOne Mobile Bank DKI 👍👍👍",terdepan jakone mobile bank dki,0.0,,,0.0,0.0,ambiguous,,
+3486,Excellent,excellent,0.0,,,0.0,0.0,ambiguous,,
+3487,lamaaa,lamaaa,0.0,,,0.0,0.0,ambiguous,,
+3489,mbanking terburuk sepanjang masa,mbanking terburuk sepanjang masa,0.0,,,0.0,0.0,likely_negative,buruk,negative pattern in neutral score zero row
+3494,Untuk saat ini mantaplah☺,mantaplah,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+3511,Sekarang ga bisa top up/ transfer diatas 1jt,tidak bisa top up transfer diatas 1jt,0.0,top:5,tidak:-5,5.0,-5.0,ambiguous,,
+3519,User sering terkunci 0003,user terkunci 0003,0.0,,,0.0,0.0,ambiguous,,
+3542,aplikasi nya sangat membantu saya,aplikasi nya membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+3545,Susah loginya paswd sm ID dah bener gara2 ganti hp kejual,susah login paswd id dah bener gara2 ganti hp kejual,0.0,bener:3; ganti:3,susah:-3; dah:-3,6.0,-6.0,ambiguous,,
+3550,"ternyata registrasi jakone mobile mudah & cepet, ga pake ribet jdi satset, cocok buat yang males buang"" waktu dan pengen yang simpel",ternyata registrasi jakone mobile mudah cepet tidak pakai ribet jdi satset cocok males buang pengen simpel,0.0,mudah:4; cepet:2; cocok:4; pengen:3; simpel:3,tidak:-5; ribet:-4; males:-4; buang:-3,16.0,-16.0,ambiguous,simpel; ribet,
+3577,Bank rekomendasi,bank rekomendasi,0.0,,,0.0,0.0,ambiguous,,
+3583,Mantab,mantab,0.0,,,0.0,0.0,ambiguous,,
+3586,Dengan adanya aplikasi mobile banking Jakone ini jadi mempermudah untuk yang ingin buka rekening di Bank DKI mana prosesnya mudah👍🏼,aplikasi mobile banking jakone mempermudah ingin buka rekening bank dki prosesnya mudah,0.0,buka:3; mudah:4,aplikasi:-4; mempermudah:-3,7.0,-7.0,ambiguous,,
+3600,"Nice app,,helpfull",nice aplikasi helpfull,0.0,nice:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+3603,Aplikasinya bagus banget buat nyimpen uang dan penarikannya sangat cepat buat kalian yang bingung nyimpen uang di i walet mana saran saya sekalian download aplikasi ini sangat rekomended dan bisa dipercaya keamanannya,aplikasi bagus banget nyimpen uang penarikannya cepat kalian bingung nyimpen uang i walet saran download aplikasi rekomended bisa dipercaya keamanannya,0.0,bagus:2; banget:1; cepat:3; saran:2,aplikasi:-4; aplikasi:-4,8.0,-8.0,likely_positive,bagus; cepat,positive pattern in neutral score zero row
+3607,Keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+3612,Sering bgtt pembaharuan,bgtt pembaharuan,0.0,,,0.0,0.0,ambiguous,,
+3633,"Bagus banget aplikasi JakOne, beneran sebagus itu mobile banking satu ini, wajib download!",bagus banget aplikasi jakone beneran sebagus mobile banking wajib download,0.0,bagus:2; banget:1; beneran:3,aplikasi:-4; wajib:-2,6.0,-6.0,likely_positive,bagus,positive pattern in neutral score zero row
+3647,Mantaplahhhpokokx,mantaplahhhpokokx,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+3654,Keren aplikasi nya sangat membantu aplikasi nya juga mudah di gunakan,keren aplikasi nya membantu aplikasi nya mudah gunakan,0.0,membantu:4; mudah:4,aplikasi:-4; aplikasi:-4,8.0,-8.0,likely_positive,sangat membantu; keren,positive pattern in neutral score zero row
+3656,Aplikasi sangat membantu,aplikasi membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+3666,Mantab,mantab,0.0,,,0.0,0.0,ambiguous,,
+3674,Semakin maju Bank DKI,maju bank dki,0.0,,,0.0,0.0,ambiguous,,
+3675,"mantap verifikasi data ga ribet dan cepet juga,begitupun limitnya dan biayanya bulanannya gratis tidak ada saldo ngendap",mantap verifikasi data tidak ribet cepet begitupun limitnya biayanya bulanannya gratis tidak saldo ngendap,0.0,mantap:5; ribet:4; cepet:2; gratis:4,data:-3; tidak:-5; tidak:-5; saldo:-2,15.0,-15.0,ambiguous,mantap; ribet,
+3689,Niceee,niceee,0.0,,,0.0,0.0,ambiguous,,
+3712,Aplikasi yang sangat membantu,aplikasi membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+3734,sementara satu dulu karena belum bisa transfer antar bank,belum bisa transfer antar bank,0.0,,,0.0,0.0,ambiguous,,
+3748,Aplikasi serbaguna dan sangat membantu,aplikasi serbaguna membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+3756,Aplikasi masa depan untuk transaksi keren...,aplikasi masa transaksi keren,0.0,transaksi:4,aplikasi:-4,4.0,-4.0,likely_positive,keren,positive pattern in neutral score zero row
+3776,Mantab....,mantab,0.0,,,0.0,0.0,ambiguous,,
+3785,Bangke potoNya susah bener,bangke potonya susah bener,0.0,bener:3,susah:-3,3.0,-3.0,ambiguous,,
+3790,ada banyak benefit Gratis untuk aplikasi inimendapatkan reward Rp 600rb saat mendaftar.,benefit gratis aplikasi inimendapatkan reward rp 600rb mendaftar,0.0,gratis:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+3792,Jakone selalu update dan keren,jakone update keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+3794,Mau verivikasi fhoto gagal2 terus,verivikasi fhoto gagal2,0.0,,,0.0,0.0,ambiguous,,
+3795,apakah ini sedang dalam maintenance ??,apakah maintenance,0.0,,,0.0,0.0,ambiguous,,
+3796,aplikasi PLAT MERAH TERSAMPAH!!!!,aplikasi plat merah tersampah,0.0,merah:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+3801,apk yang sangat membantu,aplikasi membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+3808,"Sangat terbantu apalagi di era serba digitalisasi ini, satu aplikasi untuk segalanya, dan sangat mudah untuk pendaftarannya!",terbantu apalagi era serba digitalisasi aplikasi segalanya mudah pendaftarannya,0.0,mudah:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+3809,Setelah di Update Malah Ga Bisa Di Buka Padahal Sinyal Bagus hadehhhhb,setelah update tidak bisa buka padahal sinyal bagus hadehhhhb,0.0,buka:3; bagus:2,tidak:-5,5.0,-5.0,likely_positive,bagus,positive pattern in neutral score zero row
+3847,Ada banyak benefit gratis untuk aplikasi ini mendapatkan reward rp600rp saat mendaftar,benefit gratis aplikasi mendapatkan reward rp600rp mendaftar,0.0,gratis:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+3865,Bsgus,bsgus,0.0,,,0.0,0.0,ambiguous,,
+3879,Keseringan update. Padahal belum lama update..,keseringan update padahal belum update,0.0,,,0.0,0.0,ambiguous,,
+3882,aman,aman,0.0,,,0.0,0.0,ambiguous,,
+3889,aplikasi ini memberi kemudahan bertransaksi dan mengaturkebutuhan keuangan kita dengan fitur mobile banking dan e wallet dalam satu aplikasi,aplikasi memberi kemudahan bertransaksi mengaturkebutuhan keuangan kita fitur mobile banking e wallet aplikasi,0.0,memberi:2; kemudahan:3; bertransaksi:3,aplikasi:-4; aplikasi:-4,8.0,-8.0,ambiguous,,
+3897,Aplikasi yang sangat membantu 😍😍,aplikasi membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+3908,Aplikasi nya sangat mudah untuk digunakan apalagi banyak terdapat fitur,aplikasi nya mudah digunakan apalagi fitur,0.0,mudah:4,aplikasi:-4,4.0,-4.0,likely_positive,mudah digunakan,positive pattern in neutral score zero row
+3912,Saya sangat terbantu sekali,terbantu,0.0,,,0.0,0.0,ambiguous,,
+3921,"Aplikasi m banking yang gak ribet, sangat memudahkan untuk transaksi, yang punya bank DKi wajib banget download aplikasi ini 🤗",aplikasi m banking tidak ribet memudahkan transaksi punya bank dki wajib banget download aplikasi,0.0,ribet:4; memudahkan:3; transaksi:4; punya:3; banget:1,aplikasi:-4; tidak:-5; wajib:-2; aplikasi:-4,15.0,-15.0,ambiguous,memudahkan; ribet,
+3940,knpa suka eror mulu,knpa suka error mulu,0.0,suka:3; mulu:2,error:-5,5.0,-5.0,likely_negative,error; eror,negative pattern in neutral score zero row
+3944,keren😁🤤👍🏻,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+3948,"Kenapa ya daftar ga bisa""😔😔🤲",kenapa ya daftar tidak bisa,0.0,ya:4; daftar:1,tidak:-5,5.0,-5.0,ambiguous,,
+3952,Mantapp bank dki,mantapp bank dki,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+3963,Aplikasi sangat membantu sekali 👍👍,aplikasi membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu; membantu sekali,positive pattern in neutral score zero row
+3968,Keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+3983,Keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+4003,Kaga bisa login asw,kaga bisa login asw,0.0,,,0.0,0.0,ambiguous,,
+4004,Aplikasi sangat membantu,aplikasi membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+4005,Makin kesini makin payah,kesini payah,0.0,,,0.0,0.0,likely_negative,payah,negative pattern in neutral score zero row
+4024,come on maintenance,come on maintenance,0.0,,,0.0,0.0,ambiguous,,
+4035,"Kenapa m banking saya sudah 3 hari ini hitam tdk bisa melakukan transaksi, mohon solusinya",kenapa m banking 3 hari hitam tidak bisa melakukan transaksi mohon solusinya,0.0,transaksi:4; mohon:2; solusinya:3,hitam:-4; tidak:-5,9.0,-9.0,ambiguous,,
+4060,Baguus,baguus,0.0,,,0.0,0.0,ambiguous,,
+4076,Mantul bu evi.... Ngajarin jakonenya .... Maju terus jakone,mantul bu evi ngajarin jakonenya maju jakone,0.0,,,0.0,0.0,ambiguous,,
+4078,"Kenapa setiap saya mau buka kok loading lama trus muncul tulisan SILAHKAN PERIKSA KEMBALI KONEKSI INTERNET ANDA. padahal paketan data saya gacor banget klo buka Youtube & aplikasi"" yg lain. Tolong perbaiki dong aplikasi JackOne Mobile nya supaya tetap eksis Bank DKI nya.",kenapa setiap buka kok loading muncul tulisan silahkan periksa koneksi internet padahal paketan data gacor banget klo buka youtube aplikasi tolong perbaiki aplikasi jackone mobile nya eksis bank dki nya,0.0,buka:3; muncul:1; silahkan:3; koneksi:2; banget:1; buka:3; tolong:3,periksa:-5; data:-3; aplikasi:-4; aplikasi:-4,16.0,-16.0,ambiguous,,
+4124,Bank DKI hebat,bank dki hebat,0.0,,,0.0,0.0,ambiguous,,
+4135,"satukata,ancur !!!!",satukata ancur,0.0,,,0.0,0.0,ambiguous,,
+4156,Bagus bangett,bagus bangett,0.0,bagus:2,bangett:-2,2.0,-2.0,likely_positive,bagus,positive pattern in neutral score zero row
+4157,Gokil. Is the best in the world,gokil is the best in the world,0.0,,,0.0,0.0,ambiguous,,
+4158,lemottt,lemottt,0.0,,,0.0,0.0,likely_negative,lemot,negative pattern in neutral score zero row
+4164,jakone is the best,jakone is the best,0.0,,,0.0,0.0,ambiguous,,
+4169,mau San KTP susah amat sih padahal udah GK blur fotonya 😕😭,san ktp susah amat sih padahal udah tidak blur fotonya,0.0,amat:4; blur:4,susah:-3; tidak:-5,8.0,-8.0,ambiguous,,
+4174,Rekomendasi 👍,rekomendasi,0.0,,,0.0,0.0,ambiguous,,
+4175,Ada banyak benefit gratis untuk aplikasi ini Mendapatkan reward Rp600 rbu saat mendaftar,benefit gratis aplikasi mendapatkan reward rp600 rbu mendaftar,0.0,gratis:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+4180,Mantap nihh developernya! bikin aplikasi bank digital yang keren dan super-fast banget. Ini aplikasi yang gak pernah lelet buat dipakai transaksi berkali-kali. Buat yang mau buka rekening baru di bak.,mantap nihh developernya bikin aplikasi bank digital keren super fast banget aplikasi tidak lelet dipakai transaksi berkali buka rekening bak,0.0,mantap:5; super:3; banget:1; transaksi:4; buka:3,nihh:-3; aplikasi:-4; aplikasi:-4; tidak:-5,16.0,-16.0,likely_positive,mantap; keren,positive pattern in neutral score zero row
+4191,1 aplikasi utk semua transaksi,1 aplikasi transaksi,0.0,transaksi:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+4203,lemottttttttttttty,lemottttttttttttty,0.0,,,0.0,0.0,likely_negative,lemot,negative pattern in neutral score zero row
+4214,tolong diperbaiki saya isi pulsa 4 × masih dalam proses tapi dana tidak balik. mau tarik atm bersama gagal terus. mau isi ovo pun tidak ada.,tolong diperbaiki isi pulsa 4 proses dana tidak balik tarik atm gagal isi ovo tidak,0.0,tolong:3; isi:2; proses:1; dana:4; balik:3; tarik:2; isi:2,pulsa:-3; tidak:-5; gagal:-4; tidak:-5,17.0,-17.0,ambiguous,,
+4223,kebanyakan oflline nya .. aplikasinya bobrok... penanganan yg lambat.. nyusahin pengguna nya untuk transaksi..,kebanyakan oflline nya aplikasi bobrok penanganan lambat nyusahin pengguna nya transaksi,0.0,kebanyakan:2; penanganan:1; lambat:1; pengguna:1; transaksi:4,aplikasi:-4; bobrok:-5,9.0,-9.0,likely_negative,lambat,negative pattern in neutral score zero row
+4233,Ada banyak benefits gratis untuk aplikasi ini mendapatkan reward Rp600rb saat mendaftar.,benefits gratis aplikasi mendapatkan reward rp600rb mendaftar,0.0,gratis:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+4288,"Baru menggunakan, fasilitasnya lebih lengkap dr yg sebelumnya. Tapi blm digunakan semuanya",menggunakan fasilitasnya lebih lengkap sebelumnya belum digunakan semuanya,0.0,lebih:1; lengkap:2,semuanya:-3,3.0,-3.0,ambiguous,,
+4302,Mantaaaappp 👍👍,mantaaaappp,0.0,,,0.0,0.0,ambiguous,,
+4305,Sulit verifikasi,sulit verifikasi,0.0,,,0.0,0.0,ambiguous,,
+4307,"Aplikasinya super bagus, cocok buat anak muda. Semoga kedepannya semakin banyak fiturnya",aplikasi super bagus cocok anak muda semoga kedepannya fiturnya,0.0,super:3; bagus:2; cocok:4,aplikasi:-4; anak:-3; muda:-2,9.0,-9.0,likely_positive,bagus,positive pattern in neutral score zero row
+4314,Semenjak update aplikasi yg terbaru malah susah buka m-banking,semenjak update aplikasi terbaru susah buka m banking,0.0,terbaru:4; buka:3,aplikasi:-4; susah:-3,7.0,-7.0,ambiguous,,
+4323,"Setiap mau login atau transfer ke Ewallet selalu gak bisa dan keluar notif (Koneksi terputus / tidak ada koneksi internet, silahkan coba lagi), padahal internet lancar buka yang lain lancar. Aplikasi ini doang jaringannya eror mulu. Tolong diperbaiki",setiap login transfer ewallet tidak bisa keluar notif koneksi terputus tidak koneksi internet silahkan coba padahal internet lancar buka lancar aplikasi doang jaringannya error mulu tolong diperbaiki,0.0,koneksi:2; silahkan:3; coba:2; lancar:4; buka:3; lancar:4; doang:1; mulu:2; tolong:3,tidak:-5; keluar:-3; tidak:-5; koneksi:-2; aplikasi:-4; error:-5,24.0,-24.0,ambiguous,lancar; error; eror,
+4326,Recomended,recomended,0.0,,,0.0,0.0,ambiguous,,
+4332,Tolong dong ditingkatkan lagi payah banget aplikasinya . Permudah dong contoh BCA mobile,tolong ditingkatkan payah banget aplikasi permudah contoh bca mobile,0.0,tolong:3; banget:1,aplikasi:-4,4.0,-4.0,likely_negative,payah,negative pattern in neutral score zero row
+4345,Mntap,mntap,0.0,,,0.0,0.0,ambiguous,,
+4352,MantaPKS,mantapks,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+4356,"Apk yang sangat membatu , bayar pln iai paket data dengan mudah , deposit pun nggx ribet ono ini .",aplikasi membatu bayar pln iai paket data mudah deposit nggx ribet ono,0.0,membatu:2; bayar:1; paket:4; mudah:4,aplikasi:-4; data:-3; ribet:-4,11.0,-11.0,likely_negative,ribet,negative pattern in neutral score zero row
+4371,"bagus banget aplikasi ini fiturnya lengkap, tranksaksi nya juga ga ribet",bagus banget aplikasi fiturnya lengkap tranksaksi nya tidak ribet,0.0,bagus:2; banget:1; lengkap:2; ribet:4,aplikasi:-4; tidak:-5,9.0,-9.0,ambiguous,bagus; ribet,
+4380,"Aplikasinya keren bgt sih karena fiturnya sudah lengkap dan bisa bikin rekening online, pokoknya memudahkan banget",aplikasi keren banget sih fiturnya lengkap bisa bikin rekening online pokoknya memudahkan banget,0.0,banget:1; lengkap:2; memudahkan:3; banget:1,aplikasi:-4; pokoknya:-3,7.0,-7.0,likely_positive,keren; memudahkan,positive pattern in neutral score zero row
+4399,"Aplikasi nya sangat bagus untuk transaksi,rekomen banget apk ino guys",aplikasi nya bagus transaksi rekomen banget aplikasi ino guys,0.0,bagus:2; transaksi:4; banget:1; guys:1,aplikasi:-4; aplikasi:-4,8.0,-8.0,likely_positive,bagus,positive pattern in neutral score zero row
+4406,User friendly👍,user friendly,0.0,,,0.0,0.0,ambiguous,,
+4408,Jakone yg Baru Tambah lemot . Login nya lama bngt parah abis,jakone tambah lambat login nya bngt parah abis,0.0,tambah:3; lambat:1; abis:1,parah:-5,5.0,-5.0,likely_negative,lemot; lambat; parah,negative pattern in neutral score zero row
+4421,Aplikasi yg sangat membantu,aplikasi membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+4466,Jakone Mobile semoga kita semua,jakone mobile semoga kita,0.0,,,0.0,0.0,ambiguous,,
+4485,"aplikasinya mudah digunakan,bisa transfer kesemua bank",aplikasi mudah digunakan bisa transfer kesemua bank,0.0,mudah:4,aplikasi:-4,4.0,-4.0,likely_positive,mudah digunakan; aplikasi mudah,positive pattern in neutral score zero row
+4501,Ol,ol,0.0,,,0.0,0.0,ambiguous,,
+4511,belum bisa transfer ke bank lain,belum bisa transfer bank,0.0,,,0.0,0.0,ambiguous,,
+4516,Keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+4530,"Ada banyak benefit gratis untuk aplikasi ini,mendapatkan reward Rp 600ribu saat mandaftar",benefit gratis aplikasi mendapatkan reward rp 600ribu mandaftar,0.0,gratis:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+4537,Aplikasi yang digunakan untuk melakukan pembayaran atau pembelian. Aplikasinya mudah digunakan sejauh ini sangat membantu untuk digunakan sehari-hari.,aplikasi digunakan melakukan pembayaran pembelian aplikasi mudah digunakan sejauh membantu digunakan sehari hari,0.0,mudah:4; membantu:4,aplikasi:-4; aplikasi:-4,8.0,-8.0,likely_positive,mudah digunakan; aplikasi mudah; sangat membantu,positive pattern in neutral score zero row
+4538,Pas masuk malah jadi bikin rekening baru,pas masuk bikin rekening,0.0,pas:3,masuk:-3,3.0,-3.0,ambiguous,,
+4539,ANEH BANGET G BISA DIBUKA APKNYA,aneh banget tidak bisa dibuka apknya,0.0,aneh:4; banget:1,tidak:-5,5.0,-5.0,ambiguous,,
+4549,User friendly,user friendly,0.0,,,0.0,0.0,ambiguous,,
+4558,Keren makin dasyat dki mobile,keren dasyat dki mobile,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+4563,Sangat bagusssssss,bagusssssss,0.0,,,0.0,0.0,likely_positive,bagus,positive pattern in neutral score zero row
+4567,Keren sekali aplikasi JakOne Mobile dapat menikmati layanan transaksi digital Bank DKI.,keren aplikasi jakone mobile menikmati layanan transaksi digital bank dki,0.0,layanan:3; transaksi:4,aplikasi:-4; menikmati:-3,7.0,-7.0,likely_positive,keren,positive pattern in neutral score zero row
+4611,Fitur fiturnya bagus semua. Semua bisa dilakukan serba online.mau bayar bayar juga gaperlu repot. Apalagi sistem pembayarannya udah gampang banget,fitur fiturnya bagus bisa dilakukan serba online bayar bayar gaperlu repot apalagi sistem pembayarannya udah gampang banget,0.0,bagus:2; bayar:1; bayar:1; gampang:4; banget:1,repot:-5; sistem:-4,9.0,-9.0,likely_positive,bagus,positive pattern in neutral score zero row
+4616,"Jakone Mobile, splikasi paling recomend binggo",jakone mobile splikasi recomend binggo,0.0,,,0.0,0.0,ambiguous,,
+4621,Is the best,is the best,0.0,,,0.0,0.0,ambiguous,,
+4623,pokoke JakOne manttaaaaaaaaaaapp 👍👍,pokoke jakone manttaaaaaaaaaaapp,0.0,,,0.0,0.0,ambiguous,,
+4643,The best aplikasi buat transaksi,the best aplikasi transaksi,0.0,transaksi:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+4650,Sering offline,offline,0.0,,,0.0,0.0,ambiguous,,
+4664,"Aplikasi yang sangat membantu dan serbaguna sekali, ga nyesel download JakOne Mobile",aplikasi membantu serbaguna tidak nyesel download jakone mobile,0.0,membantu:4; nyesel:5,aplikasi:-4; tidak:-5,9.0,-9.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+4675,Bank ribed sedunia,bank ribed sedunia,0.0,,,0.0,0.0,ambiguous,,
+4681,"server selalu maintenance up down, tolong diperbaiki",server maintenance up down tolong diperbaiki,0.0,tolong:3,down:-3,3.0,-3.0,ambiguous,,
+4684,Aplikasi JakOne Mobile yang terpercaya dan aman. Transaksi di apk ini sangat mudah dan prosesnya cepet. Keren bangett,aplikasi jakone mobile terpercaya aman transaksi aplikasi mudah prosesnya cepet keren bangett,0.0,transaksi:4; mudah:4; cepet:2,aplikasi:-4; aplikasi:-4; bangett:-2,10.0,-10.0,likely_positive,aplikasi mudah; keren,positive pattern in neutral score zero row
+4688,restart sendiri,restart,0.0,,,0.0,0.0,ambiguous,,
+4697,Mantaaaablah,mantaaaablah,0.0,,,0.0,0.0,ambiguous,,
+4718,Paraaaaaaah,paraaaaaaah,0.0,,,0.0,0.0,ambiguous,,
+4719,keren banget ini aplikasi mudah digunain dan ga ribet apalagi banyak promonya,keren banget aplikasi mudah digunain tidak ribet apalagi promonya,0.0,banget:1; mudah:4; ribet:4,aplikasi:-4; tidak:-5,9.0,-9.0,ambiguous,aplikasi mudah; keren; ribet,
+4730,Mantab,mantab,0.0,,,0.0,0.0,ambiguous,,
+4739,Tiba2 hilan bgtu saja jakone knpa ?,tiba2 hilan jakone knpa,0.0,,,0.0,0.0,ambiguous,,
+4777,Sangat sangatmenantang,sangatmenantang,0.0,,,0.0,0.0,ambiguous,,
+4780,"tolong lah perbaikin, masa gada pilihan buat transfer ke bank lain. gada fitur buat transfer ke e-wallet. bayar pake qris juga gabisa digunain. jelek banget",tolong perbaikin masa gada pilihan transfer bank gada fitur transfer e wallet bayar pakai qris tidak bisa digunain jelek banget,0.0,tolong:3; pilihan:5; bayar:1; banget:1,tidak:-5; jelek:-5,10.0,-10.0,likely_negative,jelek,negative pattern in neutral score zero row
+4805,mantapp ada minigames,mantapp minigames,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+4823,"Ini update mulu nggak sampai semester udah 2 kali, ada masalah apa ini ya? Ini bulan 12. Sudah update lagi ya.",update mulu tidak semester udah 2 masalah ya bulan 12 update ya,0.0,mulu:2; ya:4; ya:4,tidak:-5; masalah:-4; bulan:-1,10.0,-10.0,ambiguous,,
+4829,Pakek apk ini seneng bgt soalnya gampang mau bayat apa aja disini bisa ga pakek ribett,pakek aplikasi seneng banget soalnya gampang bayat disini bisa tidak pakek ribett,0.0,seneng:5; banget:1; gampang:4,aplikasi:-4; soalnya:-1; tidak:-5,10.0,-10.0,likely_negative,ribet,negative pattern in neutral score zero row
+4838,The worst bank ever (From IT apps),the worst bank ever from it apps,0.0,,,0.0,0.0,ambiguous,,
+4847,Cek saldo jack card muter mulu,cek saldo jack card muter mulu,0.0,saldo:2; mulu:2,cek:-4,4.0,-4.0,ambiguous,,
+4851,1. Menu lebih lengkap aplikasi yang lama 2. Tampilan lebih bagus aplikasi yang lama 3. Pengoperasian lebih mudah aplikasi yang lama,1 menu lebih lengkap aplikasi 2 tampilan lebih bagus aplikasi 3 pengoperasian lebih mudah aplikasi,0.0,lebih:1; lengkap:2; tampilan:1; lebih:1; bagus:2; lebih:1; mudah:4,aplikasi:-4; aplikasi:-4; aplikasi:-4,12.0,-12.0,likely_positive,bagus,positive pattern in neutral score zero row
+4853,"kenapa sekarang ada 2 apliaksi jackone mobile, kuhusnya bank DKI?? bingung saya😭",kenapa 2 apliaksi jackone mobile kuhusnya bank dki bingung,0.0,,,0.0,0.0,ambiguous,,
+4860,Knp hrs di update ... dan ini menyulitkan saya sebagai lansia,knp hrs update menyulitkan lansia,0.0,,,0.0,0.0,ambiguous,,
+4863,"mau registrasi Mobile Banking gagal terus keterangan ""service sedang offline"" pulsa sampe 2x top up sampai habis masih gak bisa juga. tolong diperbaiki lagi jgn sampai kalah sama Digital bank dan E-Wallet nih DKI.",registrasi mobile banking gagal keterangan service offline pulsa sampe 2x top up habis tidak bisa tolong diperbaiki jangan kalah digital bank e wallet nih dki,0.0,top:5; habis:3; tolong:3; kalah:4,gagal:-4; pulsa:-3; tidak:-5; jangan:-3,15.0,-15.0,ambiguous,,
+4866,tidak bisa transfer antar BANK lainnya mohon diperbaiki secepatnya,tidak bisa transfer antar bank lainnya mohon diperbaiki secepatnya,0.0,mohon:2; secepatnya:3,tidak:-5,5.0,-5.0,likely_positive,cepat,positive pattern in neutral score zero row
+4879,Saya mendapatkan refit gratis dari aplikasi ini. Dan mendapatkan riwot 600rb saat pertama mendaftar aplikasi cukup menarik dan juga bisa menghasilkan uang dengan santa.,mendapatkan refit gratis aplikasi mendapatkan riwot 600rb pertama mendaftar aplikasi menarik bisa menghasilkan uang santa,0.0,gratis:4; menarik:4,aplikasi:-4; aplikasi:-4,8.0,-8.0,ambiguous,,
+4910,"Gagal dalam daftar jakone versi terbaru selalu ada pemberitahuan ""email telah terdaftar"" atau kalau pakai email lain ada note ""nomor kartu sudah terdaftar"".... gimana ini",gagal daftar jakone versi terbaru pemberitahuan email terdaftar pakai email note nomor kartu terdaftar gimana,0.0,daftar:1; terbaru:4; terdaftar:1; terdaftar:1,gagal:-4; pemberitahuan:-3,7.0,-7.0,ambiguous,,
+4926,"Aplikasi keren, mudah di gunakan dan sangat sangat membantu tampilan tidak membingungkan",aplikasi keren mudah gunakan membantu tampilan tidak membingungkan,0.0,mudah:4; membantu:4; tampilan:1,aplikasi:-4; tidak:-5,9.0,-9.0,likely_positive,sangat membantu; keren,positive pattern in neutral score zero row
+4941,Aplikasi Sangat Membantu. Sangat Baik Untuk Digunakan.,aplikasi membantu digunakan,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+4942,Bagussssss,bagussssss,0.0,,,0.0,0.0,likely_positive,bagus,positive pattern in neutral score zero row
+4946,Gangguan terus,gangguan,0.0,,,0.0,0.0,ambiguous,,
+4960,Kok pas masuk mlh di disuruh update mulu,kok pas masuk disuruh update mulu,0.0,pas:3; mulu:2,masuk:-3; disuruh:-2,5.0,-5.0,ambiguous,,
+4967,"Aplikasi yang mudah, untuk kebutuan apa aja",aplikasi mudah kebutuan,0.0,mudah:4,aplikasi:-4,4.0,-4.0,likely_positive,aplikasi mudah,positive pattern in neutral score zero row
+4981,Best indonesian mobile banking app.. Easy to use and user frendly.. Nice JakOne,best indonesian mobile banking aplikasi easy to use and user frendly nice jakone,0.0,nice:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+4985,kecewa berat,kecewa berat,0.0,,,0.0,0.0,likely_negative,kecewa,negative pattern in neutral score zero row
+4987,Knpa susah bgt masukin otp knpa GX ada tulisan lanjut,knpa susah banget masukin otp knpa gx tulisan lanjut,0.0,banget:1; lanjut:2,susah:-3,3.0,-3.0,ambiguous,,
+4988,Sangat recomended untuk digunakan,recomended digunakan,0.0,,,0.0,0.0,ambiguous,,
+5005,kirim otp berkali2 doang pulsa kepotong TPI bikin mbking kg bisa2,kirim otp berkali2 doang pulsa kepotong bikin mbking kg bisa2,0.0,kirim:2; doang:1,pulsa:-3,3.0,-3.0,ambiguous,,
+5006,Sejauh ini saya menggunakan JakOne… cuma ada satu kata: LUAR BIASA!!!,sejauh menggunakan jakone,0.0,,,0.0,0.0,ambiguous,,
+5029,Aplikasinya mudah digunakan dan fiturnya lumayan komplit ga kalah sama mobile banking yang lainnya..,aplikasi mudah digunakan fiturnya lumayan komplit tidak kalah mobile banking lainnya,0.0,mudah:4; lumayan:1; kalah:4,aplikasi:-4; tidak:-5,9.0,-9.0,likely_positive,mudah digunakan; aplikasi mudah,positive pattern in neutral score zero row
+5032,Jos,jos,0.0,,,0.0,0.0,ambiguous,,
+5103,Tingkatkan lagi.,tingkatkan,0.0,,,0.0,0.0,ambiguous,,
+5115,Keren banget aplikasi ini fiturnya mudah banget lagi recommended banget deh pokoknya,keren banget aplikasi fiturnya mudah banget recommended banget deh pokoknya,0.0,banget:1; mudah:4; banget:1; banget:1,aplikasi:-4; pokoknya:-3,7.0,-7.0,likely_positive,keren; recommended,positive pattern in neutral score zero row
+5150,👍🏻👍🏻 kerenn,kerenn,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+5157,Gg cung,gg cung,0.0,,,0.0,0.0,ambiguous,,
+5160,masih sulit downloadnya,sulit downloadnya,0.0,,,0.0,0.0,ambiguous,,
+5167,user friendly,user friendly,0.0,,,0.0,0.0,ambiguous,,
+5173,The best,the best,0.0,,,0.0,0.0,ambiguous,,
+5194,"Puas banget sama app yang satu ini, serba bisa????????????",puas banget aplikasi serba bisa,0.0,puas:3; banget:1,aplikasi:-4,4.0,-4.0,likely_positive,puas,positive pattern in neutral score zero row
+5204,Sinyalnya cukup baik,sinyalnya,0.0,,,0.0,0.0,ambiguous,,
+5228,kalau Bisa Skin Dan Heronya Di Banyakin Lagi,bisa skin heronya banyakin,0.0,,,0.0,0.0,ambiguous,,
+5230,Ribet banget sih.. Udah punya kartu ATM nya malah ngga bisa daftar di m banking. Tetep harus ke bank! Trus gunanya daftar online apa??,ribet banget sih udah punya kartu atm nya ngga bisa daftar m banking tetep bank gunanya daftar online,0.0,banget:1; punya:3; daftar:1; daftar:1,ribet:-4; ngga:-2,6.0,-6.0,likely_negative,ribet,negative pattern in neutral score zero row
+5235,👌siiip,siiip,0.0,,,0.0,0.0,ambiguous,,
+5236,Sumpah ini gajelas banget masa pembayaran qris berhasil tapi saldo udah 2 hari ga nambah kocak kocak,sumpah gajelas banget masa pembayaran qris berhasil saldo udah 2 hari tidak nambah kocak kocak,0.0,sumpah:3; banget:1; berhasil:3; saldo:2,tidak:-5; kocak:-2; kocak:-2,9.0,-9.0,ambiguous,,
+5237,shame on you Bank DKI,shame on you bank dki,0.0,,,0.0,0.0,ambiguous,,
+5248,Mantappp,mantappp,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+5249,"Ada banyak benefit gratis untuk aplikasi ini, mendapatkan Rp 600rb saat mendaftar.",benefit gratis aplikasi mendapatkan rp 600rb mendaftar,0.0,gratis:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+5251,"Setiap mau buka periksa jaringan mulu padahal jaringan lancar"" aja trs loading mulu ga ke buka""😤😤😤sampe seharian nunggu tetep aja ga kebuka""",setiap buka periksa jaringan mulu padahal jaringan lancar loading mulu tidak buka sampe seharian nunggu tetep tidak kebuka,0.0,buka:3; jaringan:3; mulu:2; jaringan:3; lancar:4; mulu:2; nunggu:1,periksa:-5; tidak:-5; buka:-3; tidak:-5,18.0,-18.0,likely_positive,lancar,positive pattern in neutral score zero row
+5263,Aplikasi New jakone mobilenya makin ok dan canggih yessssss,aplikasi new jakone mobilenya ok canggih yessssss,0.0,ok:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+5279,Aplikasi yang sangat membantu,aplikasi membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+5285,goodjob😀,goodjob,0.0,,,0.0,0.0,ambiguous,,
+5299,bank plat merah paling sampah di Indonesia. njs,bank plat merah sampah indonesia njs,0.0,merah:4,sampah:-4,4.0,-4.0,ambiguous,,
+5314,Keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+5332,THE BEST MOBILE REKENING,the best mobile rekening,0.0,,,0.0,0.0,ambiguous,,
+5352,Pelayananya sangat baik,pelayananya,0.0,,,0.0,0.0,ambiguous,,
+5356,Mantabss,mantabss,0.0,,,0.0,0.0,ambiguous,,
+5368,User id terkunci .. bagaimana cara untuk mengaktifkannya ?,user id terkunci mengaktifkannya,0.0,,,0.0,0.0,ambiguous,,
+5381,aplikasi baru untuk transaksi,aplikasi transaksi,0.0,transaksi:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+5396,Bangga sebagai orang Betawi. Nyimpen duit disini. Tapi aplikasi nya kadang hang. Cek saldo aja tulisannya N/A. Bapuk,bangga orang betawi nyimpen duit disini aplikasi nya kadang hang cek saldo tulisannya n a bapuk,0.0,bangga:3; kadang:3; saldo:2,aplikasi:-4; cek:-4,8.0,-8.0,ambiguous,,
+5399,bagus tapi suka error,bagus suka error,0.0,bagus:2; suka:3,error:-5,5.0,-5.0,ambiguous,bagus; error,
+5426,Topppp,topppp,0.0,,,0.0,0.0,ambiguous,,
+5430,Semakin terpercaya...,terpercaya,0.0,,,0.0,0.0,ambiguous,,
+5442,"Aplikasi yang serba guna dan mudah diaplikasikan. Aplikasi ini juga bisa melakukan jenis transaksi seperti beli pulsa, paket data, bayar tagihan air, dll",aplikasi serba mudah diaplikasikan aplikasi bisa melakukan jenis transaksi beli pulsa paket data bayar tagihan air dll,0.0,mudah:4; transaksi:4; beli:2; paket:4; bayar:1,aplikasi:-4; aplikasi:-4; pulsa:-3; data:-3; air:-1,15.0,-15.0,ambiguous,,
+5461,Lelet siapa sih it nya,lelet sih it nya,0.0,,,0.0,0.0,ambiguous,,
+5462,mobile banking terkeren,mobile banking terkeren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+5504,apakah jakone lg eror ..??? ko gx bisa tf ke bank lain ya dr pagi ..??? sampe skrng,apakah jakone lg error ko gx bisa transfer bank ya pagi sampe skrng,0.0,ya:4; pagi:1,error:-5,5.0,-5.0,likely_negative,error; eror,negative pattern in neutral score zero row
+5520,"Log In lancar, walau beberapa kali sempat ganti device, so far gak pernah ada kendala saat masuk lagi ke apps nya. Good! Aplikasi ini juga bisa digunakan",log in lancar beberapa ganti device so far tidak kendala masuk apps nya good aplikasi bisa digunakan,0.0,lancar:4; ganti:3; good:5,tidak:-5; masuk:-3; aplikasi:-4,12.0,-12.0,likely_positive,lancar,positive pattern in neutral score zero row
+5527,"Makin keren aja nih aplikasinya, jadi makin nyaman make aplikasinya, semangat JakOne",keren nih aplikasi nyaman make aplikasi semangat jakone,0.0,nyaman:4; semangat:4,aplikasi:-4; aplikasi:-4,8.0,-8.0,likely_positive,nyaman; keren,positive pattern in neutral score zero row
+5540,Ko ga bisa longin lagi sih mohon arahannya hp habis di restart pas masukin id sama no hp ga bisa bisa mohon infonya,ko tidak bisa longin sih mohon arahannya hp habis restart pas masukin id no hp tidak bisa bisa mohon infonya,0.0,mohon:2; habis:3; pas:3; mohon:2,tidak:-5; tidak:-5,10.0,-10.0,ambiguous,,
+5552,Ajaib,ajaib,0.0,,,0.0,0.0,ambiguous,,
+5553,Goood joob,goood joob,0.0,,,0.0,0.0,ambiguous,,
+5555,"Aplikasi mudah di gunakan, Tampilan baru keren, mempermudah kerja sehari hari",aplikasi mudah gunakan tampilan keren mempermudah kerja sehari hari,0.0,mudah:4; tampilan:1; kerja:2,aplikasi:-4; mempermudah:-3,7.0,-7.0,likely_positive,aplikasi mudah; keren,positive pattern in neutral score zero row
+5575,Everything goes so smooth! This app makes my payment and any kind of transaction easier. Thank you!,everything goes so smooth this aplikasi makes my payment and any kind of transaction easier thank you,0.0,thank:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+5628,cara ajukan kartu ATM nya bagaimana yah,ajukan kartu atm nya yah,0.0,,,0.0,0.0,ambiguous,,
+5639,Aplikasi ini yang baik bgt kegunaannyr banyak dan juga banyk manfaatnya🥰,aplikasi banget kegunaannyr banyk manfaatnya,0.0,banget:1; manfaatnya:3,aplikasi:-4,4.0,-4.0,ambiguous,,
+5715,Mohon ditingkatkan dan kalo bisa otpnya tidak berbayar supaya yang lain bisa mengunakan,mohon ditingkatkan bisa otp tidak berbayar bisa mengunakan,0.0,mohon:2; berbayar:3,tidak:-5,5.0,-5.0,ambiguous,,
+5716,Kuerean,kuerean,0.0,,,0.0,0.0,ambiguous,,
+5733,"Kok bisa passwd nya baik punya istri dan saya tidak dikenal dan akhirnya terblocked, sptnya bagus yg lama",kok bisa passwd nya punya istri tidak dikenal akhirnya terblocked sptnya bagus,0.0,punya:3; bagus:2,tidak:-5,5.0,-5.0,likely_positive,bagus,positive pattern in neutral score zero row
+5746,Sangat rekomendasi untuk pembuatan qris dan pembayaran lainnya,rekomendasi pembuatan qris pembayaran lainnya,0.0,,,0.0,0.0,ambiguous,,
+5762,"Cara aktifin mobile KJP nya gmna min, ko slalu dialihkan ke pembuatan rekening baru",aktifin mobile kjp nya gmna min ko slalu dialihkan pembuatan rekening,0.0,,,0.0,0.0,ambiguous,,
+5779,Loading nya lama,loading nya,0.0,,,0.0,0.0,ambiguous,,
+5782,Gilaaaaaaaaa......... loading nya parah banget. Mending pakai aplikasi M BCA super cepat,gilaaaaaaaaa loading nya parah banget mending pakai aplikasi m bca super cepat,0.0,banget:1; mending:2; super:3; cepat:3,parah:-5; aplikasi:-4,9.0,-9.0,ambiguous,cepat; parah,
+5786,Log out sendiri payah,log out payah,0.0,,,0.0,0.0,likely_negative,payah,negative pattern in neutral score zero row
+5808,Terossss,terossss,0.0,,,0.0,0.0,ambiguous,,
+5826,Sejauh ini aman2 saja.!,sejauh aman2,0.0,,,0.0,0.0,ambiguous,,
+5845,Jakone mntap pkonya is the base,jakone mntap pkonya is the base,0.0,,,0.0,0.0,ambiguous,,
+5846,Up,up,0.0,,,0.0,0.0,ambiguous,,
+5853,"paling layak bintang 1, bank daerah yg ga mau berbenah, kebanyakan maintenance!!",layak bintang 1 bank daerah tidak berbenah kebanyakan maintenance,0.0,layak:3; kebanyakan:2,tidak:-5,5.0,-5.0,ambiguous,,
+5889,Aplikasinya bagus banget fiturnya sangat lengkap dan juga nggak ribet,aplikasi bagus banget fiturnya lengkap tidak ribet,0.0,bagus:2; banget:1; lengkap:2; ribet:4,aplikasi:-4; tidak:-5,9.0,-9.0,ambiguous,bagus; ribet,
+5906,Semoga Aman,semoga aman,0.0,,,0.0,0.0,ambiguous,,
+5939,"ini kenapa si bank DKI, suka tbtb ga ada untuk transfer ke bank lain? mohon di perbaiki",kenapa si bank dki suka tbtb tidak transfer bank mohon perbaiki,0.0,suka:3; mohon:2,tidak:-5,5.0,-5.0,ambiguous,,
+5943,Loading terus nyusahin,loading nyusahin,0.0,,,0.0,0.0,ambiguous,,
+5946,Rekening digital,rekening digital,0.0,,,0.0,0.0,ambiguous,,
+5958,"Pendaftarannya mudah, nggak pake setoran awal alias 0 rupiah dan saldo min cuma 5k. Yang paling aku suka adalah bisa tarik tunai lewat aplikasinya, jadi nggak pake kartu ATM👍🏻",pendaftarannya mudah tidak pakai setoran alias 0 rupiah saldo min 5k suka bisa tarik tunai aplikasi tidak pakai kartu atm,0.0,mudah:4; saldo:2; suka:3; tarik:2; tunai:3,tidak:-5; aplikasi:-4; tidak:-5,14.0,-14.0,ambiguous,,
+5999,Thankyou for making a great app apk ini di awasi ojk jadi tenang,thankyou for making a great aplikasi aplikasi awasi ojk tenang,0.0,great:3; tenang:5,aplikasi:-4; aplikasi:-4,8.0,-8.0,ambiguous,,
+6000,Sinyal dan koneksi Internet stabil tapi aplikasi jakone gak bisa di akses. Kenapa begitu yaa?? Buktinya nonton YouTube nonstop gak ada masalah. Tolong di cek dong ini masalahnya dimana. Terima kasih.,sinyal koneksi internet stabil aplikasi jakone tidak bisa akses kenapa yaa buktinya nonton youtube nonstop tidak masalah tolong cek masalahnya dimana terima kasih,0.0,koneksi:2; stabil:3; akses:2; masalah:4; tolong:3; terima:2; kasih:2,aplikasi:-4; tidak:-5; tidak:-5; cek:-4,18.0,-18.0,ambiguous,,
+6007,Keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+6015,Aplikasi sangat membantu untuk transaksi pembelian pulsa pln atau pembayaran PDAM jadi nggak ribet harus keluar rumah dulu deh,aplikasi membantu transaksi pembelian pulsa pln pembayaran pdam tidak ribet keluar rumah deh,0.0,membantu:4; transaksi:4; ribet:4; rumah:3,aplikasi:-4; pulsa:-3; tidak:-5; keluar:-3,15.0,-15.0,ambiguous,sangat membantu; ribet,
+6032,"ko abis update, malah gabisa transfer ke bank lain ya, anehhh",ko abis update tidak bisa transfer bank ya anehhh,0.0,abis:1; ya:4,tidak:-5,5.0,-5.0,ambiguous,,
+6038,"Tampilannya keran semoga kedapanya semakin maju, sangat rekomendasi ya teman temen.",tampilannya keran semoga kedapanya maju rekomendasi ya teman temen,0.0,ya:4,keran:-4,4.0,-4.0,ambiguous,,
+6042,Semakin mantab,mantab,0.0,,,0.0,0.0,ambiguous,,
+6048,Mantab...dan baik sekali,mantab,0.0,,,0.0,0.0,ambiguous,,
+6066,Kaga bisa BI Fast ke BCA,kaga bisa bi fast bca,0.0,,,0.0,0.0,ambiguous,,
+6078,"Enaknya pakai jakone mobile bisa cek rekening koran tanpa harus ke bank cara menggunakannya juga mudah, fiturnya lengkap mulai dari pulsa tagihan sampai topup e-walletpun bisa",enaknya pakai jakone mobile bisa cek rekening koran bank menggunakannya mudah fiturnya lengkap mulai pulsa tagihan topup e walletpun bisa,0.0,mudah:4; lengkap:2; mulai:1,cek:-4; pulsa:-3,7.0,-7.0,ambiguous,,
+6081,"masih banyak yg perlu diperbaiki sampe skrg belum bisa transfer antar bank,",diperbaiki sampe skrg belum bisa transfer antar bank,0.0,,,0.0,0.0,ambiguous,,
+6085,"Mohon diperbaiki aplikasinya sangat Berat..,sinyal sebagus apapun cuma muter-muter dan ulang2 terus,sampe saya pindah ke HP yg RAM lebih Besarpun sama.",mohon diperbaiki aplikasi berat sinyal sebagus apapun muter muter ulang2 sampe pindah hp ram lebih besarpun,0.0,mohon:2; pindah:1; lebih:1,aplikasi:-4,4.0,-4.0,likely_positive,bagus,positive pattern in neutral score zero row
+6104,"Ada banya bnefit gratis untuk aplikasi ini, Mendapatkan reward Rp600rb saat mendaftar.",banya bnefit gratis aplikasi mendapatkan reward rp600rb mendaftar,0.0,gratis:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+6106,Mantaap,mantaap,0.0,,,0.0,0.0,ambiguous,,
+6141,mantab,mantab,0.0,,,0.0,0.0,ambiguous,,
+6149,"Aplikasinya lebih bagus yg lama krn bisa isi Jakcard melalui fitur NFC. Di aplikasi yg baru blm ada menunya, tlg dibuat spt yg lama dong 🙏",aplikasi lebih bagus bisa isi jakcard fitur nfc aplikasi belum menunya tlg dibuat spt,0.0,lebih:1; bagus:2; isi:2; tlg:3,aplikasi:-4; aplikasi:-4,8.0,-8.0,likely_positive,bagus,positive pattern in neutral score zero row
+6154,Qrisnya sering bermasalah😭😭,qrisnya bermasalah,0.0,,,0.0,0.0,ambiguous,,
+6159,Mantappp,mantappp,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+6178,JakOne aplikasi keuangan dengan scan QRIS mudah dan deposit online aman!!!,jakone aplikasi keuangan scan qris mudah deposit online aman,0.0,mudah:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+6191,kenapa ya sy mau aktipin jakon mobal ko harus ngisi data lengka trus uda sy isi lengakap nik anda sudah terdaptar malah di suruh ke cabang bank dki terdekat ko malah di suruh ke bank dki lgi sih,kenapa ya sy aktipin jakon mobal ko ngisi data lengka uda sy isi lengakap nik terdaptar suruh cabang bank dki terdekat ko suruh bank dki lgi sih,0.0,ya:4; isi:2; terdekat:1,data:-3; suruh:-2; suruh:-2,7.0,-7.0,ambiguous,,
+6196,"Aplikasinya mudah digunakan simple gak ribet, proses pendaftarannya juga cpat,pokoknya sangat wort it digunakan.",aplikasi mudah digunakan simple tidak ribet proses pendaftarannya cpat pokoknya wort it digunakan,0.0,mudah:4; simple:3; ribet:4; proses:1,aplikasi:-4; tidak:-5; pokoknya:-3,12.0,-12.0,ambiguous,mudah digunakan; aplikasi mudah; simple; ribet,
+6245,kapan nih perbaikannya. dan beberapa fitur pembayaran e wallet. pembelian pulsa. hilang,kapan nih perbaikannya beberapa fitur pembayaran e wallet pembelian pulsa hilang,0.0,hilang:3,pulsa:-3,3.0,-3.0,ambiguous,,
+6254,okee,okee,0.0,,,0.0,0.0,ambiguous,,
+6269,Mantul sih ini,mantul sih,0.0,,,0.0,0.0,ambiguous,,
+6286,okeyy,okeyy,0.0,,,0.0,0.0,ambiguous,,
+6293,Tampilannya keren,tampilannya keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+6322,Aplikasi bagus seka Mbangking sangat rekomendasi krna sangat mudah dan gak ribed untuk bertransaksi lwat android,aplikasi bagus seka mbangking rekomendasi krna mudah tidak ribed bertransaksi lwat android,0.0,bagus:2; mudah:4; bertransaksi:3,aplikasi:-4; tidak:-5,9.0,-9.0,likely_positive,bagus,positive pattern in neutral score zero row
+6331,Tarik tunai di atm DKI kenapa bisa tidak ada ??!,tarik tunai atm dki kenapa bisa tidak,0.0,tarik:2; tunai:3,tidak:-5,5.0,-5.0,ambiguous,,
+6336,Aplikasinya sangat membantu untuk saya,aplikasi membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+6378,"transfer dr mbanking lain ga bisa, ini udah mau 2 bulan. dateng ke kcp DKI, niat buat kartu ATM, katanya lewat jakone mobile aja, oke bisa,, tapi setelah sampai dan kartu diterima lalu mau di aktifasi, klik penerima nya dr kiriman kurir ga bisa di klik, komplain via email ke costumer service di suruh dateng ke kcp DKI. bener bener merepotkan, kalo bukan buat bayar rumah sudah ku hapus di jakone mobile. bener bener bank kusut.",transfer mbanking tidak bisa udah 2 bulan dateng kcp dki niat kartu atm katanya jakone mobile oke bisa setelah kartu diterima aktifasi klik penerima nya kiriman kurir tidak bisa klik komplain via email costumer service suruh dateng kcp dki bener bener merepotkan bukan bayar rumah ku hapus jakone mobile bener bener bank kusut,0.0,dateng:2; oke:2; diterima:2; penerima:2; dateng:2; bener:3; bener:3; rumah:3; bener:3; bener:3,tidak:-5; bulan:-1; katanya:-1; tidak:-5; suruh:-2; bukan:-3; bayar:-1; hapus:-3; kusut:-4,25.0,-25.0,ambiguous,,
+6387,Sering erorr Jak one nya,erorr jak one nya,0.0,,,0.0,0.0,likely_negative,eror,negative pattern in neutral score zero row
+6388,Alhamdulillaahi,alhamdulillaahi,0.0,,,0.0,0.0,ambiguous,,
+6395,Makan Pulsa banyak sekali padahal salah OTP dua kali langsung habis 10.000 Bagaimana ini,makan pulsa padahal salah otp langsung habis 10 000,0.0,makan:1; langsung:3; habis:3,pulsa:-3; salah:-4,7.0,-7.0,ambiguous,,
+6402,yg bisa daftar cuman warga jakarta ya luar jakarta tidak bisa,bisa daftar cuman warga jakarta ya jakarta tidak bisa,0.0,daftar:1; ya:4,tidak:-5,5.0,-5.0,ambiguous,,
+6404,"sudah 5 jam mencoba buat menerima nomor otp nya, sampai isi pulsa, tapi tidak masuk""",5 jam mencoba menerima nomor otp nya isi pulsa tidak masuk,0.0,menerima:3; isi:2; masuk:3,pulsa:-3; tidak:-5,8.0,-8.0,ambiguous,,
+6435,kenapa muter2 trus,kenapa muter2,0.0,,,0.0,0.0,ambiguous,,
+6437,Aplikasi sangat bagus fitur lengkap sangat recommended,aplikasi bagus fitur lengkap recommended,0.0,bagus:2; lengkap:2,aplikasi:-4,4.0,-4.0,likely_positive,bagus; recommended,positive pattern in neutral score zero row
+6441,Mantabb,mantabb,0.0,,,0.0,0.0,ambiguous,,
+6442,kacau,kacau,0.0,,,0.0,0.0,ambiguous,,
+6444,uang gw 200rb nyangkut,uang gw 200rb nyangkut,0.0,,,0.0,0.0,ambiguous,,
+6469,Opsi tarik tunai hilang di aplikasi. Ini aplikasi kenapa sih?,opsi tarik tunai hilang aplikasi aplikasi kenapa sih,0.0,tarik:2; tunai:3; hilang:3,aplikasi:-4; aplikasi:-4,8.0,-8.0,ambiguous,,
+6476,Waktu update di angka 63% berhenti,update angka 63 berhenti,0.0,,,0.0,0.0,ambiguous,,
+6480,sangatbmembantu,sangatbmembantu,0.0,,,0.0,0.0,ambiguous,,
+6484,Mantuuul,mantuuul,0.0,,,0.0,0.0,ambiguous,,
+6485,Perlu di Ruqyah,ruqyah,0.0,,,0.0,0.0,ambiguous,,
+6488,bintang 1,bintang 1,0.0,,,0.0,0.0,ambiguous,,
+6502,Aplikasinya keren nyaman di gunakan,aplikasi keren nyaman gunakan,0.0,nyaman:4,aplikasi:-4,4.0,-4.0,likely_positive,nyaman; keren,positive pattern in neutral score zero row
+6505,JakOne MOBILE MANTAAAAAPPPPP!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,jakone mobile mantaaaaappppp,0.0,,,0.0,0.0,ambiguous,,
+6508,Sangat Mebantu sekali,mebantu,0.0,,,0.0,0.0,ambiguous,,
+6524,"Sukses terus transformasi Bank Dki,, #Jangan Pernah Kendor.. ✊️✊️✊️",sukses transformasi bank dki jangan kendor,0.0,sukses:3,jangan:-3,3.0,-3.0,ambiguous,,
+6556,Aplikasi sangat menbantu untuk membuat transaksi dan proses pengiriman juga penerimaan sangat cepat. Rekomended,aplikasi menbantu membuat transaksi proses pengiriman penerimaan cepat rekomended,0.0,membuat:1; transaksi:4; proses:1; cepat:3,aplikasi:-4; pengiriman:-5,9.0,-9.0,likely_positive,cepat,positive pattern in neutral score zero row
+6590,kebanyakan nyangkut kalo dari e-commerce kirim dana ataupun bank lagi ke jakone / Bank Jakarta .. aplikasi ribet,kebanyakan nyangkut e commerce kirim dana ataupun bank jakone bank jakarta aplikasi ribet,0.0,kebanyakan:2; kirim:2; dana:4,aplikasi:-4; ribet:-4,8.0,-8.0,likely_negative,ribet,negative pattern in neutral score zero row
+6594,NYUSAHIN AJING,nyusahin ajing,0.0,,,0.0,0.0,ambiguous,,
+6596,Best,best,0.0,,,0.0,0.0,ambiguous,,
+6603,Aplikasi nya sangat membantu dan juga sangat recommended,aplikasi nya membantu recommended,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu; recommended,positive pattern in neutral score zero row
+6615,Keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+6628,Aplikasi yang sangat membantu,aplikasi membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+6631,parahh,parahh,0.0,,,0.0,0.0,likely_negative,parah,negative pattern in neutral score zero row
+6641,kok ngk bisa tranfer antar bank sekarang,kok ngk bisa tranfer antar bank,0.0,,,0.0,0.0,ambiguous,,
+6670,"setelah di UPTADE ko malah loading trs ya..padahal klo bwt APK yg laen lncar"" saja.tlong dong di perbaiki lgi JAKONE nya",setelah uptade ko loading ya padahal klo bwt aplikasi laen lncar tlong perbaiki lgi jakone nya,0.0,ya:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+6685,"Aplikasi yang gampang banget digunakan, beli pulsa, e walet, dan apa aja bisa di jackone, semoga semakin diupgrade untuk fitur lainnya 😍",aplikasi gampang banget digunakan beli pulsa e walet bisa jackone semoga diupgrade fitur lainnya,0.0,gampang:4; banget:1; beli:2,aplikasi:-4; pulsa:-3,7.0,-7.0,ambiguous,,
+6743,Manteppp,manteppp,0.0,,,0.0,0.0,ambiguous,,
+6747,"beli pulsa dan bayar tagihan disini mudah banget dan g pakai ribet ternyata, cukup membantu.",beli pulsa bayar tagihan disini mudah banget tidak pakai ribet ternyata membantu,0.0,beli:2; bayar:1; mudah:4; banget:1; membantu:4,pulsa:-3; tidak:-5; ribet:-4,12.0,-12.0,likely_negative,ribet,negative pattern in neutral score zero row
+6756,Manyos mntap...,manyos mntap,0.0,,,0.0,0.0,ambiguous,,
+6770,"mau daftar buka rekening kjp anak liat cara nya kaya d YouTube tapi pas d download isi aplikasi ny beda ,apa ini aplikasi baru apa lama ,",daftar buka rekening kjp anak liat nya kaya d youtube pas d download isi aplikasi ny beda aplikasi,0.0,daftar:1; buka:3; liat:2; kaya:2; pas:3; isi:2,anak:-3; aplikasi:-4; beda:-2; aplikasi:-4,13.0,-13.0,ambiguous,,
+6794,"ternyata GK seribet itu buat registrasi sendiri disini,lumayan mudah dan cukup dimengerti",ternyata tidak seribet registrasi disini lumayan mudah dimengerti,0.0,lumayan:1; mudah:4,tidak:-5,5.0,-5.0,likely_negative,ribet,negative pattern in neutral score zero row
+6804,Knp muter2,knp muter2,0.0,,,0.0,0.0,ambiguous,,
+6824,mantapp keren hebat tingkatkan terus,mantapp keren hebat tingkatkan,0.0,,,0.0,0.0,likely_positive,mantap; keren,positive pattern in neutral score zero row
+6826,Mantapp,mantapp,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+6831,bagaimana cara login?,login,0.0,,,0.0,0.0,ambiguous,,
+6841,Mantapp,mantapp,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+6855,Tingkatkan menu pelayanannya,tingkatkan menu pelayanannya,0.0,,,0.0,0.0,ambiguous,,
+6865,Too many bug lol 👎,too many bug lol,0.0,,,0.0,0.0,ambiguous,,
+6890,Aplikasi sangat membantu untuk topupm,aplikasi membantu topupm,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+6896,Sangat memmbantu,memmbantu,0.0,,,0.0,0.0,ambiguous,,
+6932,Sering gangguan,gangguan,0.0,,,0.0,0.0,ambiguous,,
+6939,Wajib banget punya apk ini sih. Mempermudah banget untuk dipakai transaksi. Bisa digunakan untuk semua pembayara,wajib banget punya aplikasi sih mempermudah banget dipakai transaksi bisa digunakan pembayara,0.0,banget:1; punya:3; banget:1; transaksi:4,wajib:-2; aplikasi:-4; mempermudah:-3,9.0,-9.0,ambiguous,,
+6948,Livenes nya diperbaiki. Loading selalu lama,livenes nya diperbaiki loading,0.0,,,0.0,0.0,ambiguous,,
+6973,Makin keren wae euyy...!!! mantapp..!!,keren wae euyy mantapp,0.0,,,0.0,0.0,likely_positive,mantap; keren,positive pattern in neutral score zero row
+6974,"Lebih suka yg lama, yg ini lebih buruk",lebih suka lebih buruk,0.0,lebih:1; suka:3; lebih:1,buruk:-5,5.0,-5.0,likely_negative,buruk,negative pattern in neutral score zero row
+6991,"aplikasi nya bagus, bisa ngelakuin pembayaran pulsa disana. tampilannya juga oke dan tergolong bagus jadi cepat dipahami buat para pengguna baru",aplikasi nya bagus bisa ngelakuin pembayaran pulsa disana tampilannya oke tergolong bagus cepat dipahami pengguna,0.0,bagus:2; oke:2; bagus:2; cepat:3; pengguna:1,aplikasi:-4; pulsa:-3; tergolong:-3,10.0,-10.0,likely_positive,bagus; cepat,positive pattern in neutral score zero row
+6992,"Aplikasinya keren, gampang digunakan",aplikasi keren gampang digunakan,0.0,gampang:4,aplikasi:-4,4.0,-4.0,likely_positive,gampang digunakan; keren,positive pattern in neutral score zero row
+6994,Jakone jos,jakone jos,0.0,,,0.0,0.0,ambiguous,,
+6995,L E M O T !,l e m o t,0.0,,,0.0,0.0,ambiguous,,
+7010,Saldo gw di jakone mobile lama kok gak masuk ke aplikasi baru ya,saldo gw jakone mobile kok tidak masuk aplikasi ya,0.0,saldo:2; masuk:3; ya:4,tidak:-5; aplikasi:-4,9.0,-9.0,ambiguous,,
+7014,Tampilannya keren,tampilannya keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+7054,Tambahkan pembayaran di shoope,tambahkan pembayaran shoope,0.0,,,0.0,0.0,ambiguous,,
+7058,"Aplikasi ini bagus sekali, apalagi dengan tampilan yang super keren dan fitur yang bisa digunakan untuk bayar pln , pulsa dan yang lainnya.",aplikasi bagus apalagi tampilan super keren fitur bisa digunakan bayar pln pulsa lainnya,0.0,bagus:2; tampilan:1; super:3; bayar:1,aplikasi:-4; pulsa:-3,7.0,-7.0,likely_positive,bagus; keren,positive pattern in neutral score zero row
+7066,bank jakarta,bank jakarta,0.0,,,0.0,0.0,ambiguous,,
+7074,"Apk jakOne ini yg paling aku suka biaya adminnya murah, terus kalau lagi ada problem sama apknya cepet ditanggapinnya",aplikasi jakone suka biaya adminnya murah problem apknya cepet ditanggapinnya,0.0,suka:3; murah:3; cepet:2,aplikasi:-4; problem:-4,8.0,-8.0,ambiguous,,
+7081,aplikasinya mudah banget digunain dan apk ini beda dari yang lain tampilan lebih modern dan baguss,aplikasi mudah banget digunain aplikasi beda tampilan lebih modern baguss,0.0,mudah:4; banget:1; tampilan:1; lebih:1; modern:3,aplikasi:-4; aplikasi:-4; beda:-2,10.0,-10.0,likely_positive,aplikasi mudah; bagus,positive pattern in neutral score zero row
+7111,Is the best,is the best,0.0,,,0.0,0.0,ambiguous,,
+7122,Apl bgs,apl bgs,0.0,,,0.0,0.0,ambiguous,,
+7139,ellleh mbanking nyusahin,ellleh mbanking nyusahin,0.0,,,0.0,0.0,ambiguous,,
+7188,Ini jakone mobile lagi kenapa ? Ga bisa utk transfer ke bank lain dan top up,jakone mobile kenapa tidak bisa transfer bank top up,0.0,top:5,tidak:-5,5.0,-5.0,ambiguous,,
+7206,Mantappp.....,mantappp,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+7256,Bagusss,bagusss,0.0,,,0.0,0.0,likely_positive,bagus,positive pattern in neutral score zero row
+7257,password tiba tiba diblokir gajelas,password tiba tiba diblokir gajelas,0.0,,,0.0,0.0,ambiguous,,
+7267,Gajelas,gajelas,0.0,,,0.0,0.0,ambiguous,,
+7269,"aplikasinya keren banget,. jadi sekarang gak usah capek2 ke ATM buat bayar tagihan,. tinggal duduk santai buka applikasi jakone semua udah beres,. semoga bisa berkembang lebih baik",aplikasi keren banget tidak capek2 atm bayar tagihan tinggal duduk santai buka applikasi jakone udah beres semoga bisa berkembang lebih,0.0,banget:1; bayar:1; tinggal:1; santai:2; buka:3; lebih:1,aplikasi:-4; tidak:-5,9.0,-9.0,likely_positive,keren,positive pattern in neutral score zero row
+7270,Ini gmna ini saya beli paketan Indosat dari jakone mobile gagal terkirim tapi sudah terpotong gmna ingin admin tolong di kembalikan dana saya paketan ga masuk,gmna beli paketan indosat jakone mobile gagal terkirim terpotong gmna ingin admin tolong kembalikan dana paketan tidak masuk,0.0,beli:2; tolong:3; dana:4; masuk:3,gagal:-4; terpotong:-3; tidak:-5,12.0,-12.0,ambiguous,,
+7293,"gak jelas,jelek,aneh,lebih bagus dana atau ovo",tidak jelas jelek aneh lebih bagus dana ovo,0.0,aneh:4; lebih:1; bagus:2; dana:4,tidak:-5; jelas:-1; jelek:-5,11.0,-11.0,ambiguous,bagus; jelek,
+7302,"Aplikasi ini sangat bagus, saya sangat tertarik memakai aplikasi ini proses sangat cepat",aplikasi bagus tertarik memakai aplikasi proses cepat,0.0,bagus:2; tertarik:2; proses:1; cepat:3,aplikasi:-4; aplikasi:-4,8.0,-8.0,likely_positive,bagus; cepat,positive pattern in neutral score zero row
+7306,ini mobile banking apps terpraktis buatku,mobile banking apps terpraktis buatku,0.0,,,0.0,0.0,likely_positive,praktis,positive pattern in neutral score zero row
+7309,"Aplikasi nya bagus banget semua fitur lengkap,,mau top apapun di Jak one mobile no ribet-ribet deh pokoknya paling top",aplikasi nya bagus banget fitur lengkap top apapun jak one mobile no ribet ribet deh pokoknya top,0.0,bagus:2; banget:1; lengkap:2; top:5; top:5,aplikasi:-4; ribet:-4; ribet:-4; pokoknya:-3,15.0,-15.0,ambiguous,bagus; ribet,
+7317,"Aplikasi JackOne Mobile ini memudahkan kamu untuk melakukan pembayaran dengan scanning kode QR mulai dari makanan, minuman, elektronik, fashion, otomotif olahraga dan masih banyak kategori lainnya 👍",aplikasi jackone mobile memudahkan melakukan pembayaran scanning kode qr mulai makanan minuman elektronik fashion otomotif olahraga kategori lainnya,0.0,memudahkan:3; mulai:1; makanan:3,aplikasi:-4; kode:-3,7.0,-7.0,likely_positive,memudahkan,positive pattern in neutral score zero row
+7322,Kenapa ya gagal.update ini jakone saya...,kenapa ya gagal update jakone,0.0,ya:4,gagal:-4,4.0,-4.0,ambiguous,,
+7403,kacauu transfer bank lain sampai sekarang belum bisa..,kacauu transfer bank belum bisa,0.0,,,0.0,0.0,ambiguous,,
+7407,"Dengan aplikasi ini saya profit usaha saya meningkat,ui yang gampang digunakan, serta fitur 2 dan pembayaran tagihan yang lengkap,pokoknya recommended deh aplikasi nya",aplikasi profit usaha meningkat ui gampang digunakan fitur 2 pembayaran tagihan lengkap pokoknya recommended deh aplikasi nya,0.0,profit:4; usaha:1; gampang:4; lengkap:2,aplikasi:-4; pokoknya:-3; aplikasi:-4,11.0,-11.0,likely_positive,gampang digunakan; recommended,positive pattern in neutral score zero row
+7411,"Mohon beri tahu SOP dari aplikasi ini, sebab saya dapat tugas presentasi mengenai SOP APK PEMERINTAHAN di Indonesia terima kasih",mohon beri tahu sop aplikasi tugas presentasi mengenai sop aplikasi pemerintahan indonesia terima kasih,0.0,mohon:2; beri:2; tahu:4; terima:2; kasih:2,aplikasi:-4; tugas:-1; presentasi:-3; aplikasi:-4,12.0,-12.0,ambiguous,,
+7412,Keren bro,keren bro,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+7429,Mantaap,mantaap,0.0,,,0.0,0.0,ambiguous,,
+7430,Keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+7446,mantab,mantab,0.0,,,0.0,0.0,ambiguous,,
+7459,"Amazing Bank DKI,👍🥐🥁🍤🏍️🍇",amazing bank dki,0.0,,,0.0,0.0,ambiguous,,
+7460,Lemot banget perbaiki untuk menjadikan aplikasi yg lebih baik biar bisa bersaing dengan yang lainnya,lambat banget perbaiki menjadikan aplikasi lebih biar bisa bersaing lainnya,0.0,lambat:1; banget:1; lebih:1; biar:1,aplikasi:-4,4.0,-4.0,likely_negative,lemot; lambat,negative pattern in neutral score zero row
+7463,Siipp,siipp,0.0,,,0.0,0.0,ambiguous,,
+7465,Gangguan terus dan tak bisa bi fast,gangguan tak bisa bi fast,0.0,,,0.0,0.0,ambiguous,,
+7471,"Kecewa sama layanan bifast jakmobile,transaksi gagal tapi saldo terpotong,parahnya LG TDK masuk kerening tujuan.",kecewa layanan bifast jakmobile transaksi gagal saldo terpotong parahnya lg tidak masuk kerening tujuan,0.0,layanan:3; transaksi:4; saldo:2; masuk:3,gagal:-4; terpotong:-3; tidak:-5,12.0,-12.0,ambiguous,keren; transaksi gagal; kecewa; parah,
+7474,Aplikasi dengan tampilan baru sangat mudah digunakan jadi tidak ada hambatan lagi untuk melakukan transaksi,aplikasi tampilan mudah digunakan tidak hambatan melakukan transaksi,0.0,tampilan:1; mudah:4; transaksi:4,aplikasi:-4; tidak:-5,9.0,-9.0,likely_positive,mudah digunakan,positive pattern in neutral score zero row
+7480,aplikasinya krenn sangat membantu,aplikasi krenn membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+7481,Update terus,update,0.0,,,0.0,0.0,ambiguous,,
+7484,Mantul,mantul,0.0,,,0.0,0.0,ambiguous,,
+7486,Mantab,mantab,0.0,,,0.0,0.0,ambiguous,,
+7533,C.f,c f,0.0,,,0.0,0.0,ambiguous,,
+7575,Aplikasi m-banking yang lengkap dan bagus tampilannya,aplikasi m banking lengkap bagus tampilannya,0.0,lengkap:2; bagus:2,aplikasi:-4,4.0,-4.0,likely_positive,bagus,positive pattern in neutral score zero row
+7582,mntap,mntap,0.0,,,0.0,0.0,ambiguous,,
+7599,"Selalu bermasalah,",bermasalah,0.0,,,0.0,0.0,ambiguous,,
+7609,Kereeennn👍,kereeennn,0.0,,,0.0,0.0,ambiguous,,
+7621,Baik dan komukatif,komukatif,0.0,,,0.0,0.0,ambiguous,,
+7648,Sudah terdaftar kok suruh daftar lagi gimana sih,terdaftar kok suruh daftar gimana sih,0.0,terdaftar:1; daftar:1,suruh:-2,2.0,-2.0,ambiguous,,
+7679,"Aplikasinya enak di pakai, fiturnya lengkap, sangat mempermudah kita",aplikasi enak pakai fiturnya lengkap mempermudah kita,0.0,enak:5; lengkap:2,aplikasi:-4; mempermudah:-3,7.0,-7.0,ambiguous,,
+7701,Josss,josss,0.0,,,0.0,0.0,ambiguous,,
+7705,Bagus aplikasinya ringan untuk digunakan,bagus aplikasi ringan digunakan,0.0,bagus:2; ringan:2,aplikasi:-4,4.0,-4.0,likely_positive,bagus,positive pattern in neutral score zero row
+7718,"New Jakone mobile, New Experience",new jakone mobile new experience,0.0,,,0.0,0.0,ambiguous,,
+7761,Màntap,m ntap,0.0,,,0.0,0.0,ambiguous,,
+7776,Hari ini offline ada apa???,hari offline,0.0,,,0.0,0.0,ambiguous,,
+7793,JakOne aplikasinya ringan dan lengkap juga.,jakone aplikasi ringan lengkap,0.0,ringan:2; lengkap:2,aplikasi:-4,4.0,-4.0,ambiguous,,
+7811,Yang paling aku suka dari aplikasi ini karna penggunaannya gampang dan data aman.,suka aplikasi penggunaannya gampang data aman,0.0,suka:3; gampang:4,aplikasi:-4; data:-3,7.0,-7.0,ambiguous,,
+7813,Semakin canggih,canggih,0.0,,,0.0,0.0,ambiguous,,
+7816,"registrasinya gampang, gak ribet kayak yg lain",registrasinya gampang tidak ribet kayak,0.0,gampang:4; ribet:4,tidak:-5; kayak:-3,8.0,-8.0,likely_negative,ribet,negative pattern in neutral score zero row
+7851,Muter terus 🤦🏻‍♂️,muter,0.0,,,0.0,0.0,ambiguous,,
+7874,haduhhh cape bnget ini Sdh di isi identitas ya benar sdh terdaftar tapi g bisa lanjutny gimn,haduhhh cape bnget isi identitas ya benar terdaftar tidak bisa lanjutny gimn,0.0,isi:2; ya:4; benar:2; terdaftar:1,cape:-4; tidak:-5,9.0,-9.0,ambiguous,,
+7892,baguslah,baguslah,0.0,,,0.0,0.0,likely_positive,bagus,positive pattern in neutral score zero row
+7904,Kapan lagi ada aplikasi mobile banking sebagus ini keren gila JakOne! Pertahankan terus,kapan aplikasi mobile banking sebagus keren gila jakone pertahankan,0.0,gila:3; pertahankan:1,aplikasi:-4,4.0,-4.0,likely_positive,bagus; keren,positive pattern in neutral score zero row
+7919,mobile banking paling burukkkkkkk,mobile banking burukkkkkkk,0.0,,,0.0,0.0,likely_negative,buruk,negative pattern in neutral score zero row
+7931,"Oke lah untuk sekelas aplikasi ini lumayan, vitur juga lumayan",oke sekelas aplikasi lumayan vitur lumayan,0.0,oke:2; lumayan:1; lumayan:1,aplikasi:-4,4.0,-4.0,ambiguous,,
+7940,"apk nya membantu,digunakan sehari hari jg praktis, apk aman digunakan",aplikasi nya membantu digunakan sehari hari jg praktis aplikasi aman digunakan,0.0,membantu:4; praktis:4,aplikasi:-4; aplikasi:-4,8.0,-8.0,likely_positive,praktis,positive pattern in neutral score zero row
+7981,Aplikasi sangat berguna buat saya jadi beli pulsa simple tinggal ke aplikasi jni,aplikasi berguna beli pulsa simple tinggal aplikasi jni,0.0,berguna:5; beli:2; simple:3; tinggal:1,aplikasi:-4; pulsa:-3; aplikasi:-4,11.0,-11.0,likely_positive,simple; berguna,positive pattern in neutral score zero row
+7989,Mantab,mantab,0.0,,,0.0,0.0,ambiguous,,
+8004,Klas.......,klas,0.0,,,0.0,0.0,ambiguous,,
+8011,Amaizing,amaizing,0.0,,,0.0,0.0,ambiguous,,
+8033,waw keren,waw keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+8039,"Yang belum buka tabunagn di JakOne, harus segera buka...ini aplikasinya lebih keren dari yang lain.",belum buka tabunagn jakone segera buka aplikasi lebih keren,0.0,segera:3; buka:3; lebih:1,buka:-3; aplikasi:-4,7.0,-7.0,likely_positive,keren,positive pattern in neutral score zero row
+8050,"ada banyak benefis gratis untul aplikasi ini,mendapatkan raward Rp600rb saat mendaftar.",benefis gratis untul aplikasi mendapatkan raward rp600rb mendaftar,0.0,gratis:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+8051,kenapa mbangking DKI ini...kok enggak bisa...🤦‍♀️🤦‍♀️🤦‍♀️,kenapa mbangking dki kok enggak bisa,0.0,,,0.0,0.0,ambiguous,,
+8113,burikkkk,burikkkk,0.0,,,0.0,0.0,ambiguous,,
+8141,Sangat mmbntu,mmbntu,0.0,,,0.0,0.0,ambiguous,,
+8143,Makin ke sini makin debest nih JakOne ????,debest nih jakone,0.0,,,0.0,0.0,ambiguous,,
+8147,"Aplikasi nya sangat membantu, dan mempermudah transaksi, juga bikin rekening nya gak ribet",aplikasi nya membantu mempermudah transaksi bikin rekening nya tidak ribet,0.0,membantu:4; transaksi:4; ribet:4,aplikasi:-4; mempermudah:-3; tidak:-5,12.0,-12.0,ambiguous,sangat membantu; ribet,
+8149,Wkwkwkw...sungguh membagongkan yg berhasil hanya kirim sms kode otp nyedot pulsa 2000 ....wkwkwkw smakin bnyak nyoba pulsa semakin tekor...,wkwkwkw sungguh membagongkan berhasil kirim sms kode otp nyedot pulsa 2000 wkwkwkw smakin bnyak nyoba pulsa tekor,0.0,sungguh:4; berhasil:3; kirim:2,kode:-3; pulsa:-3; pulsa:-3,9.0,-9.0,ambiguous,,
+8154,Abis ganti hp kok gak bisa masuk ke jakOne lagi ya,abis ganti hp kok tidak bisa masuk jakone ya,0.0,abis:1; ganti:3; ya:4,tidak:-5; masuk:-3,8.0,-8.0,ambiguous,,
+8158,"Yg lama sudah diuninstall eh yg baru donlot versi terbaru malah gak bisa dikonfirmasi2 acan? Kode yg muncul slalu 91. Bgm ini bank... smg sgera ada solusi, salam",diuninstall eh donlot versi terbaru tidak bisa dikonfirmasi2 acan kode muncul slalu 91 bgm bank smg sgera solusi salam,0.0,terbaru:4; muncul:1; solusi:3,tidak:-5; kode:-3,8.0,-8.0,ambiguous,,
+8165,ditambahin,ditambahin,0.0,,,0.0,0.0,ambiguous,,
+8206,Ocelah pokoke,ocelah pokoke,0.0,,,0.0,0.0,ambiguous,,
+8208,Kembangkan dan fungsikan,kembangkan fungsikan,0.0,,,0.0,0.0,ambiguous,,
+8215,Keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+8219,memeprmudah penggunaan dan penampilan lebih fresh,memeprmudah penggunaan penampilan lebih fresh,0.0,penggunaan:1; lebih:1,fresh:-2,2.0,-2.0,ambiguous,,
+8246,Bank terpercaya,bank terpercaya,0.0,,,0.0,0.0,ambiguous,,
+8260,payaaaaaaaaaahhhhhh,payaaaaaaaaaahhhhhh,0.0,,,0.0,0.0,ambiguous,,
+8273,"Ada banyak benefit gratis untuk aplikasi ini, mendapatkan rewerd Rp 600rb saat mendaftar",benefit gratis aplikasi mendapatkan rewerd rp 600rb mendaftar,0.0,gratis:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+8299,"Katanya disuruh install apk jakone terbaru tp sdh puluhan kali dicoba dg jaringan stabil, msh tdk bs verifikasi wajah, Hadeuh.....",katanya disuruh install aplikasi jakone terbaru puluhan dicoba dg jaringan stabil msh tidak bs verifikasi wajah hadeuh,0.0,terbaru:4; dicoba:2; jaringan:3; stabil:3,katanya:-1; disuruh:-2; aplikasi:-4; tidak:-5,12.0,-12.0,ambiguous,,
+8300,Aplikasi lemot banget asli,aplikasi lambat banget asli,0.0,lambat:1; banget:1; asli:2,aplikasi:-4,4.0,-4.0,likely_negative,lemot; lambat,negative pattern in neutral score zero row
+8321,salah satu aplikasi yg worth it karna bikin gampang kalo payment² diluar (terutama menggunakan scan QRIS) !,salah aplikasi worth it bikin gampang payment diluar terutama menggunakan scan qris,0.0,gampang:4; terutama:4,salah:-4; aplikasi:-4,8.0,-8.0,ambiguous,,
+8323,Topup ke DANA nggak masuk masuk.. no callcenter nggak bisa di hubungi. tolong segera di perbaiki,topup dana tidak masuk masuk no callcenter tidak bisa hubungi tolong segera perbaiki,0.0,dana:4; masuk:3; tolong:3; segera:3,tidak:-5; masuk:-3; tidak:-5,13.0,-13.0,ambiguous,,
+8324,"gampang banget euy daftar online jd nasabah jakone modal aplikasi doang, aplikasi nya juga ga ngelag atau pun ngebug masih okelah",gampang banget euy daftar online nasabah jakone modal aplikasi doang aplikasi nya tidak ngelag ngebug okelah,0.0,gampang:4; banget:1; daftar:1; nasabah:4; modal:2; doang:1,aplikasi:-4; aplikasi:-4; tidak:-5,13.0,-13.0,ambiguous,,
+8339,Sering bermasalah masuk ke apk nya dan tolong di perbaiki soal nya ini apk bank bukan apk yg biasa . tempat transaksi dan menabung.,bermasalah masuk aplikasi nya tolong perbaiki soal nya aplikasi bank bukan aplikasi transaksi menabung,0.0,tolong:3; aplikasi:4; transaksi:4; menabung:4,masuk:-3; aplikasi:-4; soal:-1; aplikasi:-4; bukan:-3,15.0,-15.0,ambiguous,,
+8361,Login terlalu lama,login,0.0,,,0.0,0.0,ambiguous,,
+8384,jakone sya user terkunci mau buka ga bisa mohon bantuan nya,jakone sya user terkunci buka tidak bisa mohon bantuan nya,0.0,buka:3; mohon:2,tidak:-5,5.0,-5.0,ambiguous,,
+8422,Belum ada,belum,0.0,,,0.0,0.0,ambiguous,,
+8440,Recomended,recomended,0.0,,,0.0,0.0,ambiguous,,
+8448,Aplikasi yang sangat bagus dan fitur² yang lengkap,aplikasi bagus fitur lengkap,0.0,bagus:2; lengkap:2,aplikasi:-4,4.0,-4.0,likely_positive,bagus,positive pattern in neutral score zero row
+8452,Selalu service out off time X,service out off time x,0.0,,,0.0,0.0,ambiguous,,
+8459,Makin canggih aja nih jakone nya bank DKi,canggih nih jakone nya bank dki,0.0,,,0.0,0.0,ambiguous,,
+8477,Aplikas jelk burik gajelas,aplikas jelk burik gajelas,0.0,,,0.0,0.0,ambiguous,,
+8502,aplikasi sangat mudah untuk di gunakan,aplikasi mudah gunakan,0.0,mudah:4,aplikasi:-4,4.0,-4.0,likely_positive,aplikasi mudah,positive pattern in neutral score zero row
+8514,"aplikasinya bagus, gampang dipake. fiturnya lengkap mulai dr buat bayar tagihan listrik, air, telepon, beli pulsa jg bisa. loginnya gampang bisa pake sms atau email. sejauh pake gaada error",aplikasi bagus gampang dipake fiturnya lengkap mulai bayar tagihan listrik air telepon beli pulsa jg bisa login gampang bisa pakai sms email sejauh pakai gaada error,0.0,bagus:2; gampang:4; lengkap:2; mulai:1; bayar:1; beli:2; gampang:4,aplikasi:-4; air:-1; pulsa:-3; gaada:-3; error:-5,16.0,-16.0,ambiguous,bagus; error,
+8543,Masih bingung mengaitkan ke KJP,bingung mengaitkan kjp,0.0,,,0.0,0.0,ambiguous,,
+8545,"Aplikasi ini sangat menarik sekali,dan saya menyukainya",aplikasi menarik menyukainya,0.0,menarik:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+8552,Godd,godd,0.0,,,0.0,0.0,ambiguous,,
+8587,MOBILE BANK PALING SAMPAH.... MAU TERIMA TRANSFER AJ GANGGUAN MULU,mobile bank sampah terima transfer aj gangguan mulu,0.0,terima:2; mulu:2,sampah:-4,4.0,-4.0,ambiguous,,
+8619,Mantul mantul mantul,mantul mantul mantul,0.0,,,0.0,0.0,ambiguous,,
+8647,"Ka cara mengatasi, user terkunci gimanh yah",ka mengatasi user terkunci gimanh yah,0.0,,,0.0,0.0,ambiguous,,
+8677,Makin canggih jakoe,canggih jakoe,0.0,,,0.0,0.0,ambiguous,,
+8678,Tolong di upgrade dan fix bug. Karena susah buat verifikasi KTP.,tolong upgrade fix bug susah verifikasi ktp,0.0,tolong:3,susah:-3,3.0,-3.0,ambiguous,,
+8680,mantul,mantul,0.0,,,0.0,0.0,ambiguous,,
+8686,"padahal password sdh benar, tetap ngga bs msk jg...",padahal password benar ngga bs msk jg,0.0,benar:2,ngga:-2,2.0,-2.0,ambiguous,,
+8692,Keywords + apk bagus dan bermanfaat bagi semuanya.,keywords aplikasi bagus bermanfaat semuanya,0.0,bagus:2; bermanfaat:5,aplikasi:-4; semuanya:-3,7.0,-7.0,likely_positive,bagus,positive pattern in neutral score zero row
+8700,"Makin kesini makin kesana nih aplikasi, gaje banget minimal update servernya dlu biar bagus, buat para pengguna ku saranin pke m banking lain aja deh, atau dana nya pindah ke E-Wallet aja, gajelas aplikasi ini mau di pke buru buru ada aja kendalanya, masih bagus Aps yg lama nya",kesini kesana nih aplikasi gaje banget minimal update servernya dlu biar bagus pengguna ku saranin pke m banking deh dana nya pindah e wallet gajelas aplikasi pke buru buru kendalanya bagus aps nya,0.0,banget:1; biar:1; bagus:2; pengguna:1; dana:4; pindah:1; buru:1; buru:1; bagus:2,aplikasi:-4; gaje:-3; minimal:-3; aplikasi:-4,14.0,-14.0,likely_positive,bagus,positive pattern in neutral score zero row
+8727,Lemooooooot,lemooooooot,0.0,,,0.0,0.0,ambiguous,,
+8778,"Padahal sinyal bagus, tp kalo dibuka seringnya periksa kembali jaringan anda. Kacau dki",padahal sinyal bagus dibuka seringnya periksa jaringan kacau dki,0.0,bagus:2; jaringan:3,periksa:-5,5.0,-5.0,likely_positive,bagus,positive pattern in neutral score zero row
+8784,Mantep,mantep,0.0,,,0.0,0.0,ambiguous,,
+8801,aplikasi sangat membantu,aplikasi membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+8802,Susah sekali buat masuknya padahal password udah bener,susah masuknya padahal password udah bener,0.0,bener:3,susah:-3,3.0,-3.0,likely_negative,susah masuk,negative pattern in neutral score zero row
+8803,Isgood,isgood,0.0,,,0.0,0.0,ambiguous,,
+8805,"""Sungguh luar biasa! Aplikasi JakOne Mobile benar-benar mempermudah saya dalam membayar tagihan Super Air Jet. Sebelumnya, saya harus menghabiskan waktu berharga untuk mengantre di loket atau membayar melalui transfer bank. Namun, sekarang dengan JakOne Mobile, saya dapat membayar tagihan Super Air Jet hanya dengan beberapa ketukan jari. Tidak hanya itu, fitur keamanan yang canggih juga membuat saya merasa nyaman dalam melakukan transaksi. Terima kasih JakOne Mobile atas kemudahan dan kenyamanan",sungguh aplikasi jakone mobile benar benar mempermudah membayar tagihan super air jet sebelumnya menghabiskan berharga mengantre loket membayar transfer bank jakone mobile membayar tagihan super air jet beberapa ketukan jari tidak fitur keamanan canggih membuat merasa nyaman melakukan transaksi terima kasih jakone mobile atas kemudahan kenyamanan,0.0,sungguh:4; benar:2; benar:2; super:3; berharga:3; super:3; membuat:1; nyaman:4; transaksi:4; terima:2; kasih:2; kemudahan:3; kenyamanan:4,aplikasi:-4; mempermudah:-3; membayar:-3; air:-1; menghabiskan:-4; membayar:-3; membayar:-3; air:-1; jari:-4; tidak:-5; merasa:-2; atas:-4,37.0,-37.0,likely_positive,nyaman,positive pattern in neutral score zero row
+8812,"Aplikasinya Bagus, pertahankan, interval update lebih diperpanjang lagi.",aplikasi bagus pertahankan interval update lebih diperpanjang,0.0,bagus:2; pertahankan:1; lebih:1,aplikasi:-4,4.0,-4.0,likely_positive,bagus,positive pattern in neutral score zero row
+8833,Ribet kebanyakan minta di update,ribet kebanyakan minta update,0.0,kebanyakan:2; minta:2,ribet:-4,4.0,-4.0,likely_negative,ribet,negative pattern in neutral score zero row
+8841,Sangat baikkk,baikkk,0.0,,,0.0,0.0,ambiguous,,
+8855,Aplikasi nya bagus dan lengkap,aplikasi nya bagus lengkap,0.0,bagus:2; lengkap:2,aplikasi:-4,4.0,-4.0,likely_positive,bagus,positive pattern in neutral score zero row
+8862,Jackone mandiri sangat bagus dan mudah dalam segalanya semoga maju terus jackone mandiri,jackone mandiri bagus mudah segalanya semoga maju jackone mandiri,0.0,bagus:2; mudah:4,mandiri:-3; mandiri:-3,6.0,-6.0,likely_positive,bagus,positive pattern in neutral score zero row
+8863,Ini aplikasinya bermasalah atau bagaimana ya. Setiap buka berhasil masuk tapi tidak bisa melakukan transaksi terus akhirnya keluar sendiri aplikasi. Di coba lagi sama seperti itu terus. Tolong ditingkatkan lagi pelayanannya,aplikasi bermasalah ya setiap buka berhasil masuk tidak bisa melakukan transaksi akhirnya keluar aplikasi coba tolong ditingkatkan pelayanannya,0.0,ya:4; buka:3; berhasil:3; transaksi:4; coba:2; tolong:3,aplikasi:-4; masuk:-3; tidak:-5; keluar:-3; aplikasi:-4,19.0,-19.0,ambiguous,,
+8867,Sangat direkomendasikan,direkomendasikan,0.0,,,0.0,0.0,ambiguous,,
+8913,Keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+8917,Aplikasi yang sangat berguna tidak susah digunakan ni alplikasi rekomen banget dahh thanks yaa min,aplikasi berguna tidak susah digunakan ni alplikasi rekomen banget dahh thanks yaa min,0.0,berguna:5; susah:3; banget:1; thanks:3,aplikasi:-4; tidak:-5; dahh:-3,12.0,-12.0,likely_positive,berguna,positive pattern in neutral score zero row
+8920,Sekarang tarik tunai kenapa ga bisa di atm nya? kenapa harus ke bank lain/indomart,tarik tunai kenapa tidak bisa atm nya kenapa bank indomart,0.0,tarik:2; tunai:3,tidak:-5,5.0,-5.0,ambiguous,,
+8932,Kok user terkunci sih min ?,kok user terkunci sih min,0.0,,,0.0,0.0,ambiguous,,
+8936,Semakin mulus dan dlancar sistemnya JakOne. Jadi betah pakai aplikasi ini untuk transfer2 antar bank.,mulus dlancar sistemnya jakone betah pakai aplikasi transfer2 antar bank,0.0,mulus:4,aplikasi:-4,4.0,-4.0,likely_positive,lancar,positive pattern in neutral score zero row
+8953,Jakone mobile news semakin muenteep,jakone mobile news muenteep,0.0,,,0.0,0.0,ambiguous,,
+8976,"Aplikasi bagus, mudah di gunakan dan pengisian uang elektroniknya lengkap sungguh sangat memudahkan untuk bermalas-malasan shoping sambil tiduran, namun sangat di sayangkan sekarang BI FAST nya sudah ga ada lagi, mohon infonya min kenapa BI FAST nya jadi hilang dan ga bisa lagi",aplikasi bagus mudah gunakan pengisian uang elektroniknya lengkap sungguh memudahkan bermalas malasan shoping tiduran sayangkan bi fast nya tidak mohon infonya min kenapa bi fast nya hilang tidak bisa,0.0,bagus:2; mudah:4; lengkap:2; sungguh:4; memudahkan:3; hilang:3,aplikasi:-4; tiduran:-2; tidak:-5; mohon:-2; tidak:-5,18.0,-18.0,likely_positive,bagus; memudahkan,positive pattern in neutral score zero row
+8983,Akun lama cara masuknya gimana,akun masuknya gimana,0.0,,,0.0,0.0,ambiguous,,
+8991,Belum bisa login?,belum bisa login,0.0,,,0.0,0.0,ambiguous,,
+9002,Aplikasi nya bagus dan lengkap fiturnya,aplikasi nya bagus lengkap fiturnya,0.0,bagus:2; lengkap:2,aplikasi:-4,4.0,-4.0,likely_positive,bagus,positive pattern in neutral score zero row
+9008,Apk nya bagus sekali fitur fitur nya juga lengkap the best 👍,aplikasi nya bagus fitur fitur nya lengkap the best,0.0,bagus:2; lengkap:2,aplikasi:-4,4.0,-4.0,likely_positive,bagus,positive pattern in neutral score zero row
+9015,Aplikasi aneh,aplikasi aneh,0.0,aneh:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+9022,Admin nya lamaa ngirim OTP 😡😡😡,admin nya lamaa ngirim otp,0.0,,,0.0,0.0,ambiguous,,
+9026,Kok update trs sih,kok update sih,0.0,,,0.0,0.0,ambiguous,,
+9032,mantapp,mantapp,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+9040,layanan TF antar bank selama lebaran sampai sekarang blm bisa..hadeh ...tolong benahin lah ..dr akhir maret mau lebaran sampe sekarang sudah awal mei ..😂ampun dah bank dki..,layanan transfer antar bank selama lebaran belum bisa hadeh tolong benahin maret lebaran sampe mei ampun dah bank dki,0.0,layanan:3; tolong:3; ampun:1,hadeh:-4; dah:-3,7.0,-7.0,ambiguous,,
+9042,Ini tarik tunai tanpa kartunya udah gak ada?,tarik tunai kartunya udah tidak,0.0,tarik:2; tunai:3,tidak:-5,5.0,-5.0,ambiguous,,
+9065,Sangat rekomendasi...,rekomendasi,0.0,,,0.0,0.0,ambiguous,,
+9073,dari sebelum dan selama libur lebaran seminggu sudah ga bisa transaksi transfer antar bank ga bisa isi shoppe pay payah banget Bank DKI,selama libur lebaran seminggu tidak bisa transaksi transfer antar bank tidak bisa isi shoppe pay payah banget bank dki,0.0,libur:3; transaksi:4; isi:2; banget:1,tidak:-5; tidak:-5,10.0,-10.0,likely_negative,tidak bisa transaksi; payah,negative pattern in neutral score zero row
+9077,"kapan beres nya coba, dri sblm lebaran idul fitri saampai skrng ngga kunjung membaik.",kapan beres nya coba dri sblm lebaran idul fitri saampai skrng ngga kunjung membaik,0.0,coba:2; kunjung:3,ngga:-2; membaik:-3,5.0,-5.0,ambiguous,,
+9084,Kerennnnnn *****,kerennnnnn,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+9098,user terkunci (0003) artinya apa min,user terkunci 0003 artinya min,0.0,,,0.0,0.0,ambiguous,,
+9119,Aplikasi sangat membantu,aplikasi membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+9127,Coba dulu bagaimana perkembangan untuk aplikasi nya,coba perkembangan aplikasi nya,0.0,coba:2; perkembangan:2,aplikasi:-4,4.0,-4.0,ambiguous,,
+9132,Makin kedepan...👏👏👏,kedepan,0.0,,,0.0,0.0,ambiguous,,
+9158,dah habis 20 ribu pulsa untuk terima SMS otp masih blm bisa dibuka juga ampun jekone DKI,dah habis 20 ribu pulsa terima sms otp belum bisa dibuka ampun jekone dki,0.0,habis:3; terima:2; ampun:1,dah:-3; pulsa:-3,6.0,-6.0,ambiguous,,
+9172,Mantul,mantul,0.0,,,0.0,0.0,ambiguous,,
+9178,kacau kacau kacau,kacau kacau kacau,0.0,,,0.0,0.0,ambiguous,,
+9186,"Masih blm sekompatible,dan semudah apk bank lain yg mudah penerapan nya",belum sekompatible semudah aplikasi bank mudah penerapan nya,0.0,mudah:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+9193,Tampilan dan aplikasi lebih bagus,tampilan aplikasi lebih bagus,0.0,tampilan:1; lebih:1; bagus:2,aplikasi:-4,4.0,-4.0,likely_positive,bagus,positive pattern in neutral score zero row
+9194,Balikin versi lama.... Massa unggah foto gak ter verifikasi mulu pakai yang baru,balikin versi massa unggah foto tidak ter verifikasi mulu pakai,0.0,foto:3; mulu:2,tidak:-5,5.0,-5.0,ambiguous,,
+9199,mantappp,mantappp,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+9200,parahhh,parahhh,0.0,,,0.0,0.0,likely_negative,parah,negative pattern in neutral score zero row
+9203,aplikasi mbangking paling jelek. server belom bagus ini buat qris atau transfer nyusahin kaga konek konek. buat cek saldo aja kadang kaga bisa kocaggggg. Pemda punya kaya begini modelnya kocaggggg,aplikasi mbangking jelek server belom bagus qris transfer nyusahin kaga konek konek cek saldo kadang kaga bisa kocaggggg pemda punya kaya modelnya kocaggggg,0.0,belom:1; bagus:2; saldo:2; kadang:3; punya:3; kaya:2,aplikasi:-4; jelek:-5; cek:-4,13.0,-13.0,ambiguous,bagus; jelek,
+9211,"sekalipun mudah digunakan, keamanan aplikasi ini ga perlu diragukan sih, TOP sekali",sekalipun mudah digunakan keamanan aplikasi tidak diragukan sih top,0.0,mudah:4; top:5,aplikasi:-4; tidak:-5,9.0,-9.0,likely_positive,mudah digunakan,positive pattern in neutral score zero row
+9218,Fitur di jakone agar terupdate juga di newjakone,fitur jakone terupdate newjakone,0.0,,,0.0,0.0,ambiguous,,
+9221,aplikasi yang sangat membantu yang digital anda,aplikasi membantu digital,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+9239,Bagaimana ini user saya terkunci?bisakah di atasi tanpa musti kebank,user terkunci bisakah atasi musti kebank,0.0,,,0.0,0.0,ambiguous,,
+9253,Aplikasi ini super lambat,aplikasi super lambat,0.0,super:3; lambat:1,aplikasi:-4,4.0,-4.0,likely_negative,lambat,negative pattern in neutral score zero row
+9258,Aman terkendali,aman terkendali,0.0,,,0.0,0.0,ambiguous,,
+9283,maintenance terlalu lama,maintenance,0.0,,,0.0,0.0,ambiguous,,
+9290,Kenapa sekarang kaga bisa transfer ke bank lain?,kenapa kaga bisa transfer bank,0.0,,,0.0,0.0,ambiguous,,
+9305,Sy abis upgrade. Trus kok mbangking nya tdk bs ya,sy abis upgrade kok mbangking nya tidak bs ya,0.0,abis:1; ya:4,tidak:-5,5.0,-5.0,ambiguous,,
+9312,parahhhh,parahhhh,0.0,,,0.0,0.0,likely_negative,parah,negative pattern in neutral score zero row
+9313,"kok saya ngga bisa dapet notifikasi kode dari nomor yang sudah saya masukkan ya, jadinya ngga bisa daftar terus",kok ngga bisa dapet notifikasi kode nomor masukkan ya jadinya ngga bisa daftar,0.0,dapet:2; ya:4; daftar:1,ngga:-2; kode:-3; ngga:-2,7.0,-7.0,ambiguous,,
+9326,Apk sangat bagus jdi lebih mudah untuk segala transaksi jangn ragu lagi pakek apk ini,aplikasi bagus jdi lebih mudah transaksi jangn ragu pakek aplikasi,0.0,bagus:2; lebih:1; mudah:4; transaksi:4,aplikasi:-4; ragu:-3; aplikasi:-4,11.0,-11.0,likely_positive,bagus,positive pattern in neutral score zero row
+9331,Top banget apk jakone mobile simplify my life... 😊👍👍👍,top banget aplikasi jakone mobile simplify my life,0.0,top:5; banget:1,aplikasi:-4; life:-2,6.0,-6.0,ambiguous,,
+9339,"Aplikasi yang sangat membantu, informatif, dan inovatif. Semoga terus berkembang program digital bank di Indonesia. Bisaa!!!",aplikasi membantu informatif inovatif semoga berkembang program digital bank indonesia bisaa,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+9347,sangatpuas,sangatpuas,0.0,,,0.0,0.0,likely_positive,puas,positive pattern in neutral score zero row
+9350,Keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+9353,Hebat,hebat,0.0,,,0.0,0.0,ambiguous,,
+9364,"Keren bgd makin canggih dan inovatif, bisa untuk semua pembayaran .. keren bank DKI..",keren bgd canggih inovatif bisa pembayaran keren bank dki,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+9365,gila verifikasi wajahnya bikin cape. Padahal pencahayaan jelas banget. Mohon agar di permudah untuk verifikasi wajah,gila verifikasi wajahnya bikin cape padahal pencahayaan jelas banget mohon permudah verifikasi wajah,0.0,gila:3; jelas:1; banget:1; mohon:2,cape:-4; pencahayaan:-3,7.0,-7.0,ambiguous,,
+9366,jellek,jellek,0.0,,,0.0,0.0,ambiguous,,
+9382,Cukup terbantu dengan aplikasi ini. Transfer jadi mudah dan untuk penarikan terbilang cukup besar perharinya.,terbantu aplikasi transfer mudah penarikan terbilang perharinya,0.0,mudah:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+9387,"aplikasi nya bagus, mempermudah untuk transaksi. fitu-fiturnya lengkap dan mudah dipahami atau tidak membingungkan",aplikasi nya bagus mempermudah transaksi fitu fiturnya lengkap mudah dipahami tidak membingungkan,0.0,bagus:2; transaksi:4; lengkap:2; mudah:4,aplikasi:-4; mempermudah:-3; tidak:-5,12.0,-12.0,likely_positive,bagus,positive pattern in neutral score zero row
+9401,Kirain aplikasi terbru makin enteng Ternyata oh ternyata lemotnya,kirain aplikasi terbru enteng ternyata oh ternyata lemotnya,0.0,enteng:4,aplikasi:-4,4.0,-4.0,likely_negative,lemot,negative pattern in neutral score zero row
+9422,Mantap aplikasinya tampilanya mudah dipahami pokoknya wajib download deh,mantap aplikasi tampilanya mudah dipahami pokoknya wajib download deh,0.0,mantap:5; mudah:4,aplikasi:-4; pokoknya:-3; wajib:-2,9.0,-9.0,likely_positive,mantap,positive pattern in neutral score zero row
+9440,JakOne..mobil lebih mudah transfer.. cek saldo..cek gaji..,jakone mobil lebih mudah transfer cek saldo cek gaji,0.0,mobil:1; lebih:1; mudah:4; saldo:2,cek:-4; cek:-4,8.0,-8.0,ambiguous,,
+9456,tampilan aplikasi lebih bagus,tampilan aplikasi lebih bagus,0.0,tampilan:1; lebih:1; bagus:2,aplikasi:-4,4.0,-4.0,likely_positive,bagus,positive pattern in neutral score zero row
+9463,Josss,josss,0.0,,,0.0,0.0,ambiguous,,
+9482,Aplikasi sangat membantu.,aplikasi membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+9533,"Mbangking baru nih, aplikasi dg fitur baru buat memenuhi kebutuhan kita, bisa deposit online, payment online,pke qris juga bisa.pokoknya lengkap dan me mudah kan",mbangking nih aplikasi dg fitur memenuhi kebutuhan kita bisa deposit online payment online pke qris bisa pokoknya lengkap me mudah,0.0,kebutuhan:4; lengkap:2; mudah:4,aplikasi:-4; memenuhi:-3; pokoknya:-3,10.0,-10.0,ambiguous,,
+9540,"Sumpah yaa ini bank dki sebenernya baguss loh, tapi kenapa sy pakai jakone transfer ke rekening lain, itu gagal tapi saldo saya udaa kepotong. Ini gmna ya udaa sy telpon ke cs nya bukan nya bnr malah ngabisin pulsa doang mana disuruh nunggu nya lama bgttt kecewa bgtttt 🙃",sumpah yaa bank dki sebenernya baguss loh kenapa sy pakai jakone transfer rekening gagal saldo udaa kepotong gmna ya udaa sy telpon cs nya bukan nya bnr ngabisin pulsa doang disuruh nunggu nya bgttt kecewa bgtttt,0.0,sumpah:3; sebenernya:1; saldo:2; ya:4; doang:1; nunggu:1,gagal:-4; bukan:-3; pulsa:-3; disuruh:-2,12.0,-12.0,ambiguous,bagus; kecewa,
+9555,Loadingnya lama (konvensional/syariah),loadingnya konvensional syariah,0.0,,,0.0,0.0,ambiguous,,
+9557,Menyebalkan,menyebalkan,0.0,,,0.0,0.0,ambiguous,,
+9559,"tolong di tingkatan lagi, masa mau Regis aja susah",tolong tingkatan masa regis susah,0.0,tolong:3,susah:-3,3.0,-3.0,ambiguous,,
+9568,Jos,jos,0.0,,,0.0,0.0,ambiguous,,
+9597,Udh beberapa x di update... Tapi kwalitas masih lebih bagus versi sebelumnya.. saat ini aplikasi hanya bisa di akses dengan wifi.. baru cepet... Tapi kalau pake data... Hmmmm... Bikin keseeeeel....,beberapa x update kwalitas lebih bagus versi sebelumnya aplikasi bisa akses wifi cepet pakai data hmmmm bikin keseeeeel,0.0,lebih:1; bagus:2; akses:2; cepet:2,aplikasi:-4; data:-3,7.0,-7.0,likely_positive,bagus,positive pattern in neutral score zero row
+9609,so far aman sih,so far aman sih,0.0,,,0.0,0.0,ambiguous,,
+9639,service offline terus,service offline,0.0,,,0.0,0.0,ambiguous,,
+9641,Wah keren sekali ni apk sangat membantu semua transaksiku,keren ni aplikasi membantu transaksiku,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu; keren,positive pattern in neutral score zero row
+9642,Maju terussssss,maju terussssss,0.0,,,0.0,0.0,ambiguous,,
+9670,"masa maintenance satu bulan lebih, ada ada aja bank daerah 🤣",masa maintenance bulan lebih bank daerah,0.0,lebih:1,bulan:-1,1.0,-1.0,ambiguous,,
+9672,parahhhhhhhhh,parahhhhhhhhh,0.0,,,0.0,0.0,likely_negative,parah,negative pattern in neutral score zero row
+9674,aplikasi menabung yang baik,aplikasi menabung,0.0,menabung:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+9677,kenapa saya mau transfer ke bank lain nggak bisa sama mau top up ke dana juga sama. apa sistem nya lg gangguan?,kenapa transfer bank tidak bisa top up dana sistem nya lg gangguan,0.0,top:5; dana:4,tidak:-5; sistem:-4,9.0,-9.0,ambiguous,,
+9697,kirim otp aja susah banget,kirim otp susah banget,0.0,kirim:2; banget:1,susah:-3,3.0,-3.0,ambiguous,,
+9700,Keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+9707,"nice app, very usefull, tampilannya juga enak diliat dan gak ngebingungin so far.",nice aplikasi very usefull tampilannya enak diliat tidak ngebingungin so far,0.0,nice:4; enak:5,aplikasi:-4; tidak:-5,9.0,-9.0,ambiguous,,
+9712,Salah satu aplikasi mobile banking terbaik yang ada sukses selalu untuk JakOne Mobile,salah aplikasi mobile banking terbaik sukses jakone mobile,0.0,terbaik:5; sukses:3,salah:-4; aplikasi:-4,8.0,-8.0,likely_positive,terbaik,positive pattern in neutral score zero row
+9713,"Saya kasih bintang 5 karena saya tidak pelit meskipun loginnya sangat sulit, loadingnya juga lama sekali, dan minta kirim otp terus sampai pulsa saya habis. Good job bank dki.",kasih bintang 5 tidak pelit meskipun login sulit loadingnya minta kirim otp pulsa habis good job bank dki,0.0,kasih:2; minta:2; kirim:2; habis:3; good:5,tidak:-5; pelit:-4; meskipun:-2; pulsa:-3,14.0,-14.0,ambiguous,,
+9760,Muter2 terus,muter2,0.0,,,0.0,0.0,ambiguous,,
+9762,Paraaaaah ini apl...,paraaaaah apl,0.0,,,0.0,0.0,ambiguous,,
+9764,Okk keren,okk keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+9765,Mantul,mantul,0.0,,,0.0,0.0,ambiguous,,
+9772,Goodjob,goodjob,0.0,,,0.0,0.0,ambiguous,,
+9776,sy lupa password.. maaf bagaimana sy mau masuk .. kalo kode OTP nya ngk muncul saat sy masukin no hp. mohon arahannya,sy lupa password maaf sy masuk kode otp nya ngk muncul sy masukin no hp mohon arahannya,0.0,lupa:1; maaf:2; muncul:1; mohon:2,masuk:-3; kode:-3,6.0,-6.0,ambiguous,,
+9781,FITUR BI FASTNYA KEMANA ?,fitur bi fastnya kemana,0.0,,,0.0,0.0,ambiguous,,
+9791,Sudah punya Jackone lama mau update namun aplikasi mengarahkan membuat baru sampai kehabisan pulsa karena mengulang OTP beberapa kali,punya jackone update aplikasi mengarahkan membuat kehabisan pulsa mengulang otp beberapa,0.0,punya:3; mengarahkan:3; membuat:1,aplikasi:-4; pulsa:-3,7.0,-7.0,ambiguous,,
+9797,JakOne Mobile is the best,jakone mobile is the best,0.0,,,0.0,0.0,ambiguous,,
+9817,"Aplikasi bug gak di perbaiki udah lama sekali, sudah memilih ya pada pilihan sudah memiliki bank DKI tapi tetap saja masuk ke menu pembukaan tabungan baru",aplikasi bug tidak perbaiki udah memilih ya pilihan memiliki bank dki masuk menu pembukaan tabungan,0.0,ya:4; pilihan:5; tabungan:3,aplikasi:-4; tidak:-5; masuk:-3,12.0,-12.0,ambiguous,,
+9823,Keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+9844,Sangat terbantu,terbantu,0.0,,,0.0,0.0,ambiguous,,
+9851,Kerjasama antar bank masih minim,kerjasama antar bank minim,0.0,kerjasama:3,minim:-3,3.0,-3.0,ambiguous,,
+9856,"Setelah di update jadi ga bisa di akses, tolong dibenerin",setelah update tidak bisa akses tolong dibenerin,0.0,akses:2; tolong:3,tidak:-5,5.0,-5.0,ambiguous,,
+9862,Hebat !!!,hebat,0.0,,,0.0,0.0,ambiguous,,
+9864,"bank gak guna, Gak bisa transfer ke bca",bank tidak tidak bisa transfer bca,0.0,tidak:5,tidak:-5,5.0,-5.0,ambiguous,,
+9869,Aplikasi yang sangat mudah di gunakan...pkoknya recomendid ☺️☺️,aplikasi mudah gunakan pkoknya recomendid,0.0,mudah:4,aplikasi:-4,4.0,-4.0,likely_positive,aplikasi mudah,positive pattern in neutral score zero row
+9906,Keren se kali bank DKI,keren se bank dki,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+9912,aplikasinya sangat membantu,aplikasi membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+9914,gajelas,gajelas,0.0,,,0.0,0.0,ambiguous,,
+9915,The Best,the best,0.0,,,0.0,0.0,ambiguous,,
+9932,"Bank kaga jelas , transfer duit, saldonya kepotong tapi kaga sampe ke penerima Sering lola juga apk nya. Muter"" kaga jelas",bank kaga jelas transfer duit saldonya kepotong kaga sampe penerima lola aplikasi nya muter kaga jelas,0.0,jelas:1; penerima:2; jelas:1,aplikasi:-4,4.0,-4.0,ambiguous,,
+9934,Aplikasinya mudah di gunakan,aplikasi mudah gunakan,0.0,mudah:4,aplikasi:-4,4.0,-4.0,likely_positive,aplikasi mudah,positive pattern in neutral score zero row
+9946,keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+9949,Bank DKI bisnis berbayar Call center 1500-xxx,bank dki bisnis berbayar call center 1500 xxx,0.0,bisnis:3,berbayar:-3,3.0,-3.0,ambiguous,,
+9983,"Banyak transaksi yang gagal,",transaksi gagal,0.0,transaksi:4,gagal:-4,4.0,-4.0,likely_negative,transaksi gagal,negative pattern in neutral score zero row
+10000,maintenance yang merugikan,maintenance merugikan,0.0,,,0.0,0.0,ambiguous,,
+10005,Aplikasi yang sangat membantu dalam hal pembayaran atau pun transfer uang,aplikasi membantu pembayaran transfer uang,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+10015,Bayar tagihan air + listrik gampang sekarang gak pelu keluar panas panasan,bayar tagihan air listrik gampang tidak pelu keluar panas panasan,0.0,bayar:1; gampang:4; panas:4,air:-1; tidak:-5; keluar:-3,9.0,-9.0,ambiguous,,
+10034,Aplikasi nya bikin hidup jadi simple Krn praktis dan gak bikin ribet.. tinggal klik klik langsung sat set sat set..,aplikasi nya bikin hidup simple praktis tidak bikin ribet tinggal klik klik langsung sat set sat set,0.0,hidup:2; simple:3; praktis:4; tinggal:1; langsung:3,aplikasi:-4; tidak:-5; ribet:-4,13.0,-13.0,ambiguous,praktis; simple; ribet,
+10041,No Comment lah,no comment,0.0,,,0.0,0.0,ambiguous,,
+10046,Ada banyak benefit gratis untuk aplikasi ini senilai 600ribu saat mendaftar,benefit gratis aplikasi senilai 600ribu mendaftar,0.0,gratis:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+10048,"bagus aplikasinya,sangat membantu di jaman sekarang yang serba digital",bagus aplikasi membantu jaman serba digital,0.0,bagus:2; membantu:4,aplikasi:-4; jaman:-2,6.0,-6.0,likely_positive,sangat membantu; bagus,positive pattern in neutral score zero row
+10054,Aplikasi nya sangat mudah digunakan,aplikasi nya mudah digunakan,0.0,mudah:4,aplikasi:-4,4.0,-4.0,likely_positive,mudah digunakan,positive pattern in neutral score zero row
+10065,"Tolong ditingkatkan lagi dong Bukan karena faktor sinyal atau memori kepenuhan, tetapi memang dari aplikasinya!!!",tolong ditingkatkan bukan faktor sinyal memori kepenuhan aplikasi,0.0,tolong:3; faktor:4,bukan:-3; aplikasi:-4,7.0,-7.0,ambiguous,,
+10069,Virtual Accout,virtual accout,0.0,,,0.0,0.0,ambiguous,,
+10094,"Aplikasinya bagus karena banyak fitur yang bisa mempermudah jadi gak repot keluar untuk beli pulsa, bayar listrik, dll. pokok nya mantap lah",aplikasi bagus fitur bisa mempermudah tidak repot keluar beli pulsa bayar listrik dll pokok nya mantap,0.0,bagus:2; repot:5; beli:2; bayar:1; pokok:3; mantap:5,aplikasi:-4; mempermudah:-3; tidak:-5; keluar:-3; pulsa:-3,18.0,-18.0,likely_positive,bagus; mantap,positive pattern in neutral score zero row
+10096,Mantaaappp,mantaaappp,0.0,,,0.0,0.0,ambiguous,,
+10097,bi fast kemane bro,bi fast kemane bro,0.0,,,0.0,0.0,ambiguous,,
+10110,Aman,aman,0.0,,,0.0,0.0,ambiguous,,
+10111,Jakone Mobile memberikan benefit 600rb saat mendaftar,jakone mobile memberikan benefit 600rb mendaftar,0.0,,,0.0,0.0,ambiguous,,
+10124,Masih sering lag...,lag,0.0,,,0.0,0.0,ambiguous,,
+10142,goodd,goodd,0.0,,,0.0,0.0,ambiguous,,
+10143,Kok user saya terkunci kenapa yah???,kok user terkunci kenapa yah,0.0,,,0.0,0.0,ambiguous,,
+10145,"Ada banyak benefit gratis untuk aplikasi ini, mendapatkan reward Rp600rb",benefit gratis aplikasi mendapatkan reward rp600rb,0.0,gratis:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+10161,Saya baru login udh kluar lagi...,login kluar,0.0,,,0.0,0.0,ambiguous,,
+10184,Semakin ke sini semakin lemot .. susah di akses,lambat susah akses,0.0,lambat:1; akses:2,susah:-3,3.0,-3.0,likely_negative,lemot; lambat,negative pattern in neutral score zero row
+10211,Aplikasi yang baik dan mudah dipahami,aplikasi mudah dipahami,0.0,mudah:4,aplikasi:-4,4.0,-4.0,likely_positive,aplikasi mudah,positive pattern in neutral score zero row
+10250,"saya sudah melakukan pendaftaran dan berhasil, namun tidak mendapatkan user id, sy sudah kirim email untuk laporan Namum belum ada tindak lanjut.",melakukan pendaftaran berhasil tidak mendapatkan user id sy kirim email laporan namum belum tindak lanjut,0.0,pendaftaran:3; berhasil:3; kirim:2; lanjut:2,tidak:-5; laporan:-5,10.0,-10.0,ambiguous,,
+10253,satu satu nya bank yang gangguan terus menerus,nya bank gangguan menerus,0.0,,,0.0,0.0,ambiguous,,
+10284,pelayanannya baik,pelayanannya,0.0,,,0.0,0.0,ambiguous,,
+10295,tampilan aplikasi modern,tampilan aplikasi modern,0.0,tampilan:1; modern:3,aplikasi:-4,4.0,-4.0,ambiguous,,
+10296,Lama banget dapet kode otp nya,banget dapet kode otp nya,0.0,banget:1; dapet:2,kode:-3,3.0,-3.0,ambiguous,,
+10336,Ini kenapa otp ga masuk2 ya padahal pulsa ada internet lancar,kenapa otp tidak masuk2 ya padahal pulsa internet lancar,0.0,ya:4; lancar:4,tidak:-5; pulsa:-3,8.0,-8.0,ambiguous,lancar; otp tidak masuk,
+10344,menurutku aku aman aja sih,menurutku aman sih,0.0,,,0.0,0.0,ambiguous,,
+10365,Tmbah Update tambah gak jelas aplgi setiap jam ½10 malam mau transaksi erorr teruss jaringann..,tmbah update tambah tidak jelas aplgi setiap jam 10 malam transaksi erorr teruss jaringann,0.0,tambah:3; transaksi:4,tidak:-5; jelas:-1; malam:-1,7.0,-7.0,likely_negative,eror,negative pattern in neutral score zero row
+10383,"Apknya jadul bngt kirim kode SMS ajh lama bngt , trus kaga dikirim kirim pula",apknya jadul bngt kirim kode sms ajh bngt kaga dikirim kirim,0.0,kirim:2; dikirim:2; kirim:2,jadul:-3; kode:-3,6.0,-6.0,ambiguous,,
+10397,"Aplikasi Cepat, Tampilan Baru Keren!",aplikasi cepat tampilan keren,0.0,cepat:3; tampilan:1,aplikasi:-4,4.0,-4.0,likely_positive,keren; cepat,positive pattern in neutral score zero row
+10410,"Aplikasi mobile banking yang sangat mudah di gunakan bisa bayar apa aja pake aplikasi ini ,saya merekomendasikan mobile banking ini, karena bayar apa aja jadi ga ribet dari segi tampilan juga menarik dan bersahabat..",aplikasi mobile banking mudah gunakan bisa bayar pakai aplikasi merekomendasikan mobile banking bayar tidak ribet segi tampilan menarik bersahabat,0.0,mudah:4; bayar:1; bayar:1; ribet:4; tampilan:1; menarik:4; bersahabat:2,aplikasi:-4; aplikasi:-4; tidak:-5; segi:-4,17.0,-17.0,likely_negative,ribet,negative pattern in neutral score zero row
+10433,Udh di update malah makin loding terus😭😭,update loding,0.0,,,0.0,0.0,ambiguous,,
+10447,"Aplikasi bagus, perlu di coba",aplikasi bagus coba,0.0,bagus:2; coba:2,aplikasi:-4,4.0,-4.0,likely_positive,bagus,positive pattern in neutral score zero row
+10451,aneh transfer ke bank lain malah kaga bisa kocak padahal limit 10jt mau pindahin dana 9jt malah kena transaksi batal terus mau lewat e wallet sama aja kaga danta tiba-tiba koneksi kaga jelas eror padahal lancar busuk banget ini bank,aneh transfer bank kaga bisa kocak padahal limit 10jt pindahin dana 9jt kena transaksi batal e wallet kaga danta tiba tiba koneksi kaga jelas error padahal lancar busuk banget bank,0.0,aneh:4; dana:4; transaksi:4; koneksi:2; jelas:1; lancar:4; banget:1,kocak:-2; kena:-3; batal:-5; error:-5; busuk:-5,20.0,-20.0,ambiguous,lancar; error; eror,
+10472,Simple dan gak ribet. Gak pernah ngelag. Tingkat security bagus.,simple tidak ribet tidak ngelag tingkat security bagus,0.0,simple:3; ribet:4; tingkat:1; bagus:2,tidak:-5; tidak:-5,10.0,-10.0,ambiguous,simple; bagus; ribet,
+10503,kebanyakan kendala mulu aplikasinya,kebanyakan kendala mulu aplikasi,0.0,kebanyakan:2; mulu:2,aplikasi:-4,4.0,-4.0,ambiguous,,
+10504,Wantulllll,wantulllll,0.0,,,0.0,0.0,ambiguous,,
+10505,Fitur terlengakap dalam 1 genggaman..keren Bank DKI,fitur terlengakap 1 genggaman keren bank dki,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+10508,Mantapppp benerr,mantapppp benerr,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+10525,Aplikasi mobile banking tebaik yang mudah di operasikan.fitur fitur nya juga keren.,aplikasi mobile banking tebaik mudah operasikan fitur fitur nya keren,0.0,mudah:4,aplikasi:-4,4.0,-4.0,likely_positive,keren,positive pattern in neutral score zero row
+10547,Nicer tryy,nicer tryy,0.0,,,0.0,0.0,ambiguous,,
+10561,Aplikasi jakOne mobile nya sangat membantu..,aplikasi jakone mobile nya membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+10567,Bank terburuk di indonesia untuk semua halnya 👎,bank terburuk indonesia halnya,0.0,,,0.0,0.0,likely_negative,buruk,negative pattern in neutral score zero row
+10573,"mau bayar pendidikan susah, gabisa transfer dari platform gopay, dana, shopeepay kesini. tolong diperbaiki sistemnya.",bayar pendidikan susah tidak bisa transfer platform gopay dana shopeepay kesini tolong diperbaiki sistemnya,0.0,bayar:1; dana:4; tolong:3,susah:-3; tidak:-5,8.0,-8.0,ambiguous,,
+10589,Ini knpa lagi kok ngk bisa jekone registrasi,knpa kok ngk bisa jekone registrasi,0.0,,,0.0,0.0,ambiguous,,
+10600,mantul,mantul,0.0,,,0.0,0.0,ambiguous,,
+10675,Aplikasi barunya mudah buat digunakan dan dipahami,aplikasi barunya mudah digunakan dipahami,0.0,mudah:4,aplikasi:-4,4.0,-4.0,likely_positive,mudah digunakan,positive pattern in neutral score zero row
+10677,Mantap ini aplikasi jak one mobile bisa memudahkan kita transfer tanpa ribet,mantap aplikasi jak one mobile bisa memudahkan kita transfer ribet,0.0,mantap:5; memudahkan:3,aplikasi:-4; ribet:-4,8.0,-8.0,ambiguous,mantap; memudahkan; ribet,
+10701,sangat bagud,bagud,0.0,,,0.0,0.0,ambiguous,,
+10703,Makin canggih aja nih Jakone Mobile,canggih nih jakone mobile,0.0,,,0.0,0.0,ambiguous,,
+10706,Mantappp,mantappp,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+10713,Sering gangguan,gangguan,0.0,,,0.0,0.0,ambiguous,,
+10718,Mantappp,mantappp,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+10729,Aplikasi ini sangat membantu sekali,aplikasi membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu; membantu sekali,positive pattern in neutral score zero row
+10745,De best 🥰🥰,de best,0.0,,,0.0,0.0,ambiguous,,
+10757,"menurutku, sejauh ini Jakone mobile banking dengan fitur terkeren",menurutku sejauh jakone mobile banking fitur terkeren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+10774,min kenapa saya setiap masukin no telepon tapi malah ada bacaan -(91) min kenapa tu min?,min kenapa setiap masukin no telepon bacaan 91 min kenapa tu min,0.0,,,0.0,0.0,ambiguous,,
+10816,jakOne kepunyaan ku,jakone kepunyaan ku,0.0,,,0.0,0.0,ambiguous,,
+10828,saya transfer ke dana uda 48 jam masih proses aja belum juga berhasil.. tolong penjelasannya bank dki.. jangan sampai duit saya tidak balik atau ke transfer ke tujuan,transfer dana uda 48 jam proses belum berhasil tolong penjelasannya bank dki jangan duit tidak balik transfer tujuan,0.0,dana:4; proses:1; tolong:3; balik:3,berhasil:-3; jangan:-3; tidak:-5,11.0,-11.0,ambiguous,,
+10836,Bagusssss,bagusssss,0.0,,,0.0,0.0,likely_positive,bagus,positive pattern in neutral score zero row
+10878,Kereeeenn..,kereeeenn,0.0,,,0.0,0.0,ambiguous,,
+10900,"makin gk jelas buat transfer dana sama tf ke bank lain di ilangin biar apa cok,bingung klo ke luar kota klo mau transaksi ,emang aplikasi nya di khususin buat warga jakarta jangan ke luar kota apa gimana sih aneh",tidak jelas transfer dana transfer bank ilangin biar cok bingung klo kota klo transaksi emang aplikasi nya khususin warga jakarta jangan kota gimana sih aneh,0.0,dana:4; biar:1; transaksi:4; kota:1; aneh:4,tidak:-5; jelas:-1; kota:-1; aplikasi:-4; jangan:-3,14.0,-14.0,ambiguous,,
+10903,"Tau aplikasi ini dari video iklan di Sudirman, waktu itu ternyata milik Bank Dki, semakin maju Bank DKI, tampilan nya jadi lebih maju, keren,mantap",tau aplikasi video iklan sudirman ternyata milik bank dki maju bank dki tampilan nya lebih maju keren mantap,0.0,milik:1; tampilan:1; lebih:1; mantap:5,tau:-4; aplikasi:-4,8.0,-8.0,likely_positive,mantap; keren,positive pattern in neutral score zero row
+10905,the best,the best,0.0,,,0.0,0.0,ambiguous,,
+10932,Aplikasi bangke..setiap transaksi ada ajh gangguan..jd nyangkut duit gw,aplikasi bangke setiap transaksi ajh gangguan nyangkut duit gw,0.0,transaksi:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+10938,"buatku, belum ada yang nyaingin praktisnya JakOne",buatku belum nyaingin praktisnya jakone,0.0,,,0.0,0.0,likely_positive,praktis,positive pattern in neutral score zero row
+10943,Keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+10975,Siiip,siiip,0.0,,,0.0,0.0,ambiguous,,
+10979,paling bosok di antara yang lain,bosok,0.0,,,0.0,0.0,ambiguous,,
+10982,Mantappp,mantappp,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+10992,kok kirim kode otpnya lama bgt padahal di hp ada pulsanya,kok kirim kode otp banget padahal hp pulsanya,0.0,kirim:2; banget:1,kode:-3,3.0,-3.0,ambiguous,,
+10994,Kenapa akun bank terkunci,kenapa akun bank terkunci,0.0,,,0.0,0.0,ambiguous,,
+11030,Mantab,mantab,0.0,,,0.0,0.0,ambiguous,,
+11033,cocokny sgni,cocokny sgni,0.0,,,0.0,0.0,ambiguous,,
+11060,aplikaso yang sangat keren,aplikaso keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+11074,"woii minn gua mau bikin akun malah stak di foto gimna ini, udh make wifi pdhl udh berkali kali kg bisa payah",woii minn gua bikin akun stak foto gimna make wifi pdhl berkali kg bisa payah,0.0,foto:3,gua:-3,3.0,-3.0,likely_negative,payah,negative pattern in neutral score zero row
+11082,okeee,okeee,0.0,,,0.0,0.0,ambiguous,,
+11096,Mau login malah diarahin ke pembuatan rekening,login diarahin pembuatan rekening,0.0,,,0.0,0.0,ambiguous,,
+11100,"Salah satu aplikasi mobile banking terbaik,yang banyak sekali manfaatnya dan bisa kita gunakan dimana saja dan kapan saja.",salah aplikasi mobile banking terbaik manfaatnya bisa kita gunakan dimana kapan,0.0,terbaik:5; manfaatnya:3,salah:-4; aplikasi:-4,8.0,-8.0,likely_positive,terbaik,positive pattern in neutral score zero row
+11116,"Makin kesini makin lemot , mending gausah ada lagi jakone daripada nyusahin doang",kesini lambat mending gausah jakone nyusahin doang,0.0,lambat:1; mending:2; doang:1,gausah:-4,4.0,-4.0,likely_negative,lemot; lambat,negative pattern in neutral score zero row
+11140,Mantaps,mantaps,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+11164,"Aplikasi bagus ,buka rekening juga gak ribet",aplikasi bagus buka rekening tidak ribet,0.0,bagus:2; buka:3; ribet:4,aplikasi:-4; tidak:-5,9.0,-9.0,ambiguous,bagus; ribet,
+11174,Pasang App JakOne mobile,pasang aplikasi jakone mobile,0.0,pasang:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+11178,JakOne Mobile MANTAAAPPP!!!!!!!!!!!!!!,jakone mobile mantaaappp,0.0,,,0.0,0.0,ambiguous,,
+11180,keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+11187,aplikasi yang sangat Membantu,aplikasi membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+11193,Keren banget aplikasi ringan mudah digunakan untuk orang awam sekalipun pokoknya the best lah jakone.,keren banget aplikasi ringan mudah digunakan orang awam sekalipun pokoknya the best jakone,0.0,banget:1; ringan:2; mudah:4,aplikasi:-4; pokoknya:-3,7.0,-7.0,likely_positive,mudah digunakan; keren,positive pattern in neutral score zero row
+11197,Terima kasih banyak JakOne sudah menjadi aplikasi yang bisa diandalkan kapanpun dan dimanapun,terima kasih jakone menjadi aplikasi bisa diandalkan kapanpun dimanapun,0.0,terima:2; kasih:2,aplikasi:-4,4.0,-4.0,ambiguous,,
+11205,Aplikasi yang sangat mudah di gunakan,aplikasi mudah gunakan,0.0,mudah:4,aplikasi:-4,4.0,-4.0,likely_positive,aplikasi mudah,positive pattern in neutral score zero row
+11210,"belajarlah dari bank swasta lain, contoh Mybca, livin atau brimo",belajarlah bank swasta contoh mybca livin brimo,0.0,,,0.0,0.0,ambiguous,,
+11229,Semoga banyak lagi fitur²nya,semoga fitur nya,0.0,,,0.0,0.0,ambiguous,,
+11231,"Aplikasi ini bagus banget semua fitur-fiturnya mudah dimengerti, dan bisa di pakai buat beli pulsa, bayar tagihan, dll. recommend bgt apk ini🥰",aplikasi bagus banget fitur fiturnya mudah dimengerti bisa pakai beli pulsa bayar tagihan dll recommend banget aplikasi,0.0,bagus:2; banget:1; mudah:4; beli:2; bayar:1; banget:1,aplikasi:-4; pulsa:-3; aplikasi:-4,11.0,-11.0,likely_positive,bagus,positive pattern in neutral score zero row
+11241,Aplikasi ini nyaman digunakan,aplikasi nyaman digunakan,0.0,nyaman:4,aplikasi:-4,4.0,-4.0,likely_positive,nyaman,positive pattern in neutral score zero row
+11253,"Proses transaksinya cepet banget, registraingak ribet. Cs nya helpful, keren lah JakOne",proses transaksinya cepet banget registraingak ribet cs nya helpful keren jakone,0.0,proses:1; cepet:2; banget:1,ribet:-4,4.0,-4.0,ambiguous,keren; ribet,
+11267,aplikasinya sangat membantu sekalii,aplikasi membantu sekalii,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu; membantu sekali,positive pattern in neutral score zero row
+11271,"Aplikasi nya efesien, serba ada dan gampang dipake",aplikasi nya efesien serba gampang dipake,0.0,gampang:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+11277,"Apk gak jelas, opsi transfer cuma antar bank DKI, transaksi scan QRIS gagal tapi saldo kepotong, aneh...Cs dihub sibuk terus, sangat merugikan",aplikasi tidak jelas opsi transfer antar bank dki transaksi scan qris gagal saldo kepotong aneh cs dihub sibuk merugikan,0.0,transaksi:4; saldo:2; aneh:4; sibuk:4,aplikasi:-4; tidak:-5; jelas:-1; gagal:-4,14.0,-14.0,ambiguous,,
+11293,"Dari lebaran sampai hari ini masih aja error, semua duit gue di bank DKI weeh sedangkan Mbanking kaga bisa dibuka, terus mau ngambil duit pake ATM jg duitnya kaga bisa keluar. Tolong dong di TL ini, masa iyaa kita para nasabah DKI harus nunggu selama ini?",lebaran hari error duit gue bank dki weeh sedangkan mbanking kaga bisa dibuka ngambil duit pakai atm jg duitnya kaga bisa keluar tolong tl masa iyaa kita nasabah dki nunggu selama,0.0,tolong:3; nasabah:4; nunggu:1,error:-5; keluar:-3,8.0,-8.0,likely_negative,error,negative pattern in neutral score zero row
+11332,Mantaaap.... Bank DKI Luar Biasa 👍🏻,mantaaap bank dki,0.0,,,0.0,0.0,ambiguous,,
+11339,Ini saya mau pindah device verifikasi selalu gagal padahal semua data sudah sesuai tolong follow up nya.,pindah device verifikasi gagal padahal data sesuai tolong follow up nya,0.0,pindah:1; sesuai:3; tolong:3,gagal:-4; data:-3,7.0,-7.0,likely_negative,verifikasi gagal,negative pattern in neutral score zero row
+11363,BANK DAERAH TERBURUK YG PERNAH ADA,bank daerah terburuk,0.0,,,0.0,0.0,likely_negative,buruk,negative pattern in neutral score zero row
+11366,Mangstabs,mangstabs,0.0,,,0.0,0.0,ambiguous,,
+11384,"setelah ada notif ""transaksi baru bisa digunakan kembali setelah lampu di aplikasi berwarna hijau""... hiih abis maintenance malah ga bisa login. alhasil akun terkunci hadeuh",setelah notif transaksi bisa digunakan setelah lampu aplikasi berwarna hijau hiih abis maintenance tidak bisa login alhasil akun terkunci hadeuh,0.0,transaksi:4; lampu:4; hijau:3; abis:1,aplikasi:-4; berwarna:-3; tidak:-5,12.0,-12.0,likely_negative,tidak bisa login,negative pattern in neutral score zero row
+11408,Kenapa Bank DKI kga ada BI Fast transfer bank lain 2500?,kenapa bank dki kga bi fast transfer bank 2500,0.0,,,0.0,0.0,ambiguous,,
+11412,KEREN JAKONE MOBILE PT.BANK DKI👍👍👍👍🙏,keren jakone mobile pt bank dki,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+11417,Ko otp ku lama sekali,ko otp ku,0.0,,,0.0,0.0,ambiguous,,
+11424,"aplikasi yang memudahkan penggunanya, fitur fitur nya sangat lengkap, lancar dan tidak lag.",aplikasi memudahkan penggunanya fitur fitur nya lengkap lancar tidak lag,0.0,memudahkan:3; lengkap:2; lancar:4,aplikasi:-4; tidak:-5,9.0,-9.0,likely_positive,lancar; memudahkan,positive pattern in neutral score zero row
+11430,"Untuk layanan kartu Tri kesulitan untuk login aplikasi padahal kuota dan sinyal bagus, tolong segera diperbaiki !",layanan kartu tri kesulitan login aplikasi padahal kuota sinyal bagus tolong segera diperbaiki,0.0,layanan:3; bagus:2; tolong:3; segera:3,kesulitan:-5; aplikasi:-4; kuota:-2,11.0,-11.0,likely_positive,bagus,positive pattern in neutral score zero row
+11437,tolong dong ini verif wajah ga bisa mulu kenapa si,tolong verif wajah tidak bisa mulu kenapa si,0.0,tolong:3; mulu:2,tidak:-5,5.0,-5.0,ambiguous,,
+11452,Thank you to made this amazing app????????????????????????????????????????,thank you to made this amazing aplikasi,0.0,thank:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+11458,gokil,gokil,0.0,,,0.0,0.0,ambiguous,,
+11467,login sangat sulit,login sulit,0.0,,,0.0,0.0,likely_negative,sulit login,negative pattern in neutral score zero row
+11486,fitur-fitur yang ada di aplikasi mbanking ini sangat mudah dipahami. csnya juga responsif banget ketika dihubungi waktu ada problem tentang mbanking.. thanks jakone mobile,fitur fitur aplikasi mbanking mudah dipahami csnya responsif banget dihubungi problem mbanking thanks jakone mobile,0.0,mudah:4; banget:1; thanks:3,aplikasi:-4; problem:-4,8.0,-8.0,likely_positive,responsif,positive pattern in neutral score zero row
+11488,payah sulit diakses,payah sulit diakses,0.0,,,0.0,0.0,likely_negative,payah,negative pattern in neutral score zero row
+11489,mantaf,mantaf,0.0,,,0.0,0.0,ambiguous,,
+11499,Mantabs,mantabs,0.0,,,0.0,0.0,ambiguous,,
+11505,keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+11526,ini kpn bisa TF antar bank lain woyyyyy ???,kpn bisa transfer antar bank woyyyyy,0.0,,,0.0,0.0,ambiguous,,
+11530,Keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+11531,Terima kasih Aplikasinya semankin mqntap,terima kasih aplikasi semankin mqntap,0.0,terima:2; kasih:2,aplikasi:-4,4.0,-4.0,ambiguous,,
+11536,User friendly,user friendly,0.0,,,0.0,0.0,ambiguous,,
+11547,Cacqt,cacqt,0.0,,,0.0,0.0,ambiguous,,
+11553,dapat duit,duit,0.0,,,0.0,0.0,ambiguous,,
+11571,ganti hape registrasi ulang eror 0404 terussss.. help,ganti hape registrasi ulang error 0404 terussss help,0.0,ganti:3; help:2,error:-5,5.0,-5.0,likely_negative,error; eror,negative pattern in neutral score zero row
+11576,nah gtu diperbaiki,nah gtu diperbaiki,0.0,,,0.0,0.0,ambiguous,,
+11599,Keren nih salah satu aplikasi keuangan yang mudah digunakan dan gak ribet Simpel dan ringan digunakan,keren nih salah aplikasi keuangan mudah digunakan tidak ribet simpel ringan digunakan,0.0,mudah:4; ribet:4; simpel:3; ringan:2,salah:-4; aplikasi:-4; tidak:-5,13.0,-13.0,ambiguous,mudah digunakan; simpel; keren; ribet,
+11609,tol,tol,0.0,,,0.0,0.0,ambiguous,,
+11621,"Aplikasi ini adalah aplikasi yg dapat mempermudah bagi pengguna untuk melakukan transaksi pembayaran melalui qris, dll, aplikasi ini juga recommend deh untuk kalian yg pengen melalukan transaksi pembayaran non tunai✨👍",aplikasi aplikasi mempermudah pengguna melakukan transaksi pembayaran qris dll aplikasi recommend deh kalian pengen melalukan transaksi pembayaran non tunai,0.0,pengguna:1; transaksi:4; pengen:3; transaksi:4; tunai:3,aplikasi:-4; aplikasi:-4; mempermudah:-3; aplikasi:-4,15.0,-15.0,ambiguous,,
+11626,baguss,baguss,0.0,,,0.0,0.0,likely_positive,bagus,positive pattern in neutral score zero row
+11630,selalu cepat dah pelanannya,cepat dah pelanannya,0.0,cepat:3,dah:-3,3.0,-3.0,likely_positive,cepat,positive pattern in neutral score zero row
+11644,"aplikasinya jempolan keren banget, fiturnya lengkap pula lagi.. bisa bayar segala macam kebutuhan kita jadi ga perlu repot2 lagi keluar rumah... tinggal dri apk ini 👍👍",aplikasi jempolan keren banget fiturnya lengkap bisa bayar kebutuhan kita tidak repot2 keluar rumah tinggal dri aplikasi,0.0,jempolan:4; banget:1; lengkap:2; bayar:1; kebutuhan:4; rumah:3; tinggal:1,aplikasi:-4; tidak:-5; keluar:-3; aplikasi:-4,16.0,-16.0,likely_positive,keren,positive pattern in neutral score zero row
+11663,Mantapp Bank DKI,mantapp bank dki,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+11665,mantul pake jakone mobile....,mantul pakai jakone mobile,0.0,,,0.0,0.0,ambiguous,,
+11671,Sungguh luar biasa aplikasi jakone mobile,sungguh aplikasi jakone mobile,0.0,sungguh:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+11672,keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+11714,Makin kerenn jakone mobilenyàaa 🥰🥰,kerenn jakone mobileny aa,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+11719,JakPoin gunanya untuk apa yaa,jakpoin gunanya yaa,0.0,,,0.0,0.0,ambiguous,,
+11720,"sangat membantu buat yang sering topup & bayar tagihan ini itu, ga lelet dan fiturnya banyak, tank you...",membantu topup bayar tagihan tidak lelet fiturnya tank you,0.0,membantu:4; bayar:1,tidak:-5,5.0,-5.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+11737,"Kereen lah ,tingkatkan LG",kereen tingkatkan lg,0.0,,,0.0,0.0,ambiguous,,
+11755,Luar biasa jsckOne semakin komplit aja fiturnya,jsckone komplit fiturnya,0.0,,,0.0,0.0,ambiguous,,
+11766,sangat membantu dam memudahan dlm segala hal.. semoga bnyk diskon untuk pembelian pulsa atau token,membantu dam memudahan dlm semoga bnyk diskon pembelian pulsa token,0.0,membantu:4; diskon:2,dam:-3; pulsa:-3,6.0,-6.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+11777,Aman,aman,0.0,,,0.0,0.0,ambiguous,,
+11782,"tampilannya ga ribet, jadi mudahh dipahami sama pengguna baru 🫶🏻",tampilannya tidak ribet mudahh dipahami pengguna,0.0,ribet:4; pengguna:1,tidak:-5,5.0,-5.0,likely_negative,ribet,negative pattern in neutral score zero row
+11788,Kereeenn,kereeenn,0.0,,,0.0,0.0,ambiguous,,
+11807,One of the best app around. Easy to use. Sukses terus JakOne team!,one of the best aplikasi around easy to use sukses jakone team,0.0,sukses:3; team:1,aplikasi:-4,4.0,-4.0,ambiguous,,
+11830,Jakone mobile cukup baik,jakone mobile,0.0,,,0.0,0.0,ambiguous,,
+11833,ada banyak benefit gratis untuk aplikasi ini mendapatkan reward 600 ribu saat mendaftar,benefit gratis aplikasi mendapatkan reward 600 ribu mendaftar,0.0,gratis:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+11840,Fitur untuk Download e_Statment diadakan lagi Min. Tks,fitur download e statment diadakan min tks,0.0,,,0.0,0.0,ambiguous,,
+11862,"Update versi baru,,kirain lebih worth it,, eh ternyata susah bnget kebuka aplikasi nya,, cma loading aja, sekali nya kebuka jga harus bener² jaringan stabil dan di luar jam² gk sibuk layanan,,, perbaiki layanan servernya dong",update versi kirain lebih worth it eh ternyata susah bnget kebuka aplikasi nya cma loading nya kebuka jga bener jaringan stabil jam tidak sibuk layanan perbaiki layanan servernya,0.0,lebih:1; bener:3; jaringan:3; stabil:3; layanan:3; layanan:3,susah:-3; aplikasi:-4; tidak:-5; sibuk:-4,16.0,-16.0,ambiguous,,
+11874,Mantapp,mantapp,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+11895,Mantaabbb,mantaabbb,0.0,,,0.0,0.0,ambiguous,,
+11899,Kemana fitur bi fast nya?,kemana fitur bi fast nya,0.0,,,0.0,0.0,ambiguous,,
+11915,Bank DKI udah baik banyak fitur2 yg ada,bank dki udah fitur2,0.0,,,0.0,0.0,ambiguous,,
+11947,"Ada banyak benetif gratis untuk aplikasi ini, mendapatkan reward Rp 600rb saat mendaftar.Jakone Mobile",benetif gratis aplikasi mendapatkan reward rp 600rb mendaftar jakone mobile,0.0,gratis:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+11960,Aplikasi terbaru tapi malah mempersulit!! Selalu mnta upgrade terus²an!!,aplikasi terbaru mempersulit mnta upgrade an,0.0,terbaru:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+11968,lemoot sama gangguan trus,lemoot gangguan,0.0,,,0.0,0.0,ambiguous,,
+11975,Mntaappppp,mntaappppp,0.0,,,0.0,0.0,ambiguous,,
+11983,terbelokir,terbelokir,0.0,,,0.0,0.0,ambiguous,,
+11993,"aplikasi ini sering banget ngalamin gangguan. apalagi pas momen lebaran ini. telpon CSnya, malah dijawab : nomor yang Anda tuju tidak terdaftar, W. O. W BANGETTTTTTTTTTTTT. kalau tidak ada perbaikan layanan, nasabah pasti akan selalu memindahkan dananya ke bank lain.",aplikasi banget ngalamin gangguan apalagi pas momen lebaran telpon csnya dijawab nomor tuju tidak terdaftar w o w bangettttttttttttt tidak perbaikan layanan nasabah pasti memindahkan dananya bank,0.0,banget:1; pas:3; tuju:3; layanan:3; nasabah:4; pasti:3; memindahkan:1,aplikasi:-4; tidak:-5; terdaftar:-1; tidak:-5; perbaikan:-3,18.0,-18.0,ambiguous,,
+12017,"Kadang kadang gak bisa ke buka aplikasi'y, selalu ada tulisan update",kadang kadang tidak bisa buka aplikasi y tulisan update,0.0,kadang:3; kadang:3; buka:3,tidak:-5; aplikasi:-4,9.0,-9.0,ambiguous,,
+12026,Aplikasi keren dan sangat membantu,aplikasi keren membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu; keren,positive pattern in neutral score zero row
+12038,mantaaflah,mantaaflah,0.0,,,0.0,0.0,ambiguous,,
+12046,Sangat bagussss,bagussss,0.0,,,0.0,0.0,likely_positive,bagus,positive pattern in neutral score zero row
+12063,ini kenapa saya gabisa login ya padahal sudah pengajuan untuk membuat mbangking,kenapa tidak bisa login ya padahal pengajuan membuat mbangking,0.0,ya:4; membuat:1,tidak:-5,5.0,-5.0,likely_negative,tidak bisa login,negative pattern in neutral score zero row
+12076,"untuk programmer nya tolong di perbaiki segera,karna sampai saat ini skrg tdk bisa untuk transfer e wallet ataupun menarik uang secara offline di ATM nya...parah bngt programmer nya untuk program nya lama bngt untuk memperbarui perangkat nya",programmer nya tolong perbaiki segera skrg tidak bisa transfer e wallet ataupun menarik uang secara offline atm nya parah bngt programmer nya program nya bngt memperbarui perangkat nya,0.0,tolong:3; segera:3; menarik:4,tidak:-5; parah:-5,10.0,-10.0,likely_negative,parah,negative pattern in neutral score zero row
+12078,Minta updte terus...males mending versi yg lama,minta updte males mending versi,0.0,minta:2; mending:2,males:-4,4.0,-4.0,ambiguous,,
+12119,Keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+12129,mantappppp,mantappppp,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+12148,Mantaps,mantaps,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+12152,"eror sdh 3 hari tidak bisa transfer ke bank Laen, top up ke dana, gopay , bayar Qris dll",error 3 hari tidak bisa transfer bank laen top up dana gopay bayar qris dll,0.0,top:5; dana:4; bayar:1,error:-5; tidak:-5,10.0,-10.0,likely_negative,error; eror,negative pattern in neutral score zero row
+12177,"Aplikasi yg sangat menarik karena fiturnya lengkap, dan tidak ribet cara menggunakannya. Sangat ringan pula aplikasinya jdi tak membebani hp.. recomended bgt dech...",aplikasi menarik fiturnya lengkap tidak ribet menggunakannya ringan aplikasi jdi tak membebani hp recomended banget dech,0.0,menarik:4; lengkap:2; ribet:4; ringan:2; banget:1,aplikasi:-4; tidak:-5; aplikasi:-4,13.0,-13.0,likely_negative,ribet,negative pattern in neutral score zero row
+12187,Aplikasinya sering loading lama setiap kali buka dan bahkan suka error. Bikin naik darah yg ada. Saran saya jangan menggunakan dan menabung di bank ini deh klo sistemnya gak diperbaiki.,aplikasi loading setiap buka bahkan suka error bikin naik darah saran jangan menggunakan menabung bank deh klo sistemnya tidak diperbaiki,0.0,buka:3; suka:3; naik:1; darah:4; saran:2; menabung:4,aplikasi:-4; error:-5; jangan:-3; tidak:-5,17.0,-17.0,likely_negative,error,negative pattern in neutral score zero row
+12217,"Aplikasi nya sangat bagus, Pitur lengkap",aplikasi nya bagus pitur lengkap,0.0,bagus:2; lengkap:2,aplikasi:-4,4.0,-4.0,likely_positive,bagus,positive pattern in neutral score zero row
+12227,Update selalu,update,0.0,,,0.0,0.0,ambiguous,,
+12234,Aplikasi yang gampang dengan pendaftaranya,aplikasi gampang pendaftaranya,0.0,gampang:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+12242,Masih blm bisa login,belum bisa login,0.0,,,0.0,0.0,ambiguous,,
+12247,Mempermudah transaksi trus ga ribet sama sekali,mempermudah transaksi tidak ribet,0.0,transaksi:4; ribet:4,mempermudah:-3; tidak:-5,8.0,-8.0,likely_negative,ribet,negative pattern in neutral score zero row
+12271,Aplikasi yang memudahkan aku untuk melakukan pembayaran dan juga memberikan fitur untuk mengetahui lokasi ATM terdekat dan lokasi merchant👍,aplikasi memudahkan melakukan pembayaran memberikan fitur mengetahui lokasi atm terdekat lokasi merchant,0.0,memudahkan:3; terdekat:1,aplikasi:-4,4.0,-4.0,likely_positive,memudahkan,positive pattern in neutral score zero row
+12272,Ada banyak benefit gratis untuk aplikasi ini. Mendapatkan Reward Rp 600 ribu saat mendaftar,benefit gratis aplikasi mendapatkan reward rp 600 ribu mendaftar,0.0,gratis:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+12283,Keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+12296,bapuk kgk bisa buka akun,bapuk kgk bisa buka akun,0.0,buka:3,kgk:-3,3.0,-3.0,ambiguous,,
+12300,Makin maju kedepan lagi,maju kedepan,0.0,,,0.0,0.0,ambiguous,,
+12302,Setelah ganti device malah loading terus g bisa kebuka ...lemot bgt,setelah ganti device loading tidak bisa kebuka lambat banget,0.0,ganti:3; lambat:1; banget:1,tidak:-5,5.0,-5.0,likely_negative,lemot; lambat,negative pattern in neutral score zero row
+12366,SERVERNYA TERLALU LELET SAAT DIGUNAKAN,servernya lelet digunakan,0.0,,,0.0,0.0,ambiguous,,
+12376,Sangat baguss,baguss,0.0,,,0.0,0.0,likely_positive,bagus,positive pattern in neutral score zero row
+12382,"aplikasi aneh,tiba "" tidak bisa login mbanking namun setelah di coba LG, password terblokir... tolong lah perbaiki, lalu bagaimana ini",aplikasi aneh tiba tidak bisa login mbanking setelah coba lg password terblokir tolong perbaiki,0.0,aneh:4; coba:2; tolong:3,aplikasi:-4; tidak:-5,9.0,-9.0,likely_negative,tidak bisa login,negative pattern in neutral score zero row
+12394,M bankingnya pliss bank dki segera diperbaiki.. soalnya jdi sulit transaksi.. hrus pakai wifi dlu bru bisa.. ga bisa pake paketan. Klo lagi urgen bikin emosi..,m bankingnya pliss bank dki segera diperbaiki soalnya jdi sulit transaksi hrus pakai wifi dlu bru bisa tidak bisa pakai paketan klo urgen bikin emosi,0.0,segera:3; transaksi:4; emosi:3,soalnya:-1; tidak:-5; urgen:-4,10.0,-10.0,ambiguous,,
+12410,Manteppp brooo.. Recomentdet,manteppp brooo recomentdet,0.0,,,0.0,0.0,ambiguous,,
+12411,"berguna banget aplikasi nyaa, dan ga ngelag gituu. fitur fiturnya juga oke semuanyaa, next makinn sukses yaa JakOne Mobile ♥️",berguna banget aplikasi nyaa tidak ngelag gituu fitur fiturnya oke semuanyaa next makinn sukses yaa jakone mobile,0.0,berguna:5; banget:1; oke:2; sukses:3,aplikasi:-4; tidak:-5; next:-2,11.0,-11.0,likely_positive,berguna,positive pattern in neutral score zero row
+12415,banyak fitur yg di tiadakan,fitur tiadakan,0.0,,,0.0,0.0,ambiguous,,
+12424,Knpa iya kalo TF ke dana duit saya ngak nyampe tapi saldo ATM saya ke ambil tolong urus masalah ini dong,knpa iya transfer dana duit ngak nyampe saldo atm ambil tolong urus masalah,0.0,dana:4; saldo:2; tolong:3,ambil:-5; masalah:-4,9.0,-9.0,ambiguous,,
+12427,"Berbenah dong, sekelas Bank DKI loe bisa ngaco gini",berbenah sekelas bank dki loe bisa ngaco gini,0.0,,,0.0,0.0,ambiguous,,
+12442,mantul,mantul,0.0,,,0.0,0.0,ambiguous,,
+12467,Mantappp,mantappp,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+12474,apalah bermasalah Mulu,apalah bermasalah mulu,0.0,mulu:2,apalah:-2,2.0,-2.0,ambiguous,,
+12490,propsional layanannya,propsional layanannya,0.0,,,0.0,0.0,ambiguous,,
+12551,Knp Jack one mobile yg baru kok malah sering banget error ya...,knp jack one mobile kok banget error ya,0.0,banget:1; ya:4,error:-5,5.0,-5.0,likely_negative,error,negative pattern in neutral score zero row
+12554,Mau gangguan sampe kapan nih?,gangguan sampe kapan nih,0.0,,,0.0,0.0,ambiguous,,
+12572,keren,keren,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+12585,Mobile banking terpayah si ini,mobile banking terpayah si,0.0,,,0.0,0.0,likely_negative,payah,negative pattern in neutral score zero row
+12593,"kenapa saya sudah mempunyai rekening terdaftar malah disuruh memasukan data diri lagi, tolong kenapa susah sekali untuk mendaftar jakone mobile?",kenapa mempunyai rekening terdaftar disuruh memasukan data tolong kenapa susah mendaftar jakone mobile,0.0,mempunyai:4; terdaftar:1; tolong:3,disuruh:-2; data:-3; susah:-3,8.0,-8.0,ambiguous,,
+12595,"tolong perbaiki masa G""bisa buat trnsfer bank lain bisa'a sesama DKI prcuma ada'a jakon mobile kalau kaya gini mah",tolong perbaiki masa tidak bisa trnsfer bank bisa a sesama dki prcuma a jakon mobile kaya gini mah,0.0,tolong:3; kaya:2,tidak:-5,5.0,-5.0,ambiguous,,
+12616,Aplikasi nya sangat bagus dan fitur fitur nya juga sangat lengkap 🥰,aplikasi nya bagus fitur fitur nya lengkap,0.0,bagus:2; lengkap:2,aplikasi:-4,4.0,-4.0,likely_positive,bagus,positive pattern in neutral score zero row
+12630,Udah saya uninstal saya download lagi ttp aja muter² terus min,udah uninstal download ttp muter min,0.0,,,0.0,0.0,ambiguous,,
+12671,aplikasi maksud masa saya top up dana cuma 1 kali dimutasi malah jadi 2 kali sih apk sampah gajelas ngerugiin banyak orang,aplikasi maksud masa top up dana 1 dimutasi 2 sih aplikasi sampah gajelas ngerugiin orang,0.0,maksud:3; top:5; dana:4,aplikasi:-4; aplikasi:-4; sampah:-4,12.0,-12.0,ambiguous,,
+12679,aplikasi mudah di gunakan,aplikasi mudah gunakan,0.0,mudah:4,aplikasi:-4,4.0,-4.0,likely_positive,aplikasi mudah,positive pattern in neutral score zero row
+12684,"Apk sangat membantu,,ada qris nya jga.",aplikasi membantu qris nya jga,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+12697,gue gbsa verifikasi wajah dari tadi bgsd,gue gbsa verifikasi wajah bgsd,0.0,,,0.0,0.0,ambiguous,,
+12698,Tingkatkan,tingkatkan,0.0,,,0.0,0.0,ambiguous,,
+12728,"Saya baru mencoba aplikasi ini, fiturnya pembayaran nya kumplit, mudah.",mencoba aplikasi fiturnya pembayaran nya kumplit mudah,0.0,mudah:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+12738,Sudah Update,update,0.0,,,0.0,0.0,ambiguous,,
+12745,Saya sudah pembelian kartu debit ko kartu nya belum sampai ke rumahku,pembelian kartu debit ko kartu nya belum rumahku,0.0,,,0.0,0.0,ambiguous,,
+12754,Fitur tarik tunai tanpa kartu kenapa ga ada lagi? Apa ada cara baru?,fitur tarik tunai kartu kenapa tidak,0.0,tarik:2; tunai:3,tidak:-5,5.0,-5.0,ambiguous,,
+12761,Okok,okok,0.0,,,0.0,0.0,ambiguous,,
+12766,mbuh priwen,mbuh priwen,0.0,,,0.0,0.0,ambiguous,,
+12767,Nice app.,nice aplikasi,0.0,nice:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+12796,Sllu loading,sllu loading,0.0,,,0.0,0.0,ambiguous,,
+12816,"Susah login,keterangan periksa jaringan anda 😭.... Padagal jaringan bagus bagua aja",susah login keterangan periksa jaringan padagal jaringan bagus bagua,0.0,jaringan:3; jaringan:3; bagus:2,susah:-3; periksa:-5,8.0,-8.0,likely_positive,bagus,positive pattern in neutral score zero row
+12820,knp setiap foto KTP gak bisa mulu,knp setiap foto ktp tidak bisa mulu,0.0,foto:3; mulu:2,tidak:-5,5.0,-5.0,ambiguous,,
+12857,Loading nya lamaaa perbaiki lagi lah servernya,loading nya lamaaa perbaiki servernya,0.0,,,0.0,0.0,ambiguous,,
+12860,Mantab,mantab,0.0,,,0.0,0.0,ambiguous,,
+12871,"Mau isi dana 100rb gara² eror jd 200rb, gimana nih dki mobile, tolong di perbaiki erornya",isi dana 100rb gara error 200rb gimana nih dki mobile tolong perbaiki erornya,0.0,isi:2; dana:4; tolong:3,gara:-4; error:-5,9.0,-9.0,likely_negative,error; eror,negative pattern in neutral score zero row
+12887,"Haduh perbaikan malah berlarut2 ga bisa transfer antar bank nungguin udah berapa jam ampun,buruk2.",haduh perbaikan berlarut2 tidak bisa transfer antar bank nungguin udah jam ampun buruk2,0.0,perbaikan:3; nungguin:1; ampun:1,tidak:-5,5.0,-5.0,likely_negative,buruk,negative pattern in neutral score zero row
+12890,Sangat mendukung,mendukung,0.0,,,0.0,0.0,ambiguous,,
+12896,Lemot bgt cuma utk cek saldo jackcardnya,lambat banget cek saldo jackcardnya,0.0,lambat:1; banget:1; saldo:2,cek:-4,4.0,-4.0,likely_negative,lemot; lambat,negative pattern in neutral score zero row
+12908,Bagoos,bagoos,0.0,,,0.0,0.0,ambiguous,,
+12917,Saya mau download gimana caranya?,download gimana caranya,0.0,,,0.0,0.0,ambiguous,,
+12930,"dua kali tarik tunai,saldo kepotong uang ga keluar, udh itu via jakone transfer hanya sesama DKI,dompet Digital pun ga ada.... payah....payah ..",tarik tunai saldo kepotong uang tidak keluar via jakone transfer sesama dki dompet digital tidak payah payah,0.0,tarik:2; tunai:3; saldo:2; keluar:3,tidak:-5; tidak:-5,10.0,-10.0,likely_negative,payah,negative pattern in neutral score zero row
+12945,Aplikasi mudah di gunakan,aplikasi mudah gunakan,0.0,mudah:4,aplikasi:-4,4.0,-4.0,likely_positive,aplikasi mudah,positive pattern in neutral score zero row
+12978,Burik,burik,0.0,,,0.0,0.0,ambiguous,,
+12980,"Aplikasi yang sangat membantu,dan sangat baik",aplikasi membantu,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+12990,kenapa kaga bisa transfer ke bank lainnya????,kenapa kaga bisa transfer bank lainnya,0.0,,,0.0,0.0,ambiguous,,
+13008,Jakone apk yang mudah digital pokoknya mantap abis dah,jakone aplikasi mudah digital pokoknya mantap abis dah,0.0,mudah:4; mantap:5; abis:1,aplikasi:-4; pokoknya:-3; dah:-3,10.0,-10.0,likely_positive,aplikasi mudah; mantap,positive pattern in neutral score zero row
+13014,Sudah Bisa,bisa,0.0,,,0.0,0.0,ambiguous,,
+13021,"Bangga pake apps JakOne. Keren, cepat dan anti ribet.",bangga pakai apps jakone keren cepat anti ribet,0.0,bangga:3; cepat:3,anti:-2; ribet:-4,6.0,-6.0,ambiguous,keren; cepat; ribet,
+13049,Kalau complain lama prosesnya,complain prosesnya,0.0,,,0.0,0.0,ambiguous,,
+13051,Paling seneng sama aplikasi ini.fiturnya memudahkan dalam pembayaran.masuk akun dengan masukin password setiap mau transaksi guna keamanan buat transaksinya.makin cakep deh.jadinya gak perlu was was barangkali hp ilang jadi aman.,seneng aplikasi fiturnya memudahkan pembayaran masuk akun masukin password setiap transaksi keamanan transaksinya cakep deh jadinya tidak was was barangkali hp ilang aman,0.0,seneng:5; memudahkan:3; transaksi:4; cakep:5,aplikasi:-4; masuk:-3; tidak:-5; ilang:-5,17.0,-17.0,likely_positive,memudahkan,positive pattern in neutral score zero row
+13079,Manatap,manatap,0.0,,,0.0,0.0,ambiguous,,
+13089,Daftar Jakeone mobil sangat praktis walaupun harus ada pulsa untuk otp masuk lewat SMS,daftar jakeone mobil praktis walaupun pulsa otp masuk sms,0.0,daftar:1; mobil:1; praktis:4,pulsa:-3; masuk:-3,6.0,-6.0,likely_positive,praktis,positive pattern in neutral score zero row
+13097,"Cara login nya gimana yah, User ID ..? Dari NIK / No.hp",login nya gimana yah user id nik no hp,0.0,,,0.0,0.0,ambiguous,,
+13103,Mempermudah dlm bertransaksi,mempermudah dlm bertransaksi,0.0,bertransaksi:3,mempermudah:-3,3.0,-3.0,ambiguous,,
+13104,Mantapss,mantapss,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+13139,baru coba semoga bagus aplikasinya☺,coba semoga bagus aplikasi,0.0,coba:2; bagus:2,aplikasi:-4,4.0,-4.0,likely_positive,bagus,positive pattern in neutral score zero row
+13156,jdi mudh mau trnfr apa mau bli token trmksh jakone 🙏🏻🙏🏻😊😊,jdi mudh trnfr bli token trmksh jakone,0.0,,,0.0,0.0,ambiguous,,
+13167,"knp ya mau scan KTP susahh bnget , gagal trus",knp ya scan ktp susahh bnget gagal,0.0,ya:4,gagal:-4,4.0,-4.0,ambiguous,,
+13185,"Terjadi kesalahan dalam membuat password secara terus menerus padahal internet lancar, payah👎",kesalahan membuat password secara menerus padahal internet lancar payah,0.0,membuat:1; lancar:4,kesalahan:-5,5.0,-5.0,ambiguous,lancar; payah,
+13188,Apk yg mudah di gunakan...,aplikasi mudah gunakan,0.0,mudah:4,aplikasi:-4,4.0,-4.0,likely_positive,aplikasi mudah,positive pattern in neutral score zero row
+13191,gacor,gacor,0.0,,,0.0,0.0,ambiguous,,
+13208,Baru mau nyoba,nyoba,0.0,,,0.0,0.0,ambiguous,,
+13215,mantul,mantul,0.0,,,0.0,0.0,ambiguous,,
+13221,jadi ormas aja.,ormas,0.0,,,0.0,0.0,ambiguous,,
+13245,transfer selalu membagongkan,transfer membagongkan,0.0,,,0.0,0.0,ambiguous,,
+13251,semoga pelayanannya semakin baik,semoga pelayanannya,0.0,,,0.0,0.0,ambiguous,,
+13252,Mantabs,mantabs,0.0,,,0.0,0.0,ambiguous,,
+13271,"Aplikasi belakangan ini lelet banget ,padahal jaringan bagus ,aplikasi lain dibuka lancar ,ntah kenapa nih aplikasi jakone lemot banget",aplikasi belakangan lelet banget padahal jaringan bagus aplikasi dibuka lancar ntah kenapa nih aplikasi jakone lambat banget,0.0,banget:1; jaringan:3; bagus:2; lancar:4; lambat:1; banget:1,aplikasi:-4; aplikasi:-4; aplikasi:-4,12.0,-12.0,ambiguous,lancar; bagus; lemot; lambat,
+13272,Aplikasi mudah dan aman,aplikasi mudah aman,0.0,mudah:4,aplikasi:-4,4.0,-4.0,likely_positive,aplikasi mudah,positive pattern in neutral score zero row
+13291,"Aplikasinya sangat bagus dan serbaguna semua bisa dilakukan di aplikasi ini memudahkan segala transaksi , beli pulsa, bayar tagihan pln, deposit online semua bisa dilakukan dalam satu aplikasi bagus banget sangat rekomended🤗❤️",aplikasi bagus serbaguna bisa dilakukan aplikasi memudahkan transaksi beli pulsa bayar tagihan pln deposit online bisa dilakukan aplikasi bagus banget rekomended,0.0,bagus:2; memudahkan:3; transaksi:4; beli:2; bayar:1; bagus:2; banget:1,aplikasi:-4; aplikasi:-4; pulsa:-3; aplikasi:-4,15.0,-15.0,likely_positive,bagus; memudahkan,positive pattern in neutral score zero row
+13295,mantep,mantep,0.0,,,0.0,0.0,ambiguous,,
+13303,Aku menggunakan aplikasi ini sangat baik dan sangat membantu aku dalam perjalanan,menggunakan aplikasi membantu perjalanan,0.0,membantu:4,aplikasi:-4,4.0,-4.0,likely_positive,sangat membantu,positive pattern in neutral score zero row
+13306,Makin mantab,mantab,0.0,,,0.0,0.0,ambiguous,,
+13313,Lemooootttt,lemooootttt,0.0,,,0.0,0.0,ambiguous,,
+13317,Rating 5 deh. Aplikasi yang is the best. Transaksi apapun bisa dilakukan disini.,rating 5 deh aplikasi is the best transaksi apapun bisa dilakukan disini,0.0,transaksi:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+13332,Kenapa gabisa ke wajah ya gagal Mulu dari tadi padahal udah sesuai perintah,kenapa tidak bisa wajah ya gagal mulu padahal udah sesuai perintah,0.0,ya:4; mulu:2; sesuai:3,tidak:-5; gagal:-4,9.0,-9.0,ambiguous,,
+13333,"Min, kok skrg tarik tunai tanpa kartu gk bisa di ATM bank DKI?",min kok skrg tarik tunai kartu tidak bisa atm bank dki,0.0,tarik:2; tunai:3,tidak:-5,5.0,-5.0,ambiguous,,
+13334,Abis diupdate kenapa jd susah buat login? Jd lemot banget,abis diupdate kenapa susah login lambat banget,0.0,abis:1; lambat:1; banget:1,susah:-3,3.0,-3.0,likely_negative,lemot; lambat,negative pattern in neutral score zero row
+13339,Untuk update sulit,update sulit,0.0,,,0.0,0.0,ambiguous,,
+13350,"Teruslah berkreasi, Jadilah Bank yg mumpuni",teruslah berkreasi jadilah bank mumpuni,0.0,,,0.0,0.0,ambiguous,,
+13362,kaga mau login login woe ini kenapa yaaa,kaga login login woe kenapa yaaa,0.0,,,0.0,0.0,ambiguous,,
+13385,"Saya suka dengan app ini Aplikasi mudah di gunakan, Tampilan baru keren",suka aplikasi aplikasi mudah gunakan tampilan keren,0.0,suka:3; mudah:4; tampilan:1,aplikasi:-4; aplikasi:-4,8.0,-8.0,likely_positive,aplikasi mudah; keren,positive pattern in neutral score zero row
+13405,"keren, user friendly",keren user friendly,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+13408,Bank DKI mohon solusinya setelah diupdate mengapa tidak bisa,bank dki mohon solusinya setelah diupdate mengapa tidak bisa,0.0,mohon:2; solusinya:3,tidak:-5,5.0,-5.0,ambiguous,,
+13424,Mantappp brooo,mantappp brooo,0.0,,,0.0,0.0,likely_positive,mantap,positive pattern in neutral score zero row
+13435,"saya mau daftarin KJP anak saya ternyata harus buka rekening reguler,sedang di tutor bisa lsg pilih e-wallet saja, bingung saya,maaf blm bisa ⭐5",daftarin kjp anak ternyata buka rekening reguler tutor bisa lsg pilih e wallet bingung maaf belum bisa 5,0.0,buka:3; maaf:2,anak:-3; pilih:-2,5.0,-5.0,ambiguous,,
+13452,"Aplikasi sangat bagus, mempermudah banget untuk di operasikan semua ada transaksi",aplikasi bagus mempermudah banget operasikan transaksi,0.0,bagus:2; banget:1; transaksi:4,aplikasi:-4; mempermudah:-3,7.0,-7.0,likely_positive,bagus,positive pattern in neutral score zero row
+13462,Full fitur the best,full fitur the best,0.0,,,0.0,0.0,ambiguous,,
+13490,Bisa atur mau nabung berapa lama sama avail dipake buat transaksi pulsa tanpa error,bisa atur nabung avail dipake transaksi pulsa error,0.0,atur:4; transaksi:4,pulsa:-3; error:-5,8.0,-8.0,likely_negative,error,negative pattern in neutral score zero row
+13491,"Terima kasih JakOne Mobile, sekarang saya bisa pakai aplikasi bank digital yang mudah dipahami dan digunakan. Dan mudah untuk Deposit dan pembayaran Pjn sangat Mudh Dan banyk Metode Pembayaran nya terimakasih banyak atas Developer Apk nya",terima kasih jakone mobile bisa pakai aplikasi bank digital mudah dipahami digunakan mudah deposit pembayaran pjn mudh banyk metode pembayaran nya terimakasih atas developer aplikasi nya,0.0,terima:2; kasih:2; mudah:4; mudah:4; terimakasih:5,aplikasi:-4; metode:-5; atas:-4; aplikasi:-4,17.0,-17.0,ambiguous,,
+13505,Baru kali ini gabisa bisa internet gada koneksi mulu!! Pdhal internet stabil,tidak bisa bisa internet gada koneksi mulu pdhal internet stabil,0.0,koneksi:2; mulu:2; stabil:3,tidak:-5; pdhal:-2,7.0,-7.0,ambiguous,,
+13511,"Dari awal download belum bisa log in,,,udah pake wifi msh aja loading trus",download belum bisa log in udah pakai wifi msh loading,0.0,,,0.0,0.0,ambiguous,,
+13512,"Transaksi gagal tapi saldo kepotong, sedangkan di bank tujuan transfer ga masuk saldonya, ini gimana si sekelas bank daerah mbanking nya begini.",transaksi gagal saldo kepotong sedangkan bank tujuan transfer tidak masuk saldonya gimana si sekelas bank daerah mbanking nya,0.0,transaksi:4; saldo:2; masuk:3,gagal:-4; tidak:-5,9.0,-9.0,likely_negative,transaksi gagal,negative pattern in neutral score zero row
+13516,"ini tombol login nya mana, udah milih punya rekening tabungan malah disuruh milih tabungan bukan masukin no rek",tombol login nya udah milih punya rekening tabungan disuruh milih tabungan bukan masukin no rek,0.0,punya:3; tabungan:3; tabungan:3,milih:-2; disuruh:-2; milih:-2; bukan:-3,9.0,-9.0,ambiguous,,
+13531,"Fitur-fitur di jakone mobile ini sangat lengkap, bisa bayar PLN, pulsa, internet dll",fitur fitur jakone mobile lengkap bisa bayar pln pulsa internet dll,0.0,lengkap:2; bayar:1,pulsa:-3,3.0,-3.0,ambiguous,,
+13539,JakOne semoga semakin maju,jakone semoga maju,0.0,,,0.0,0.0,ambiguous,,
+13562,Mempermudah untuk bertransaksi,mempermudah bertransaksi,0.0,bertransaksi:3,mempermudah:-3,3.0,-3.0,ambiguous,,
+13583,"Ada banyak benetif gratis untuk aplikasi ini, mendapatkan reward Rp600rb saat mendaftar.Jakone Mobile",benetif gratis aplikasi mendapatkan reward rp600rb mendaftar jakone mobile,0.0,gratis:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+13607,"Aplikasinya sangat bagus, fitur didalamnya juga sangat lengkap",aplikasi bagus fitur didalamnya lengkap,0.0,bagus:2; lengkap:2,aplikasi:-4,4.0,-4.0,likely_positive,bagus,positive pattern in neutral score zero row
+13616,TOLONG INI GIMANA CARA NYA JIKA ADA BACAAN DATA SUDAH TERDAFTAR PADAHAL BELUM PERNAH DAFTAR,tolong gimana nya bacaan data terdaftar padahal belum daftar,0.0,tolong:3; terdaftar:1,data:-3; daftar:-1,4.0,-4.0,ambiguous,,
+13619,maintanace terlama..,maintanace terlama,0.0,,,0.0,0.0,ambiguous,,
+13625,"Ada banyak benefit gratis untuk aplikasi ini,mendapatkan reward Rp600rb saat mendaptar",benefit gratis aplikasi mendapatkan reward rp600rb mendaptar,0.0,gratis:4,aplikasi:-4,4.0,-4.0,ambiguous,,
+13644,Jakone Mobile aplikasi mudah dan terpercaya,jakone mobile aplikasi mudah terpercaya,0.0,mudah:4,aplikasi:-4,4.0,-4.0,likely_positive,aplikasi mudah,positive pattern in neutral score zero row
+13646,Mantab dan terpercaya.,mantab terpercaya,0.0,,,0.0,0.0,ambiguous,,
+13650,mantab,mantab,0.0,,,0.0,0.0,ambiguous,,
+13659,"aplikasi yang lumayan baguss menurutku fiturnya lengkap dan gampang banget kalo mau pake, kalo mau transaksi juga no ribet, aplikasinya aman 👍🏻",aplikasi lumayan baguss menurutku fiturnya lengkap gampang banget pakai transaksi no ribet aplikasi aman,0.0,lumayan:1; lengkap:2; gampang:4; banget:1; transaksi:4,aplikasi:-4; ribet:-4; aplikasi:-4,12.0,-12.0,ambiguous,bagus; ribet,
+13666,Faster,faster,0.0,,,0.0,0.0,ambiguous,,
+13696,Aplikasi nya gampang dipakai,aplikasi nya gampang dipakai,0.0,gampang:4,aplikasi:-4,4.0,-4.0,likely_positive,gampang dipakai,positive pattern in neutral score zero row
+13699,"Cacat, saya sudah punya atm dki tapi pas coba ditautkan ke jakone malah diarahkan ke pembuatan rek baru.. Di aplikasi ga ada piliham tambahkan rekening..adanya tambah rekening baru...wkwkwk gjlas",cacat punya atm dki pas coba ditautkan jakone diarahkan pembuatan rek aplikasi tidak piliham tambahkan rekening tambah rekening wkwkwk gjlas,0.0,punya:3; pas:3; coba:2; tambah:3; wkwkwk:3,cacat:-5; aplikasi:-4; tidak:-5,14.0,-14.0,ambiguous,,
+13727,Apk yang bagus dan sangat bermanfaat. Semoga bisa berkembang jauh lebih baik lagi kedepannya.,aplikasi bagus bermanfaat semoga bisa berkembang jauh lebih kedepannya,0.0,bagus:2; bermanfaat:5; lebih:1,aplikasi:-4; jauh:-4,8.0,-8.0,likely_positive,bagus,positive pattern in neutral score zero row
+13735,ini mau sampai kapan ky gini ..woooyyyy... yah salammmmm...,kapan ky gini woooyyyy yah salammmmm,0.0,,,0.0,0.0,ambiguous,,
+13747,Mayan,mayan,0.0,,,0.0,0.0,ambiguous,,
+13786,"Sistemnya sering eror, jaringan udh paling bagus padahal",sistemnya error jaringan bagus padahal,0.0,jaringan:3; bagus:2,error:-5,5.0,-5.0,ambiguous,bagus; error; eror,
+13797,"sulit buat qris, dan lemot terus asal buka aplikasi",sulit qris lambat asal buka aplikasi,0.0,lambat:1; buka:3,aplikasi:-4,4.0,-4.0,likely_negative,lemot; lambat,negative pattern in neutral score zero row
+13812,kenapa! Bank DKI saya tidak bisa tersasfr ke rekening dan ke ewalet dan beli pulsa ini saldo bank DKI saya ada 795rb tolong di perbaiki ini bank aduh uang saya,kenapa bank dki tidak bisa tersasfr rekening ewalet beli pulsa saldo bank dki 795rb tolong perbaiki bank aduh uang,0.0,beli:2; saldo:2; tolong:3; aduh:1,tidak:-5; pulsa:-3,8.0,-8.0,ambiguous,,
+13839,keren banget JakOne Mobile aplikasi nya bisa buat bayar beberapa tagihan dirumah ku sama bisa buat beli pulsa aplikasi nya mudah digunakan ga terlalu ribet ribet banget bagi kalian yg mau bayar tagihan tagihan kalian mending dowload aplikasi JakOne Mobile aku saranin nih biar kalian gampang mending coba langsung deh aplikasi,keren banget jakone mobile aplikasi nya bisa bayar beberapa tagihan dirumah ku bisa beli pulsa aplikasi nya mudah digunakan tidak ribet ribet banget kalian bayar tagihan tagihan kalian mending dowload aplikasi jakone mobile saranin nih biar kalian gampang mending coba langsung deh aplikasi,0.0,banget:1; bayar:1; beli:2; mudah:4; ribet:4; banget:1; bayar:1; mending:2; biar:1; gampang:4; mending:2; coba:2; langsung:3,aplikasi:-4; pulsa:-3; aplikasi:-4; tidak:-5; ribet:-4; aplikasi:-4; aplikasi:-4,28.0,-28.0,ambiguous,mudah digunakan; keren; ribet,
+13848,Dengan menggunakan aplikasi JakOne Mobile sayang mempermudah saya melakukan transaksi perbankan dimana saja dan kapan saja,menggunakan aplikasi jakone mobile sayang mempermudah melakukan transaksi perbankan dimana kapan,0.0,sayang:3; transaksi:4,aplikasi:-4; mempermudah:-3,7.0,-7.0,ambiguous,,
+13893,Keren ngabssss,keren ngabssss,0.0,,,0.0,0.0,likely_positive,keren,positive pattern in neutral score zero row
+13898,sering offline,offline,0.0,,,0.0,0.0,ambiguous,,
+13913,Oke banget dah,oke banget dah,0.0,oke:2; banget:1,dah:-3,3.0,-3.0,ambiguous,,
+13935,Goood,goood,0.0,,,0.0,0.0,ambiguous,,
+13941,Apk nya sangat keren Bisa scan qris dan fitur² nya sangat mudah,aplikasi nya keren bisa scan qris fitur nya mudah,0.0,mudah:4,aplikasi:-4,4.0,-4.0,likely_positive,keren,positive pattern in neutral score zero row
+13947,kenapa ngak bisa tf ke bank lain,kenapa ngak bisa transfer bank,0.0,,,0.0,0.0,ambiguous,,
+13967,Gimana caranya mengkaitkan rekening kjmu?,gimana caranya mengkaitkan rekening kjmu,0.0,,,0.0,0.0,ambiguous,,
+13976,aplikasiii tolollll gajelas goblokkk,aplikasiii tolollll gajelas goblokkk,0.0,,,0.0,0.0,ambiguous,,
+13989,Kereenn,kereenn,0.0,,,0.0,0.0,ambiguous,,
+14004,Makin payah,payah,0.0,,,0.0,0.0,likely_negative,payah,negative pattern in neutral score zero row
+14005,Apk ini bisa beli vocher yutub premium bisa juga Trx pke QRIS bintang 5,aplikasi bisa beli vocher yutub premium bisa trx pke qris bintang 5,0.0,beli:2; premium:2,aplikasi:-4,4.0,-4.0,ambiguous,,
+14035,"Kacau...... makin sulit buat log in,",kacau sulit log in,0.0,,,0.0,0.0,ambiguous,,
+14054,Siiip,siiip,0.0,,,0.0,0.0,ambiguous,,
+14064,transfer antar bang suka ilang. sekarang mau bayar pake barcode juga kaga bisa. manteb bener... jangan ikut2an kaya tukang oplos bbm lah. ada dana kembangin aplikasi yg maksimal. masa kalah sama bsi... terima kasih mudah2ann ngga ada morupsi di DKI,transfer antar bang suka ilang bayar pakai barcode kaga bisa manteb bener jangan ikut2an kaya tukang oplos bbm dana kembangin aplikasi maksimal masa kalah bsi terima kasih mudah2ann ngga morupsi dki,0.0,suka:3; bayar:1; bener:3; kaya:2; dana:4; maksimal:3; terima:2; kasih:2,ilang:-5; jangan:-3; tukang:-2; aplikasi:-4; kalah:-4; ngga:-2,20.0,-20.0,ambiguous,,
+14073,Sering ngelag,ngelag,0.0,,,0.0,0.0,ambiguous,,
+14075,Ini Baru paten,paten,0.0,,,0.0,0.0,ambiguous,,
+14089,"semakin di update aplikasi nya semakin banyak fitur fitur yang baru,hanya pake satu aplikasi udah bisa melakukan berbagai macam transaksi,semoga terus berinovasi kedepannya👍jaya selalu",update aplikasi nya fitur fitur pakai aplikasi udah bisa melakukan transaksi semoga berinovasi kedepannya jaya,0.0,transaksi:4; jaya:4,aplikasi:-4; aplikasi:-4,8.0,-8.0,ambiguous,,
+14119,"Saat daftar, otp tidak masuk. Padahal sudah tersedia pulsa dan berbagai macam cara dilakukan",daftar otp tidak masuk padahal tersedia pulsa dilakukan,0.0,daftar:1; masuk:3; tersedia:4,tidak:-5; pulsa:-3,8.0,-8.0,likely_negative,otp tidak masuk,negative pattern in neutral score zero row
+14134,JakOne aplikasi terbaik untuk top up pulsa data dan pembayaran 🥰🥰🥰,jakone aplikasi terbaik top up pulsa data pembayaran,0.0,terbaik:5; top:5,aplikasi:-4; pulsa:-3; data:-3,10.0,-10.0,likely_positive,terbaik,positive pattern in neutral score zero row
+14135,Tidak bisa di buka.dan selalu nonggol tulisan terjadi kesalahan ..... Ini gimana ya solusinya...,tidak bisa buka nonggol tulisan kesalahan gimana ya solusinya,0.0,buka:3; ya:4; solusinya:3,tidak:-5; kesalahan:-5,10.0,-10.0,ambiguous,,
+14151,"Sekarang saya topup ke dana udah 24jam belum masuk masuk juga dana tapi saldo di rekening sudah terpotong, saya cek masih diproses terus, tolong dong perbaiki aplikasinya supaya castomer puas memakai jakone, saya telpon CS malah disuruh nunggu 14X24jam klo belum berubah disuruh lapor lagi ke CS nya ga bisa menyelesaikan masalah. Maaf saya kasih bintang 1 dulu trimaksih",topup dana udah 24jam belum masuk masuk dana saldo rekening terpotong cek diproses tolong perbaiki aplikasi castomer puas memakai jakone telpon cs disuruh nunggu 14x24jam klo belum berubah disuruh lapor cs nya tidak bisa menyelesaikan masalah maaf kasih bintang 1 trimaksih,0.0,dana:4; masuk:3; dana:4; saldo:2; diproses:1; tolong:3; puas:3; nunggu:1; lapor:2; maaf:2; kasih:2,masuk:-3; terpotong:-3; cek:-4; aplikasi:-4; disuruh:-2; disuruh:-2; tidak:-5; masalah:-4,27.0,-27.0,likely_positive,puas,positive pattern in neutral score zero row
+14162,Mantul,mantul,0.0,,,0.0,0.0,ambiguous,,

@@ -1,0 +1,23 @@
+﻿term,positive_score,negative_score,document_frequency,occurrence_frequency,label_positif_count,label_negatif_count,label_netral_count,estimated_total_abs_contribution,recommendation
+aplikasi,,-4.0,6002,7525,3666,3457,402,30100.0,kandidat netralisasi
+app,,,0,0,0,0,0,0.0,aman
+mobile,,,1432,1580,1082,407,91,0.0,aman
+bank,,,1968,2458,841,1484,133,0.0,aman
+bjb,,,3,3,0,3,0,0.0,aman
+jakone,,,2151,2396,1619,659,118,0.0,aman
+jak,,,130,148,64,80,4,0.0,aman
+one,,,164,181,77,98,6,0.0,aman
+fitur,,,1196,1434,1123,253,58,0.0,aman
+menu,,,202,228,95,127,6,0.0,aman
+layanan,3.0,,149,173,104,61,8,519.0,kandidat netralisasi
+pengguna,1.0,,188,197,142,48,7,197.0,kandidat netralisasi
+customer,,,32,34,13,21,0,0.0,aman
+transaksi,4.0,,1747,1881,1497,331,53,7524.0,kandidat netralisasi
+saldo,2.0,,459,566,226,321,19,1132.0,kandidat netralisasi
+akun,,,183,199,74,118,7,0.0,aman
+login,,,520,609,112,468,29,0.0,aman
+otp,,,516,607,56,525,26,0.0,aman
+pin,,,37,42,8,32,2,0.0,aman
+sistem,,-4.0,158,176,37,136,3,704.0,kandidat netralisasi
+update,,,526,622,233,342,47,0.0,aman
+versi,,,162,189,78,101,10,0.0,aman

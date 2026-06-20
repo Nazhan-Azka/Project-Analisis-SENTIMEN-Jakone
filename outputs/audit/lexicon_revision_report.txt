@@ -1,0 +1,31 @@
+Laporan Revisi Lexicon InSet + Custom Domain JakOne Mobile
+Judul: Analisis Sentimen pada Aplikasi JakOne Mobile Menggunakan Metode IndoBERT
+
+Ringkasan jumlah kata:
+- Positif sebelum revisi: 3609
+- Positif sesudah cleaning: 3573
+- Positif final sesudah custom, deduplikasi, konflik, normalisasi: 3072
+- Negatif sebelum revisi: 6609
+- Negatif sesudah cleaning: 6560
+- Negatif final sesudah custom, deduplikasi, konflik, normalisasi: 6047
+
+Penghapusan kata:
+- Kata positif yang dihapus: 36
+- Kata negatif yang dihapus: 49
+
+Custom lexicon:
+- Custom positif ditambahkan: 51
+- Custom negatif ditambahkan: 58
+- Total custom ditambahkan: 109
+
+Penyelesaian kata ambigu:
+- Kata ambigu dari daftar audit yang ditemukan di kedua lexicon awal: 29
+- Konflik kata positif-negatif yang diselesaikan saat final merge: 1105
+
+Output:
+- data\lexicon\positive_cleaned.tsv
+- data\lexicon\negative_cleaned.tsv
+- data\lexicon\custom_positive.tsv
+- data\lexicon\custom_negative.tsv
+- data\lexicon\lexicon_final_positive.tsv
+- data\lexicon\lexicon_final_negative.tsv

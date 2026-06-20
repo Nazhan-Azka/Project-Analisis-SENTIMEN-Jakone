@@ -1,0 +1,7 @@
+﻿actual_label,predicted_label,count
+negatif,positif,35
+positif,negatif,30
+netral,negatif,26
+positif,netral,24
+netral,positif,18
+negatif,netral,16

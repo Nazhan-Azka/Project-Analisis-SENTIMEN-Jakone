@@ -1,0 +1,10 @@
+﻿split_set,label,count,percentage
+train,positif,5980,52.75
+train,negatif,4446,39.22
+train,netral,911,8.04
+validation,positif,747,52.72
+validation,negatif,556,39.24
+validation,netral,114,8.05
+test,positif,748,52.75
+test,negatif,556,39.21
+test,netral,114,8.04

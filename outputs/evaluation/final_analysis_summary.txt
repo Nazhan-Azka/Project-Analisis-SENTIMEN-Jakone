@@ -1,0 +1,49 @@
+Ringkasan Analisis Tahap 9 - Visualisasi dan Analisis Hasil
+====================================================================
+
+Jumlah total data: 14172
+
+Distribusi label sentimen:
+- positif: 7475
+- negatif: 5558
+- netral: 1139
+
+Distribusi train/validation/test:
+- train: 11337
+- validation: 1417
+- test: 1418
+
+Ringkasan hasil training:
+- Epoch terbaik: 5
+- Validation F1 macro terbaik: 0.848772
+- Train loss terakhir: 0.122477
+- Validation loss terakhir: 0.735190
+
+Ringkasan hasil test:
+- Accuracy: 0.894922
+- Macro F1: 0.819212
+- negatif: precision=0.900178, recall=0.908273, f1-score=0.904208
+- netral: precision=0.636364, recall=0.614035, f1-score=0.625000
+- positif: precision=0.929050, recall=0.927807, f1-score=0.928428
+
+Interpretasi confusion matrix:
+- Kelas yang paling baik dikenali berdasarkan F1-score: positif
+- Kelas yang paling lemah berdasarkan F1-score: netral
+- Kesalahan terbanyak: actual negatif diprediksi positif sebanyak 35 data
+
+Ringkasan analisis salah prediksi:
+- Total prediksi test: 1418
+- Prediksi benar: 1269
+- Prediksi salah: 149
+- negatif -> positif: 35 data
+- positif -> negatif: 30 data
+- netral -> negatif: 26 data
+- positif -> netral: 24 data
+- netral -> positif: 18 data
+
+Ringkasan keyword issue:
+- Keyword paling sering muncul: transaksi (1881 kemunculan)
+- Keyword dominan pada sentimen negatif: transfer (961 kemunculan)
+
+Kesimpulan singkat:
+Model IndoBERT sudah cukup baik secara keseluruhan. Kelas positif dan negatif memiliki performa tinggi, sedangkan kelas netral masih menjadi kelemahan utama. Kemungkinan penyebabnya adalah jumlah data netral yang sedikit, ambiguitas teks netral, dan noise dari proses labeling berbasis lexicon.

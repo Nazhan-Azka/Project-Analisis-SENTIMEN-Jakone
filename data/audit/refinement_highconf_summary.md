@@ -1,6 +1,6 @@
 # Refinement High-Confidence Summary
 
-- Master input: `data/final/jakone_modeling_master.csv`
+- Master input: `data/final/v1/jakone_modeling_master.csv`
 - Candidate input: `data/audit/label_refinement_candidates.csv`
 - Refined output: `data/final/06_jakone_modeling_refined_highconf.csv`
 - Changes output: `data/audit/refinement_highconf_changes.csv`

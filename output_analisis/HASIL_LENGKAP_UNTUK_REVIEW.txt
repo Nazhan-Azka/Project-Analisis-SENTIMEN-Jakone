@@ -1,0 +1,63 @@
+=== A. TABEL VOLUME KELUHAN PER TAHUN ===
+| tahun | total_review | jumlah_rating_1_2 | persen_rating_1_2 | jumlah_rating_4_5 | persen_rating_4_5 |
+| ----- | ------------ | ----------------- | ----------------- | ----------------- | ----------------- |
+| 2022  | 3467         | 320               | 9.23              | 3069              | 88.52             |
+| 2023  | 4358         | 1778              | 40.8              | 2315              | 53.12             |
+| 2024  | 2785         | 864               | 31.02             | 1790              | 64.27             |
+
+=== B. TABEL RATA-RATA RATING PER TAHUN ===
+| tahun | rata_rata_rating | median_rating | tren_2022_2024 |
+| ----- | ---------------- | ------------- | -------------- |
+| 2022  | 4.589            | 5             | turun          |
+| 2023  | 3.28             | 4             | turun          |
+| 2024  | 3.692            | 5             | turun          |
+
+=== C. TABEL KATA KUNCI PER TAHUN ===
+| kata_kunci | frekuensi_2022 | rank_2022 | top15_2022 | frekuensi_2023 | rank_2023 | top15_2023 | frekuensi_2024 | rank_2024 | top15_2024 | muncul_di_semua_tahun | total_frekuensi |
+| ---------- | -------------- | --------- | ---------- | -------------- | --------- | ---------- | -------------- | --------- | ---------- | --------------------- | --------------- |
+| tidak      | 71             | 1         | True       | 296            | 2         | True       | 185            | 1         | True       | True                  | 552             |
+| mau        | 43             | 10        | True       | 281            | 3         | True       | 179            | 2         | True       | True                  | 503             |
+| masuk      | 48             | 8         | True       | 255            | 5         | True       | 156            | 3         | True       | True                  | 459             |
+| malah      | 53             | 5         | True       | 280            | 4         | True       | 105            | 8         | True       | True                  | 438             |
+| padahal    | 53             | 6         | True       | 243            | 7         | True       | 110            | 6         | True       | True                  | 406             |
+| update     | 12             |           | False      | 325            | 1         | True       | 25             |           | False      | True                  | 362             |
+| tapi       | 35             | 14        | True       | 201            | 13        | True       | 124            | 5         | True       | True                  | 360             |
+| buka       | 18             |           | False      | 254            | 6         | True       | 76             |           | False      | True                  | 348             |
+| lama       | 64             | 3         | True       | 218            | 8         | True       | 62             |           | False      | True                  | 344             |
+| terus      | 40             | 11        | True       | 214            | 10        | True       | 85             | 14        | True       | True                  | 339             |
+| login      | 36             | 13        | True       | 210            | 11        | True       | 87             | 12        | True       | True                  | 333             |
+| otp        | 66             | 2         | True       | 147            |           | False      | 102            | 10        | True       | True                  | 315             |
+| susah      | 25             |           | False      | 218            | 9         | True       | 65             |           | False      | True                  | 308             |
+| tolong     | 19             |           | False      | 172            |           | False      | 110            | 7         | True       | True                  | 301             |
+| udah       | 33             |           | False      | 160            |           | False      | 105            | 9         | True       | True                  | 298             |
+| baru       | 56             | 4         | True       | 184            | 15        | True       | 56             |           | False      | True                  | 296             |
+| kenapa     | 31             |           | False      | 139            |           | False      | 98             | 11        | True       | True                  | 268             |
+| lemot      | 7              |           | False      | 203            | 12        | True       | 53             |           | False      | True                  | 263             |
+| gagal      | 46             | 9         | True       | 118            |           | False      | 87             | 13        | True       | True                  | 251             |
+| verifikasi | 37             | 12        | True       | 145            |           | False      | 50             |           | False      | True                  | 232             |
+| rekening   | 52             | 7         | True       | 96             |           | False      | 81             | 15        | True       | True                  | 229             |
+| buat       | 33             | 15        | True       | 137            |           | False      | 58             |           | False      | True                  | 228             |
+| saldo      | 18             |           | False      | 67             |           | False      | 142            | 4         | True       | True                  | 227             |
+| makin      | 8              |           | False      | 188            | 14        | True       | 28             |           | False      | True                  | 224             |
+
+=== D. CONTOH KUTIPAN PER TAHUN ===
+| tahun | rating | ulasan                                                                                                                                             | thumbsUp |
+| ----- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| 2022  | 1      | Ganti versi terbaru malah ga bisa masuk,, loading ga kelar kelar                                                                                   | 5        |
+| 2022  | 1      | Ribet keluar terus dari aplikasinya...                                                                                                             | 4        |
+| 2022  | 1      | ribet login gk bisa. daftar susah aplikasi gk jelas                                                                                                | 3        |
+| 2023  | 1      | Setiap login salah password terus padahal password udh bener !!!! Sialan buang" pulsa aja hrs reset ulang password berkali" !!!!                   | 8        |
+| 2023  | 1      | Aplikasi diperbaruin.. Malah ga bisa masuk... Verifikasi foto gagal mulu... Mempersulit sekali....!!!!!!!!                                         | 3        |
+| 2023  | 1      | kga jelas ini update an, tiap buka selalu cek jaringan... Intinya tidak buka... Sangat menggangu aktivitas saya                                    | 3        |
+| 2024  | 1      | Aplikasi terlalu berat, qris sering tidak terbaca, loading page akibat aplkasi yg terlalu berat, verifikasi wajah yg sering kali tidak terbaca!!!! | 27       |
+| 2024  | 1      | Akun mbanking saya tiba² terkunci maksudnya apa yaa? Tolong bisa di jelaskan                                                                       | 18       |
+| 2024  | 1      | Knpa ya kalo masuk jakone mobile terjadi kesalahan melulu padahal sudah pakai data bukan wifi .. Susah untuk masuk ... Malah offline server nya..  | 9        |
+
+=== E. RINGKASAN NARASI ===
+Volume keluhan rating 1-2 dari 2022 ke 2024 menunjukkan tren naik. Pada 2022 terdapat 320 keluhan dari 3467 review (9.23%). Pada 2023 jumlahnya menjadi 1778 dari 4358 review (40.80%), dan pada 2024 menjadi 864 dari 2785 review (31.02%). Sebagai pembanding, review puas rating 4-5 berada pada 88.52% pada 2022, 53.12% pada 2023, dan 64.27% pada 2024.
+
+Rata-rata rating tahunan bergerak turun dari 2022 ke 2024. Nilai mean rating adalah 4.589 pada 2022, 3.280 pada 2023, dan 3.692 pada 2024. Median rating masing-masing tahun adalah 5.000, 4.000, dan 5.000.
+
+Pada review keluhan rating 1-2, kata kunci yang konsisten muncul di seluruh periode adalah tidak, mau, masuk, malah, padahal, update, tapi, buka, lama, terus. Kata-kata ini menunjukkan isu yang berulang dalam pengalaman pengguna, terutama terkait kendala teknis, akses, atau proses transaksi jika kata tersebut berkaitan dengan fungsi aplikasi.
+
+Pola kata kunci paling menonjol per tahun adalah 2022: tidak (71), otp (66), lama (64), baru (56), malah (53); 2023: update (325), tidak (296), mau (281), malah (280), masuk (255); 2024: tidak (185), mau (179), masuk (156), saldo (142), tapi (124). Perbandingan ini dapat digunakan untuk melihat apakah masalah tertentu bertahan sepanjang waktu atau lebih dominan pada tahun tertentu.

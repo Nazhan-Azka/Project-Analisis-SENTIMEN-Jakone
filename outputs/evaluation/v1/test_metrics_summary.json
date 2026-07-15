@@ -69,11 +69,11 @@
         ]
     ],
     "output_files": [
-        "outputs/evaluation/test_classification_report.txt",
-        "outputs/evaluation/test_classification_report.csv",
-        "outputs/evaluation/test_confusion_matrix.csv",
-        "outputs/evaluation/test_metrics_summary.json",
-        "outputs/evaluation/test_predictions.csv",
-        "outputs/figures/test_confusion_matrix.png"
+        "outputs/evaluation/v1/test_classification_report.txt",
+        "outputs/evaluation/v1/test_classification_report.csv",
+        "outputs/evaluation/v1/test_confusion_matrix.csv",
+        "outputs/evaluation/v1/test_metrics_summary.json",
+        "outputs/evaluation/v1/test_predictions.csv",
+        "outputs/figures/v1/test_confusion_matrix.png"
     ]
 }

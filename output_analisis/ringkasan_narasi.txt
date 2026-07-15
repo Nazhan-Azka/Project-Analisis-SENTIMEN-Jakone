@@ -1,0 +1,7 @@
+Volume keluhan rating 1-2 dari 2022 ke 2024 menunjukkan tren naik. Pada 2022 terdapat 320 keluhan dari 3467 review (9.23%). Pada 2023 jumlahnya menjadi 1778 dari 4358 review (40.80%), dan pada 2024 menjadi 864 dari 2785 review (31.02%). Sebagai pembanding, review puas rating 4-5 berada pada 88.52% pada 2022, 53.12% pada 2023, dan 64.27% pada 2024.
+
+Rata-rata rating tahunan bergerak turun dari 2022 ke 2024. Nilai mean rating adalah 4.589 pada 2022, 3.280 pada 2023, dan 3.692 pada 2024. Median rating masing-masing tahun adalah 5.000, 4.000, dan 5.000.
+
+Pada review keluhan rating 1-2, kata kunci yang konsisten muncul di seluruh periode adalah tidak, mau, masuk, malah, padahal, update, tapi, buka, lama, terus. Kata-kata ini menunjukkan isu yang berulang dalam pengalaman pengguna, terutama terkait kendala teknis, akses, atau proses transaksi jika kata tersebut berkaitan dengan fungsi aplikasi.
+
+Pola kata kunci paling menonjol per tahun adalah 2022: tidak (71), otp (66), lama (64), baru (56), malah (53); 2023: update (325), tidak (296), mau (281), malah (280), masuk (255); 2024: tidak (185), mau (179), masuk (156), saldo (142), tapi (124). Perbandingan ini dapat digunakan untuk melihat apakah masalah tertentu bertahan sepanjang waktu atau lebih dominan pada tahun tertentu.

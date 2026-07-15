@@ -50,8 +50,22 @@ notebooks/
 
 outputs/
   evaluation/
+    indobert_v3_baseline/
+    v1/
   figures/
-  model_indobert_jakone/
+    indobert_v3_baseline/
+    v1/
+
+models/
+  indobert_v3_baseline/
+
+output_analisis/
+  tabel_volume_keluhan_per_tahun.csv
+  tabel_rata_rata_rating_per_tahun.csv
+  tabel_kata_kunci_per_tahun.csv
+  contoh_kutipan_per_tahun.csv
+  ringkasan_narasi.txt
+  HASIL_LENGKAP_UNTUK_REVIEW.txt
 
 reports/
 ```
@@ -75,7 +89,8 @@ Scraping ulasan Google Play Store
 Dataset final yang digunakan untuk pemodelan:
 
 ```text
-data/final/jakone_modeling_master.csv
+data/final/06_jakone_modeling_master_v3.csv
+data/final/v1/
 ```
 
 Ringkasan dataset:
@@ -173,34 +188,35 @@ Dataset dibagi menjadi train, validation, dan test menggunakan stratified split 
 Output tahap split:
 
 ```text
-data/final/jakone_modeling_master.csv
-outputs/evaluation/split_distribution_summary.csv
+data/final/06_jakone_modeling_master_v3.csv
+outputs/audit/distribusi_split_v3.csv
 ```
 
 ## 10. Fine-Tuning IndoBERT
 
-Model yang digunakan adalah `indobenchmark/indobert-base-p2` dengan arsitektur `BertForSequenceClassification`.
+
+
+Model yang digunakan adalah `indobenchmark/indobert-base-p1` dengan arsitektur `BertForSequenceClassification`.
 
 Konfigurasi training:
 
-| Konfigurasi                 | Nilai                           |
-| --------------------------- | ------------------------------- |
-| Model                       | indobenchmark/indobert-base-p2  |
-| Arsitektur                  | BertForSequenceClassification   |
-| Epoch maksimal              | 5                               |
-| Optimizer                   | AdamW                           |
-| Learning rate               | 2e-5                            |
-| Batch size train            | 16                              |
-| Batch size validation/test  | 32                              |
-| Class weight                | digunakan                       |
-| Early stopping              | berdasarkan validation F1 macro |
-| Best epoch                  | 5                               |
-| Validation F1 macro terbaik | 0.848772                        |
+| Konfigurasi                 | Nilai                              |
+| --------------------------- | ---------------------------------- |
+| Model                       | indobenchmark/indobert-base-p1     |
+| Arsitektur                  | BertForSequenceClassification      |
+| Epoch maksimal              | 2                                  |
+| Optimizer                   | AdamW default Hugging Face Trainer |
+| Learning rate               | 2e-5                               |
+| Batch size train            | 8                                  |
+| Batch size validation/test  | 8                                  |
+| Class weight                | tidak digunakan                    |
+| Best epoch                  | 2                                  |
+| Validation F1 macro terbaik | 0.868058                           |
 
 Training IndoBERT disarankan dijalankan menggunakan GPU, misalnya Google Colab. Output model tersimpan di:
 
 ```text
-outputs/model_indobert_jakone/
+models/indobert_v3_baseline/
 ```
 
 Isi folder model:
@@ -222,33 +238,33 @@ Ringkasan evaluasi test set:
 | Metrik           |    Nilai |
 | ---------------- | -------: |
 | Jumlah data test |    1.418 |
-| Accuracy         | 0.894922 |
-| Macro F1         | 0.819212 |
+| Accuracy         | 0.931594 |
+| Macro F1         | 0.877363 |
 
 Performa per kelas:
 
 | Label   | Precision |   Recall | F1-score | Support |
 | ------- | --------: | -------: | -------: | ------: |
-| negatif |  0.900178 | 0.908273 | 0.904208 |     556 |
-| netral  |  0.636364 | 0.614035 | 0.625000 |     114 |
-| positif |  0.929050 | 0.927807 | 0.928428 |     748 |
+| negatif |  0.878728 | 0.958785 | 0.917012 |     461 |
+| netral  |  0.822917 | 0.692982 | 0.752381 |     114 |
+| positif |  0.976801 | 0.948992 | 0.962696 |     843 |
 
 Confusion matrix:
 
 | Actual  | Predicted negatif | Predicted netral | Predicted positif |
 | ------- | ----------------: | ---------------: | ----------------: |
-| negatif |               505 |               16 |                35 |
-| netral  |                26 |               70 |                18 |
-| positif |                30 |               24 |               694 |
+| negatif |               442 |               10 |                 9 |
+| netral  |                25 |               79 |                10 |
+| positif |                36 |                7 |               800 |
 
 Output evaluasi:
 
 ```text
-outputs/evaluation/test_classification_report.txt
-outputs/evaluation/test_classification_report.csv
-outputs/evaluation/test_confusion_matrix.csv
-outputs/evaluation/test_metrics_summary.json
-outputs/evaluation/test_predictions.csv
+outputs/evaluation/indobert_v3_baseline/classification_report.csv
+outputs/evaluation/indobert_v3_baseline/confusion_matrix.csv
+outputs/evaluation/indobert_v3_baseline/test_metrics.json
+outputs/evaluation/indobert_v3_baseline/test_predictions.csv
+outputs/evaluation/indobert_v3_baseline/final_analysis_summary_v3.txt
 ```
 
 ## 12. Visualisasi dan Analisis Hasil
@@ -259,11 +275,11 @@ Ringkasan analisis akhir:
 
 | Informasi                             | Nilai                               |
 | ------------------------------------- | ----------------------------------- |
-| Prediksi benar test                   | 1.269                               |
-| Prediksi salah test                   | 149                                 |
-| Kesalahan terbanyak                   | negatif -> positif sebanyak 35 data |
+| Prediksi benar test                   | 1.321                               |
+| Prediksi salah test                   | 97                                  |
+| Kesalahan terbanyak                   | positif -> negatif sebanyak 36 data |
 | Keyword paling dominan                | transaksi dengan 1.881 kemunculan   |
-| Keyword dominan pada sentimen negatif | transfer dengan 961 kemunculan      |
+| Keyword dominan pada sentimen negatif | transfer dengan 924 kemunculan      |
 | Kelas performa terbaik                | positif                             |
 | Kelas performa terlemah               | netral                              |
 
@@ -273,6 +289,63 @@ Interpretasi singkat:
 - Kelas positif dan negatif memiliki performa tinggi.
 - Kelas netral masih menjadi kelemahan utama.
 - Kemungkinan penyebab kelemahan kelas netral adalah jumlah data netral yang sedikit, teks netral lebih ambigu, dan noise dari labeling lexicon.
+
+### Analisis Tambahan Tren Keluhan 2022-2024
+
+Selain evaluasi model IndoBERT, project ini juga dilengkapi analisis deskriptif khusus untuk melihat tren volume keluhan pengguna JakOne Mobile pada periode 2022-2024. Analisis ini menggunakan dataset:
+
+```text
+docs/Analisis Latar Belakang/jakone_reviews_2022_2024.csv
+```
+
+Analisis tambahan mencakup:
+
+- Jumlah review per tahun.
+- Jumlah dan persentase review rating 1-2 sebagai kategori keluhan.
+- Jumlah dan persentase review rating 4-5 sebagai pembanding kategori puas.
+- Rata-rata dan median rating per tahun.
+- Kata kunci keluhan rating 1-2 yang paling sering muncul per tahun.
+- Contoh kutipan ilustratif rating 1 per tahun tanpa menampilkan `userName` dan `reviewId`.
+- Grafik tren keluhan, tren rata-rata rating, dan kata kunci dominan.
+
+Ringkasan hasil analisis keluhan:
+
+| Tahun | Total review | Rating 1-2 | Persen rating 1-2 | Rating 4-5 | Persen rating 4-5 | Rata-rata rating |
+| ----- | -----------: | ---------: | ----------------: | ---------: | ----------------: | ---------------: |
+| 2022  |        3.467 |        320 |             9,23% |      3.069 |            88,52% |            4,589 |
+| 2023  |        4.358 |      1.778 |            40,80% |      2.315 |            53,12% |            3,280 |
+| 2024  |        2.785 |        864 |            31,02% |      1.790 |            64,27% |            3,692 |
+
+Temuan utama:
+
+- Persentase keluhan rating 1-2 meningkat dari 9,23% pada 2022 menjadi 31,02% pada 2024.
+- Puncak proporsi keluhan terjadi pada 2023, yaitu 40,80% dari total review tahun tersebut.
+- Rata-rata rating turun dari 4,589 pada 2022 menjadi 3,692 pada 2024, meskipun sempat membaik dari 2023 ke 2024.
+- Kata kunci keluhan yang konsisten muncul meliputi `tidak`, `mau`, `masuk`, `malah`, `padahal`, `update`, `tapi`, `buka`, `lama`, `terus`, `login`, dan `otp`.
+- Pada 2024, kata `saldo` masuk sebagai salah satu kata kunci dominan, sehingga dapat menjadi perhatian dalam pembahasan isu layanan/transaksi.
+
+Output analisis tambahan tersimpan di:
+
+```text
+output_analisis/tabel_volume_keluhan_per_tahun.csv
+output_analisis/tabel_rata_rata_rating_per_tahun.csv
+output_analisis/tabel_kata_kunci_per_tahun.csv
+output_analisis/contoh_kutipan_per_tahun.csv
+output_analisis/ringkasan_narasi.txt
+output_analisis/HASIL_LENGKAP_UNTUK_REVIEW.txt
+output_analisis/grafik_volume_keluhan_per_tahun.png
+output_analisis/grafik_tren_rata_rata_rating.png
+output_analisis/grafik_kata_kunci_2022.png
+output_analisis/grafik_kata_kunci_2023.png
+output_analisis/grafik_kata_kunci_2024.png
+```
+
+Script yang digunakan:
+
+```text
+analisis_jakone_reviews.py
+gabungkan_hasil_review.py
+```
 
 ## 13. Cara Menjalankan Project
 
@@ -297,12 +370,20 @@ python src/08_evaluate_indobert.py
 python src/09_visualization_analysis.py
 ```
 
+Jalankan analisis tambahan tren keluhan 2022-2024:
+
+```bash
+python analisis_jakone_reviews.py
+python gabungkan_hasil_review.py
+```
+
 Catatan:
 
 - Jika dataset dan model sudah tersedia, tidak perlu menjalankan semua tahap dari awal.
 - Fine-tuning IndoBERT sebaiknya dijalankan di GPU.
 - Evaluasi model juga lebih cepat jika dijalankan di GPU.
-- Output model tersimpan di `outputs/model_indobert_jakone/`.
+- Output model v3 tersimpan di `models/indobert_v3_baseline/`.
+- Artefak eksperimen lama disimpan sebagai arsip di folder `v1`.
 - Pada workspace ini, file referensi `outputs/evaluation/manual_validation_summary.txt` dan `outputs/evaluation/manual_validation_summary.csv` tidak tersedia, sehingga ringkasan validasi manual ditulis berdasarkan hasil audit manual yang sudah diberikan.
 
 ## 14. Output Penting
@@ -312,20 +393,30 @@ data/raw/jakone_reviews_raw.csv
 data/processed/jakone_reviews_clean.csv
 data/processed/jakone_reviews_labeled.csv
 data/processed/lexicon_validation_sample.csv
-data/final/jakone_modeling_master.csv
+data/final/06_jakone_modeling_master_v3.csv
 
-outputs/model_indobert_jakone/
-outputs/evaluation/training_log.csv
-outputs/evaluation/test_classification_report.txt
-outputs/evaluation/test_classification_report.csv
-outputs/evaluation/test_confusion_matrix.csv
-outputs/evaluation/test_metrics_summary.json
-outputs/evaluation/test_predictions.csv
-outputs/evaluation/final_analysis_summary.txt
-outputs/evaluation/misclassified_predictions.csv
-outputs/evaluation/keyword_issue_summary.csv
-outputs/evaluation/keyword_issue_by_label.csv
-outputs/figures/
+models/indobert_v3_baseline/
+outputs/modeling/indobert_v3_baseline/training_log.json
+outputs/evaluation/indobert_v3_baseline/classification_report.csv
+outputs/evaluation/indobert_v3_baseline/confusion_matrix.csv
+outputs/evaluation/indobert_v3_baseline/test_metrics.json
+outputs/evaluation/indobert_v3_baseline/test_predictions.csv
+outputs/evaluation/indobert_v3_baseline/final_analysis_summary_v3.txt
+outputs/analysis/indobert_v3_baseline/keyword_issue_summary_v3.csv
+outputs/analysis/indobert_v3_baseline/keyword_issue_by_label_v3.csv
+outputs/figures/indobert_v3_baseline/confusion_matrix_v3.png
+outputs/figures/indobert_v3_baseline/wordcloud_*.png
+outputs/evaluation/v1/
+outputs/figures/v1/
+data/final/v1/
+
+output_analisis/tabel_volume_keluhan_per_tahun.csv
+output_analisis/tabel_rata_rata_rating_per_tahun.csv
+output_analisis/tabel_kata_kunci_per_tahun.csv
+output_analisis/contoh_kutipan_per_tahun.csv
+output_analisis/ringkasan_narasi.txt
+output_analisis/HASIL_LENGKAP_UNTUK_REVIEW.txt
+output_analisis/*.png
 ```
 
 ## Dashboard Streamlit

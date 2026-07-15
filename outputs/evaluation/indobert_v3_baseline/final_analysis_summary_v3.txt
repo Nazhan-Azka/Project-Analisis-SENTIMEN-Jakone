@@ -1,0 +1,29 @@
+Ringkasan Analisis IndoBERT V3 Baseline
+============================================
+
+Sumber artifact: outputs/evaluation/indobert_v3_baseline
+Dataset: data/final/06_jakone_modeling_master_v3.csv
+Model: models/indobert_v3_baseline
+
+Jumlah data test: 1418
+Accuracy: 0.931594
+Macro F1: 0.877363
+Weighted F1: 0.930935
+
+Distribusi label aktual test:
+- negatif: 461
+- netral: 114
+- positif: 843
+
+Classification report:
+- negatif: precision=0.878728, recall=0.958785, f1-score=0.917012, support=461
+- netral: precision=0.822917, recall=0.692982, f1-score=0.752381, support=114
+- positif: precision=0.976801, recall=0.948992, f1-score=0.962696, support=843
+
+Confusion matrix (baris=aktual, kolom=prediksi):
+         negatif  netral  positif
+negatif      442      10        9
+netral        25      79       10
+positif       36       7      800
+
+Catatan: file ini adalah ringkasan v3. Artefak v1/lama sudah dipisahkan ke folder v1.

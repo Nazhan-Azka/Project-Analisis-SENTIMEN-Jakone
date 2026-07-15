@@ -1,0 +1,36 @@
+﻿tahun,kategori_keluhan,jumlah_ulasan_rating_1_2,jumlah_keluhan_kategori,persen_dari_rating_rendah
+2022,OTP/verifikasi/registrasi,321,108,33.64
+2022,Login/akses aplikasi,321,106,33.02
+2022,Saldo/mutasi/refund terpotong,321,65,20.25
+2022,Akun/rekening/PIN/password,321,65,20.25
+2022,Transfer/transaksi/QRIS/top up,321,62,19.31
+2022,Lemot/loading/performa aplikasi,321,59,18.38
+2022,Update/versi aplikasi,321,41,12.77
+2023,Login/akses aplikasi,1781,761,42.73
+2023,Lemot/loading/performa aplikasi,1781,525,29.48
+2023,Update/versi aplikasi,1781,431,24.2
+2023,OTP/verifikasi/registrasi,1781,352,19.76
+2023,Saldo/mutasi/refund terpotong,1781,333,18.7
+2023,Transfer/transaksi/QRIS/top up,1781,254,14.26
+2023,Akun/rekening/PIN/password,1781,174,9.77
+2024,Login/akses aplikasi,866,380,43.88
+2024,Transfer/transaksi/QRIS/top up,866,265,30.6
+2024,Saldo/mutasi/refund terpotong,866,259,29.91
+2024,OTP/verifikasi/registrasi,866,186,21.48
+2024,Lemot/loading/performa aplikasi,866,142,16.4
+2024,Akun/rekening/PIN/password,866,130,15.01
+2024,Update/versi aplikasi,866,61,7.04
+2025,Transfer/transaksi/QRIS/top up,2304,1102,47.83
+2025,Login/akses aplikasi,2304,759,32.94
+2025,Saldo/mutasi/refund terpotong,2304,560,24.31
+2025,OTP/verifikasi/registrasi,2304,233,10.11
+2025,Akun/rekening/PIN/password,2304,184,7.99
+2025,Lemot/loading/performa aplikasi,2304,174,7.55
+2025,Update/versi aplikasi,2304,96,4.17
+2026,Login/akses aplikasi,209,96,45.93
+2026,Saldo/mutasi/refund terpotong,209,84,40.19
+2026,Transfer/transaksi/QRIS/top up,209,75,35.89
+2026,OTP/verifikasi/registrasi,209,45,21.53
+2026,Lemot/loading/performa aplikasi,209,40,19.14
+2026,Akun/rekening/PIN/password,209,28,13.4
+2026,Update/versi aplikasi,209,7,3.35

@@ -30,13 +30,13 @@ if hasattr(sys.stderr, "reconfigure"):
     sys.stderr.reconfigure(encoding="utf-8")
 
 
-DATASET_PATH = "data/final/jakone_modeling_master.csv"
-TRAINING_LOG_PATH = "outputs/evaluation/training_log.csv"
-CLASSIFICATION_REPORT_PATH = "outputs/evaluation/test_classification_report.csv"
-CONFUSION_MATRIX_PATH = "outputs/evaluation/test_confusion_matrix.csv"
-METRICS_SUMMARY_PATH = "outputs/evaluation/test_metrics_summary.json"
-TEST_PREDICTIONS_PATH = "outputs/evaluation/test_predictions.csv"
-SPLIT_SUMMARY_PATH = "outputs/evaluation/split_distribution_summary.csv"
+DATASET_PATH = "data/final/v1/jakone_modeling_master.csv"
+TRAINING_LOG_PATH = "outputs/evaluation/v1/training_log.csv"
+CLASSIFICATION_REPORT_PATH = "outputs/evaluation/v1/test_classification_report.csv"
+CONFUSION_MATRIX_PATH = "outputs/evaluation/v1/test_confusion_matrix.csv"
+METRICS_SUMMARY_PATH = "outputs/evaluation/v1/test_metrics_summary.json"
+TEST_PREDICTIONS_PATH = "outputs/evaluation/v1/test_predictions.csv"
+SPLIT_SUMMARY_PATH = "outputs/evaluation/v1/split_distribution_summary.csv"
 
 FIGURES_DIR = "outputs/figures"
 EVALUATION_DIR = "outputs/evaluation"
@@ -66,29 +66,29 @@ KEYWORDS = [
 ]
 
 FIGURE_PATHS = {
-    "distribution_label_sentiment": "outputs/figures/distribution_label_sentiment.png",
-    "distribution_reviews_by_year": "outputs/figures/distribution_reviews_by_year.png",
-    "distribution_rating": "outputs/figures/distribution_rating.png",
-    "distribution_split_set": "outputs/figures/distribution_split_set.png",
-    "training_loss_curve": "outputs/figures/training_loss_curve.png",
-    "validation_f1_macro_curve": "outputs/figures/validation_f1_macro_curve.png",
-    "validation_accuracy_curve": "outputs/figures/validation_accuracy_curve.png",
-    "final_confusion_matrix": "outputs/figures/final_confusion_matrix.png",
-    "classification_metrics_per_class": "outputs/figures/classification_metrics_per_class.png",
-    "misclassification_by_pair": "outputs/figures/misclassification_by_pair.png",
-    "top_keyword_issues": "outputs/figures/top_keyword_issues.png",
-    "top_negative_keyword_issues": "outputs/figures/top_negative_keyword_issues.png",
-    "wordcloud_positif": "outputs/figures/wordcloud_positif.png",
-    "wordcloud_negatif": "outputs/figures/wordcloud_negatif.png",
-    "wordcloud_netral": "outputs/figures/wordcloud_netral.png",
+    "distribution_label_sentiment": "outputs/figures/v1/distribution_label_sentiment.png",
+    "distribution_reviews_by_year": "outputs/figures/v1/distribution_reviews_by_year.png",
+    "distribution_rating": "outputs/figures/v1/distribution_rating.png",
+    "distribution_split_set": "outputs/figures/v1/distribution_split_set.png",
+    "training_loss_curve": "outputs/figures/v1/training_loss_curve.png",
+    "validation_f1_macro_curve": "outputs/figures/v1/validation_f1_macro_curve.png",
+    "validation_accuracy_curve": "outputs/figures/v1/validation_accuracy_curve.png",
+    "final_confusion_matrix": "outputs/figures/v1/final_confusion_matrix.png",
+    "classification_metrics_per_class": "outputs/figures/v1/classification_metrics_per_class.png",
+    "misclassification_by_pair": "outputs/figures/v1/misclassification_by_pair.png",
+    "top_keyword_issues": "outputs/figures/v1/top_keyword_issues.png",
+    "top_negative_keyword_issues": "outputs/figures/v1/top_negative_keyword_issues.png",
+    "wordcloud_positif": "outputs/figures/v1/wordcloud_positif.png",
+    "wordcloud_negatif": "outputs/figures/v1/wordcloud_negatif.png",
+    "wordcloud_netral": "outputs/figures/v1/wordcloud_netral.png",
 }
 
 ANALYSIS_PATHS = {
-    "misclassified_predictions": "outputs/evaluation/misclassified_predictions.csv",
-    "misclassification_summary": "outputs/evaluation/misclassification_summary.csv",
-    "keyword_issue_summary": "outputs/evaluation/keyword_issue_summary.csv",
-    "keyword_issue_by_label": "outputs/evaluation/keyword_issue_by_label.csv",
-    "final_analysis_summary": "outputs/evaluation/final_analysis_summary.txt",
+    "misclassified_predictions": "outputs/evaluation/v1/misclassified_predictions.csv",
+    "misclassification_summary": "outputs/evaluation/v1/misclassification_summary.csv",
+    "keyword_issue_summary": "outputs/evaluation/v1/keyword_issue_summary.csv",
+    "keyword_issue_by_label": "outputs/evaluation/v1/keyword_issue_by_label.csv",
+    "final_analysis_summary": "outputs/evaluation/v1/final_analysis_summary.txt",
 }
 
 REQUIRED_INPUTS = [

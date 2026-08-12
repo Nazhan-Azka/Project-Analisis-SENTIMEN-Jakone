@@ -194,9 +194,7 @@ outputs/audit/distribusi_split_v3.csv
 
 ## 10. Fine-Tuning IndoBERT
 
-
-
-Model yang digunakan adalah `indobenchmark/indobert-base-p1` dengan arsitektur `BertForSequenceClassification`.
+  Model yang digunakan adalah `indobenchmark/indobert-base-p1` dengan arsitektur `BertForSequenceClassification`.
 
 Konfigurasi training:
 
